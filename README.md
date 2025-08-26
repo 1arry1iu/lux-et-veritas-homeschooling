@@ -1,1 +1,1 @@
-# lux-et-veritas
+# Lux et Veritas
