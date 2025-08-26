@@ -20,8 +20,7 @@
 | Senior Secondary / 高中 | [IB-DP / IB 文凭项目](https://www.ibo.org/programmes/diploma-programme/) | Universal / 通用 |
 | Senior Secondary / 高中 | [A Levels / A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK / 英制 |
 | Senior Secondary / 高中 | Registration with Thai authority / 向泰国监管当局注册 | Thai / 泰制 |
-| Tertiary / 大学 | [University of the People / 人民大学](https://www.uopeople.edu/) | US / 美制 |
-| Graduate / 研究生 | [University of the People / 人民大学](https://www.uopeople.edu/) | US / 美制 |
+| Tertiary / 高等教育 | [University of the People / 人民大学](https://www.uopeople.edu/) | US / 美制 |
 
 ## Chiang Mai / 清迈
 
