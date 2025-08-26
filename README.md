@@ -6,6 +6,7 @@
 
 | Level / 等级 | Curriculum / 课程体系 | System / 学制 |
 |---|---|---|
+| Early years / 早教 | [Montessori Early Childhood Program / 蒙特梭利早教项目](https://www.montessori.org/wp-content/uploads/2021/09/Montessori-Curriculum-Scope-and-Sequence.pdf) | Montessori / 蒙特梭利 |
 | Primary / 小学 | [Singapore primary school / 新加坡小学](https://www.moe.gov.sg/primary/curriculum/syllabus) | Singapore / 新加坡制 |
 | Secondary / 中学 | [Singapore secondary school / 新加坡中学](https://www.moe.gov.sg/secondary/schools-offering-full-sbb/syllabus) | Singapore / 新加坡制 |
 | Junior Secondary / 初中 | [Edexcel GCSEs / 爱徳思 GCSE](https://qualifications.pearson.com/en/qualifications/edexcel-gcses.html) | UK / 英制 |
