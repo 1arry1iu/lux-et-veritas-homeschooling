@@ -6,8 +6,10 @@
 
 | Level / 等级 | Curriculum / 课程体系 | System / 学制 |
 |---|---|---|
-| Junior Secondary / 初中 | [Edexcel GCSEs](https://qualifications.pearson.com/en/qualifications/edexcel-gcses.html) | UK / 英制 |
+| Junior Secondary / 初中 | [Edexcel GCSEs / 爱徳思 GCSE](https://qualifications.pearson.com/en/qualifications/edexcel-gcses.html) | UK / 英制 |
+| Junior Secondary / 初中 | [Cambridge IGCSE / 剑桥国际 GCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/) | UK / 英制 |
 | Senior Secondary / 高中 | [Edexcel A Levels / 爱徳思 A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK / 英制 |
+| Senior Secondary / 高中 | [Cambridge International AS and A Levels / 剑桥国际 AS 和 A 水准](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-advanced/cambridge-international-as-and-a-levels/) | UK / 英制 |
 
 ## Resources / 资源
 
