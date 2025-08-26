@@ -4,12 +4,17 @@
 
 | Level / 等级 | Test or Qualification / 测试或证书 | 学制 |
 |---|---|---|
-| Primary School / 小学 | Registration with Thai authority / 向泰国监管当局注册 | Thai / 泰制 |
-| Middle School / 初中 | [GCSEs](https://qualifications.pearson.com/en/qualifications/edexcel-gcses.html) | UK / 英制 |
-| Middle School / 中学 | Registration with Thai authority / 向泰国监管当局注册 | Thai / 泰制 |
-| High School / 高中 | [GED](https://www.ged.com/en/) | Universal / 通用 |
-| High Schools / 高中 | [A Levels / A水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK / 英制 |
-| High School / 高中 | Registration with Thai authority / 向泰国监管当局注册 | Thai / 泰制 |
+| Primary / 小学 | [IB-PYP / IB 小学项目](https://www.ibo.org/programmes/primary-years-programme/) | Universal / 通用 |
+| Primary / 小学 | Registration with Thai authority / 向泰国监管当局注册 | Thai / 泰制 |
+| Junior Secondary / 初中 | [IB-MYP / IB 初中项目](https://www.ibo.org/programmes/middle-years-programme/) | Universal / 通用 |
+| Junior Secondary / 初中 | [GCSEs](https://qualifications.pearson.com/en/qualifications/edexcel-gcses.html) | UK / 英制 |
+| Junior Secondary / 中学 | Registration with Thai authority / 向泰国监管当局注册 | Thai / 泰制 |
+| Senior Secondary / 高中 | [GED](https://www.ged.com/en/) | Universal / 通用 |
+| Senior Secondary / 高中 | [IB-DP / IB 文凭项目](https://www.ibo.org/programmes/diploma-programme/) | Universal / 通用 |
+| Senior Secondary / 高中 | [A Levels / A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK / 英制 |
+| Senior Secondary / 高中 | Registration with Thai authority / 向泰国监管当局注册 | Thai / 泰制 |
+| Tertiary / 大学 | [University of the People / 人民大学](https://www.uopeople.edu/) | US / 美制 |
+| Graduate / 研究生 | [University of the People / 人民大学](https://www.uopeople.edu/) | US / 美制 |
 
 ## Family-friendly Venues in Chiang Mai / 清迈家庭友好场所
 
