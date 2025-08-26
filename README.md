@@ -16,6 +16,13 @@
 | Tertiary / 大学 | [University of the People / 人民大学](https://www.uopeople.edu/) | US / 美制 |
 | Graduate / 研究生 | [University of the People / 人民大学](https://www.uopeople.edu/) | US / 美制 |
 
+## Virtual Schools / 网校
+
+| Level / 等级 | School / 学校 |
+|---|---|
+| Higher Primary / 小学高龄段 | [Astra Nova School](https://www.astranova.org/) |
+| Junior Secondary / 初中 | [Astra Nova School](https://www.astranova.org/) |
+
 ## Family-friendly Venues in Chiang Mai / 清迈家庭友好场所
 
 | Category / 类别 | Venue / 地点 |
