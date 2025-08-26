@@ -22,6 +22,7 @@
 | Books and papers / 书和论文 | [Anna's Archive](https://annas-archive.org/) ||
 | Synchronous virtual education / 同步网校 | [Astra Nova School](https://www.astranova.org/) | Founded by Elon Musk / 埃隆·马斯克创建 |
 | Asynchronous virtual education / 异步网校 | [Khan Academy / 可汗学院](https://www.khanacademy.org/) | K-12 tutoring / 幼小初高教辅 |
+| Past papers / 历年真题 | [Singapore school test papers / 新加坡学校历年真题](https://freetestpaper.com/) ||
 
 ## Equivalency Tests and Qualifications / 等同学历测试和证书
 
