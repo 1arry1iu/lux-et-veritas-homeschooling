@@ -37,4 +37,4 @@
 
 ## Contact me / 联系我
 
-X: [@_lux_veritas_](https://x.com/_lux_veritas_)
+X: [Lux et Veritas Homeschooling](https://x.com/_lux_veritas_)
