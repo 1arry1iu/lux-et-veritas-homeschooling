@@ -1,3 +1,5 @@
+![](https://github.com/1arry1iu/lux-et-veritas-homeschooling/blob/main/images/lux-et-veritas-landscape.png)
+
 # Lux et Veritas Homeschooling / 光与真理家庭学校教育
 
 ## Resources
