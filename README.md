@@ -2,7 +2,14 @@
 
 # Lux et Veritas Homeschooling / 光与真理家庭学校教育
 
-## Resources
+## Curricula / 课程体系
+
+| Level / 等级 | Curriculum / 课程体系 | System / 学制 |
+|---|---|---|
+| Junior Secondary / 初中 | [Edexcel GCSEs](https://qualifications.pearson.com/en/qualifications/edexcel-gcses.html) | UK / 英制 |
+| Senior Secondary / 高中 | [Edexcel A Levels / 爱徳思 A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK / 英制 |
+
+## Resources / 资源
 
 | Category / 类别 | Resource / 资源 | Misc. / 备注 |
 |---|---|---|
@@ -14,16 +21,16 @@
 
 ## Equivalency Tests and Qualifications / 等同学历测试和证书
 
-| Level / 等级 | Test or Qualification / 测试或证书 | 学制 |
+| Level / 等级 | Test or Qualification / 测试或证书 | System / 学制 |
 |---|---|---|
 | Primary / 小学 | [IB-PYP / IB 小学项目](https://www.ibo.org/programmes/primary-years-programme/) | Universal / 通用 |
 | Primary / 小学 | Registration with Thai authority / 向泰国监管当局注册 | Thai / 泰制 |
 | Junior Secondary / 初中 | [IB-MYP / IB 初中项目](https://www.ibo.org/programmes/middle-years-programme/) | Universal / 通用 |
-| Junior Secondary / 初中 | [GCSEs](https://qualifications.pearson.com/en/qualifications/edexcel-gcses.html) | UK / 英制 |
+| Junior Secondary / 初中 | [Edexcel GCSEs / 爱徳思 GCSE](https://qualifications.pearson.com/en/qualifications/edexcel-gcses.html) | UK / 英制 |
 | Junior Secondary / 中学 | Registration with Thai authority / 向泰国监管当局注册 | Thai / 泰制 |
 | Senior Secondary / 高中 | [GED](https://www.ged.com/en/) | Universal / 通用 |
 | Senior Secondary / 高中 | [IB-DP / IB 文凭项目](https://www.ibo.org/programmes/diploma-programme/) | Universal / 通用 |
-| Senior Secondary / 高中 | [A Levels / A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK / 英制 |
+| Senior Secondary / 高中 | [Edexcel A Levels / 爱徳思 A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK / 英制 |
 | Senior Secondary / 高中 | Registration with Thai authority / 向泰国监管当局注册 | Thai / 泰制 |
 | Tertiary / 高等教育 | [University of the People / 人民大学](https://www.uopeople.edu/) | US / 美制 |
 
