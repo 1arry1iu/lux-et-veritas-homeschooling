@@ -1,5 +1,12 @@
 # Lux et Veritas Homeschooling / 光与真理家庭学校教育
 
+## Resources
+
+| Category / 类别 | Resource / 资源 | Misc. / 备注 |
+|---|---|---|
+| Synchronous virtual education / 同步网校 | [Astra Nova School](https://www.astranova.org/) | Founded by Elon Musk / 埃隆·马斯克创建 |
+| Asynchronous virtual education / 异步网校 | [Khan Academy / 可汗学院](https://www.khanacademy.org/) | K-12 tutoring / 幼小初高教辅 |
+
 ## Equivalency Tests and Qualifications / 等同学历测试和证书
 
 | Level / 等级 | Test or Qualification / 测试或证书 | 学制 |
@@ -16,14 +23,9 @@
 | Tertiary / 大学 | [University of the People / 人民大学](https://www.uopeople.edu/) | US / 美制 |
 | Graduate / 研究生 | [University of the People / 人民大学](https://www.uopeople.edu/) | US / 美制 |
 
-## Virtual Schools / 网校
+## Chiang Mai / 清迈
 
-| Level / 等级 | School / 学校 |
-|---|---|
-| Higher Primary / 小学高龄段 | [Astra Nova School](https://www.astranova.org/) |
-| Junior Secondary / 初中 | [Astra Nova School](https://www.astranova.org/) |
-
-## Family-friendly Venues in Chiang Mai / 清迈家庭友好场所
+### Family-friendly Venues / 家庭友好场所
 
 | Category / 类别 | Venue / 地点 |
 |---|---|
