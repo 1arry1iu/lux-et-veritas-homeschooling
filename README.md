@@ -11,7 +11,7 @@
 | High Schools / 高中 | [A Levels / A水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK / 英制 |
 | High School / 高中 | Registration with Thai authority / 向泰国监管当局注册 | Thai / 泰制 |
 
-## Family-friendly Venues / 家庭友好场所
+## Family-friendly Venues in Chiang Mai / 清迈家庭友好场所
 
 | Category / 类别 | Venue / 地点 |
 |---|---|
