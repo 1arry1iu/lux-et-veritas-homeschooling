@@ -7,7 +7,7 @@
 | Category / 类别 | Resource / 资源 | Misc. / 备注 |
 |---|---|---|
 | Books / 书 | [Library Genesis](https://libgen.li/) ||
-| Papers / 论文 | [Sci-Hub](https://www.sci-hub.ru/ ||
+| Papers / 论文 | [Sci-Hub](https://www.sci-hub.ru/) ||
 | Books and papers / 书和论文 | [Anna's Archive](https://annas-archive.org/) ||
 | Synchronous virtual education / 同步网校 | [Astra Nova School](https://www.astranova.org/) | Founded by Elon Musk / 埃隆·马斯克创建 |
 | Asynchronous virtual education / 异步网校 | [Khan Academy / 可汗学院](https://www.khanacademy.org/) | K-12 tutoring / 幼小初高教辅 |
