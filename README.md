@@ -44,9 +44,7 @@
 
 ### Family-friendly Venues / 家庭友好场所
 
-| Category / 类别 | Venue / 地点 |
-|---|---|
-| Temple / 庙宇 | [Wat Sri Don Moon](https://maps.app.goo.gl/nYUPTamv3HmmnN548) |
+[Chiang Mai Life / 清迈生活地图](https://www.google.com/maps/d/u/0/edit?mid=1Sm54BUI7Ddt5hjqRUktFB-sX6eiwSHQ&usp=sharing)
 
 ## Contact me / 联系我
 
