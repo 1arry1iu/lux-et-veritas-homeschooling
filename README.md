@@ -42,6 +42,7 @@
 
 ## Chiang Mai / 清迈
 
+- [Chiang Mai International and Bilingual Schools | 清迈国际学校和泰制双语项目学校](https://github.com/1arry1iu/lux-et-veritas-homeschooling/blob/main/content/chiang-mai-schools.md)
 - [Chiang Mai School Calendar | 清迈幼小初高学校日历](https://calendar.google.com/calendar/embed?src=33dbf34a05555c9a2755c92bdaddf8164a4822544c690ac37bdd113ff9129d90%40group.calendar.google.com&ctz=Asia%2FBangkok)
 - [Chiang Mai Life / 清迈生活地图](https://www.google.com/maps/d/u/0/edit?mid=1Sm54BUI7Ddt5hjqRUktFB-sX6eiwSHQ&usp=sharing)
 
