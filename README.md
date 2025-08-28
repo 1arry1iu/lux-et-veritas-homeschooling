@@ -2,6 +2,10 @@
 
 # Lux et Veritas Homeschooling <br /> 光与真理家庭学校教育
 
+## Quck Start <br /> 快速上手
+
+Montessori > Singapore Primary and Secondary Programs > ( GED + SAT/ACT/CLT + AP ) V ( Edexcel A Levels) 
+
 ## Curricula and Equivalency Qualifications <br /> 课程体系和同等学历证书
 
 | Level <br /> 等级 | Curriculum <br /> 课程体系 | System <br /> 学制 | Equivalency Qualification <br /> 同等学历证书 |
