@@ -29,6 +29,7 @@
 || [Edexcel A Levels <br /> 爱徳思 A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK <br /> 英制 |
 || Registration with Thai Authority <br /> 向泰国监管当局注册 | Thailand <br /> 泰制 |
 | Tertiary <br /> 大学 | [University of the People <br /> 人民大学](https://www.uopeople.edu/) | US <br /> 美制 |
+|| [Open Source Society University <br /> 开源社会大学](https://ossu.thinkific.com/) | Universal <br /> 通用 |
 
 ## Resources <br /> 资源
 
