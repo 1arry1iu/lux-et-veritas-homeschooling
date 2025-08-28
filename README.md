@@ -22,6 +22,7 @@
 || [IB-DP <br /> IB 文凭项目](https://www.ibo.org/programmes/diploma-programme/) | Universal <br /> 通用 | Hybrid Program <br /> 混合项目 |
 || Thai Senior Secondary School Program <br /> 泰国高中项目 | Thailand <br /> 泰制 | Registration with Thai Authority <br /> 向泰国监管当局注册 |
 || [Singapore Senior Secondary School Program <br /> 新加坡高中项目](https://www.moe.gov.sg/secondary/schools-offering-full-sbb/syllabus) | Singapore <br /> 新加坡制 | None <br /> 无 |
+|| [Chinese Senior Secondary School Program <br /> 中国普通高中项目](http://www.moe.gov.cn/srcsite/A26/s8001/201801/t20180115_324647.html) | China <br /> 中国制 | None <br /> 无 |
 || [Cambridge International AS & A Levels <br /> 剑桥国际 AS 和 A 水准](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-advanced/cambridge-international-as-and-a-levels/) | UK <br /> 英制 | None <br /> 无 |
 | Tertiary <br /> 大学 | [University of the People <br /> 人民大学](https://www.uopeople.edu/) | US <br /> 美制 | Virtual <br /> 网校 |
 || [St John's College Great Books Curriculum <br /> 圣约翰学院好书课程体系](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) | Universal <br /> 通用 | None <br /> 无 |
