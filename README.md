@@ -2,34 +2,27 @@
 
 # Lux et Veritas Homeschooling <br /> 光与真理家庭学校教育
 
-## Curricula <br /> 课程体系
+## Curricula and Equivalency Qualifications <br /> 课程体系和同等学历
 
-| Level <br /> 等级 | Curriculum <br /> 课程体系 | System <br /> 学制 |
-|---|---|---|
-| Early Years <br /> 早教 | [Montessori Early Childhood Program <br /> 蒙特梭利早教项目](https://www.montessori.org/wp-content/uploads/2021/09/Montessori-Curriculum-Scope-and-Sequence.pdf) | Montessori <br /> 蒙特梭利 |
-| Primary <br /> 小学 | [Singapore primary school <br /> 新加坡小学](https://www.moe.gov.sg/primary/curriculum/syllabus) | Singapore <br /> 新加坡制 |
-| Secondary <br /> 中学 | [Singapore secondary school <br /> 新加坡中学](https://www.moe.gov.sg/secondary/schools-offering-full-sbb/syllabus) | Singapore <br /> 新加坡制 |
-| Junior Secondary <br /> 初中 | [Edexcel GCSEs <br /> 爱徳思 GCSE](https://qualifications.pearson.com/en/qualifications/edexcel-gcses.html) | UK <br /> 英制 |
-|| [Cambridge IGCSE <br /> 剑桥国际 GCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/) | UK <br /> 英制 |
-| Senior Secondary <br /> 高中 | [Edexcel A Levels <br /> 爱徳思 A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK <br /> 英制 |
-|| [Cambridge International AS & A Levels <br /> 剑桥国际 AS 和 A 水准](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-advanced/cambridge-international-as-and-a-levels/) | UK <br /> 英制 |
-| Tertiary <br /> 大学 | [St John's College Great Books Curriculum <br /> 圣约翰学院好书课程体系](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) | Universal <br /> 通用 |
-|| [Open Source Society University <br /> 开源社会大学](https://ossu.thinkific.com/) | Universal <br /> 通用 |
-
-## Equivalency Tests and Qualifications <br /> 等同学历测试和证书
-
-| Level <br /> 等级 | Test or Qualification <br /> 测试或证书 | System <br /> 学制 |
-|---|---|---|
-| Primary <br /> 小学 | [IB-PYP <br /> IB 小学项目](https://www.ibo.org/programmes/primary-years-programme/) | Universal <br /> 通用 |
-|| Registration with Thai Authority <br /> 向泰国监管当局注册 | Thailand <br /> 泰制 |
-| Junior Secondary <br /> 初中 | [IB-MYP <br /> IB 初中项目](https://www.ibo.org/programmes/middle-years-programme/) | Universal <br /> 通用 |
-|| [Edexcel GCSEs <br /> 爱徳思 GCSE](https://qualifications.pearson.com/en/qualifications/edexcel-gcses.html) | UK <br /> 英制 |
-|| Registration with Thai Authority <br /> 向泰国监管当局注册 | Thailand <br /> 泰制 |
-| Senior Secondary <br /> 高中 | [GED](https://www.ged.com/en/) | Universal <br /> 通用 |
-|| [IB-DP <br /> IB 文凭项目](https://www.ibo.org/programmes/diploma-programme/) | Universal <br /> 通用 |
-|| [Edexcel A Levels <br /> 爱徳思 A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK <br /> 英制 |
-|| Registration with Thai Authority <br /> 向泰国监管当局注册 | Thailand <br /> 泰制 |
-| Tertiary <br /> 大学 | [University of the People <br /> 人民大学](https://www.uopeople.edu/) | US <br /> 美制 |
+| Level <br /> 等级 | Curriculum <br /> 课程体系 | System <br /> 学制 | Equivalency Qualification <br /> 同等学历 |
+|---|---|---|---|
+| Early Years <br /> 早教 | [Montessori Early Childhood Program <br /> 蒙特梭利早教项目](https://www.montessori.org/wp-content/uploads/2021/09/Montessori-Curriculum-Scope-and-Sequence.pdf) | Montessori <br /> 蒙特梭利 | - |
+| Primary <br /> 小学 | [IB-PYP <br /> IB 小学项目](https://www.ibo.org/programmes/primary-years-programme/) | Universal <br /> 通用 | Hybrid <br /> 混合 |
+|| Thai Primary School <br /> 泰国小学 | Thailand <br /> 泰制 | Registration with Thai authority <br /> 向泰国监管当局注册 |
+|| [Singapore Primary School <br /> 新加坡小学](https://www.moe.gov.sg/primary/curriculum/syllabus) | Singapore <br /> 新加坡制 | - |
+| Secondary <br /> 中学 | [Singapore Secondary School <br /> 新加坡中学](https://www.moe.gov.sg/secondary/schools-offering-full-sbb/syllabus) | Singapore <br /> 新加坡制 | - |
+| Junior Secondary <br /> 初中 | [Edexcel GCSEs <br /> 爱徳思 GCSE](https://qualifications.pearson.com/en/qualifications/edexcel-gcses.html) | UK <br /> 英制 | GCSE |
+|| [IB-MYP <br /> IB 初中项目](https://www.ibo.org/programmes/middle-years-programme/) | Universal <br /> 通用 | Hybrid <br /> 混合 |
+|| Thai Junior Secondary School <br /> 泰国初中 | Thailand <br /> 泰制 | Registration with Thai authority <br /> 向泰国监管当局注册 |
+|| [Cambridge IGCSE <br /> 剑桥国际 GCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/) | UK <br /> 英制 | - |
+| Senior Secondary <br /> 高中 | [GED](https://www.ged.com/en/) | Universal <br /> 通用 | Standardized Tests <br /> 标准化测试 |
+|| [Edexcel A Levels <br /> 爱徳思 A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK <br /> 英制 | A Levels <br /> A 水准 |
+|| [IB-DP <br /> IB 文凭项目](https://www.ibo.org/programmes/diploma-programme/) | Universal <br /> 通用 | Hybrid <br /> 混合 |
+|| Thai High School <br /> 泰国高中 | Thailand <br /> 泰制 | Registration with Thai authority <br /> 向泰国监管当局注册 |
+|| [Cambridge International AS & A Levels <br /> 剑桥国际 AS 和 A 水准](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-advanced/cambridge-international-as-and-a-levels/) | UK <br /> 英制 | - |
+| Tertiary <br /> 大学 | [University of the People <br /> 人民大学](https://www.uopeople.edu/) | US <br /> 美制 | Virtual <br /> 网校 |
+|| [St John's College Great Books Curriculum <br /> 圣约翰学院好书课程体系](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) | Universal <br /> 通用 | - |
+|| [Open Source Society University <br /> 开源社会大学](https://ossu.thinkific.com/) | Universal <br /> 通用 | - |
 
 ## Resources <br /> 资源
 
@@ -37,11 +30,11 @@
 |---|---|---|
 | Books <br /> 书 | [Anna's Archive](https://annas-archive.org/) ||
 || [Library Genesis](https://libgen.li/) ||
-| Papers <br /> 论文 | [Sci-Hub](https://www.sci-hub.ru/) ||
-|| [Anna's Archive](https://annas-archive.org/) ||
-| Synchronous Virtual <br /> 同步网校 | [Astra Nova School](https://www.astranova.org/) | Founded by Elon Musk <br /> 埃隆·马斯克创建 |
-| Asynchronous Virtual <br /> 异步网校 | [Khan Academy <br /> 可汗学院](https://www.khanacademy.org/) | K-12 tutoring <br /> 幼小初高教辅 |
+| Papers <br /> 论文 | [Anna's Archive](https://annas-archive.org/) ||
+|| [Sci-Hub](https://www.sci-hub.ru/) ||
 | Past Papers <br /> 历年真题 | [Singapore School Test Papers <br /> 新加坡学校历年真题](https://freetestpaper.com/) ||
+| Virtual Asynchronous <br /> 异步网校 | [Khan Academy <br /> 可汗学院](https://www.khanacademy.org/) | K-12 tutoring <br /> 幼小初高教辅 |
+| Virtual Synchronous <br /> 同步网校 | [Astra Nova School](https://www.astranova.org/) | Founded by Elon Musk <br /> 埃隆·马斯克创建 |
 
 ## Chiang Mai <br /> 清迈
 
