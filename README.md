@@ -13,6 +13,7 @@
 | Junior Secondary / 初中 | [Cambridge IGCSE / 剑桥国际 GCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/) | UK / 英制 |
 | Senior Secondary / 高中 | [Edexcel A Levels / 爱徳思 A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK / 英制 |
 | Senior Secondary / 高中 | [Cambridge International AS and A Levels / 剑桥国际 AS 和 A 水准](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-advanced/cambridge-international-as-and-a-levels/) | UK / 英制 |
+| Tertiary / 大学 | [St John's College Great Books Curriculum / 圣约翰学院好书课程体系](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) | Universal / 通用 |
 
 ## Resources / 资源
 
