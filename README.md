@@ -51,3 +51,4 @@
 ## Contact me <br /> 联系我
 
 X: [Lux et Veritas Homeschooling](https://x.com/_lux_veritas_)
+小红书: [Lux et Veritas Homeschooling](https://www.xiaohongshu.com/user/profile/61b77657000000001000a6de)
