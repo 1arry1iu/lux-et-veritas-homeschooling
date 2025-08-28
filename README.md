@@ -14,6 +14,7 @@
 | Senior Secondary <br /> 高中 | [Edexcel A Levels <br /> 爱徳思 A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK <br /> 英制 |
 || [Cambridge International AS & A Levels <br /> 剑桥国际 AS 和 A 水准](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-advanced/cambridge-international-as-and-a-levels/) | UK <br /> 英制 |
 | Tertiary <br /> 大学 | [St John's College Great Books Curriculum <br /> 圣约翰学院好书课程体系](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) | Universal <br /> 通用 |
+|| [Open Source Society University <br /> 开源社会大学](https://ossu.thinkific.com/) | Universal <br /> 通用 |
 
 ## Equivalency Tests and Qualifications <br /> 等同学历测试和证书
 
@@ -29,7 +30,6 @@
 || [Edexcel A Levels <br /> 爱徳思 A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK <br /> 英制 |
 || Registration with Thai Authority <br /> 向泰国监管当局注册 | Thailand <br /> 泰制 |
 | Tertiary <br /> 大学 | [University of the People <br /> 人民大学](https://www.uopeople.edu/) | US <br /> 美制 |
-|| [Open Source Society University <br /> 开源社会大学](https://ossu.thinkific.com/) | Universal <br /> 通用 |
 
 ## Resources <br /> 资源
 
