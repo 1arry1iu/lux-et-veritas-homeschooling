@@ -10,10 +10,12 @@
 | Primary <br /> 小学 | [IB-PYP <br /> IB 小学项目](https://www.ibo.org/programmes/primary-years-programme/) | Universal <br /> 通用 | Hybrid Program <br /> 混合项目 |
 || Thai Primary School Program <br /> 泰国小学项目 | Thailand <br /> 泰制 | Registration with Thai Authority <br /> 向泰国监管当局注册 |
 || [Singapore Primary School Program <br /> 新加坡小学项目](https://www.moe.gov.sg/primary/curriculum/syllabus) | Singapore <br /> 新加坡制 | None <br /> 无 |
+|| [Chinese Primary School Program <br /> 中国义务教育小学项目](http://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html) | China <br /> 中国制 | None <br /> 无 |
 | Junior Secondary <br /> 初中 | [Edexcel GCSEs <br /> 爱徳思 GCSE](https://qualifications.pearson.com/en/qualifications/edexcel-gcses.html) | UK <br /> 英制 | GCSE |
 || [IB-MYP <br /> IB 初中项目](https://www.ibo.org/programmes/middle-years-programme/) | Universal <br /> 通用 | Hybrid Program <br /> 混合项目 |
 || Thai Junior Secondary School Program <br /> 泰国初中项目 | Thailand <br /> 泰制 | Registration with Thai Authority <br /> 向泰国监管当局注册 |
 || [Singapore Junoir Secondary School Program <br /> 新加坡初中项目](https://www.moe.gov.sg/secondary/schools-offering-full-sbb/syllabus) | Singapore <br /> 新加坡制 | None <br /> 无 |
+|| [Chinese Junior Secondary School Program <br /> 中国义务教育初中项目](http://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html) | China <br /> 中国制 | None <br /> 无 |
 || [Cambridge IGCSE <br /> 剑桥国际 GCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/) | UK <br /> 英制 | None <br /> 无 |
 | Senior Secondary <br /> 高中 | [GED](https://www.ged.com/en/) | Universal <br /> 通用 | Standardized Test <br /> 标准化测试 |
 || [Edexcel A Levels <br /> 爱徳思 A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK <br /> 英制 | A Levels <br /> A 水准 |
