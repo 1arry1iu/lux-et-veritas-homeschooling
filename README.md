@@ -6,7 +6,7 @@
 
 | Level <br /> 等级 | Curriculum <br /> 课程体系 | System <br /> 学制 | Equivalency Qualification <br /> 同等学历证书 |
 |---|---|---|---|
-| Early Years <br /> 早教 | [Montessori Early Childhood Program <br /> 蒙特梭利早教项目](https://www.montessori.org/wp-content/uploads/2021/09/Montessori-Curriculum-Scope-and-Sequence.pdf) | Montessori <br /> 蒙特梭利 | None <br /> 无 |
+| Early Childhood <br /> 幼教 | [Montessori Early Childhood Program <br /> 蒙特梭利早教项目](https://www.montessori.org/wp-content/uploads/2021/09/Montessori-Curriculum-Scope-and-Sequence.pdf) | Montessori <br /> 蒙特梭利 | None <br /> 无 |
 | Primary <br /> 小学 | [IB-PYP <br /> IB 小学项目](https://www.ibo.org/programmes/primary-years-programme/) | Universal <br /> 通用 | Hybrid Program <br /> 混合项目 |
 || Thai Primary School Program <br /> 泰国小学项目 | Thailand <br /> 泰制 | Registration with Thai Authority <br /> 向泰国监管当局注册 |
 || [Singapore Primary School Program <br /> 新加坡小学项目](https://www.moe.gov.sg/primary/curriculum/syllabus) | Singapore <br /> 新加坡制 | None <br /> 无 |
