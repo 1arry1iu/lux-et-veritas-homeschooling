@@ -6,14 +6,14 @@
 
 | Level / 等级 | Curriculum / 课程体系 | System / 学制 |
 |---|---|---|
-| Early years / 早教 | [Montessori Early Childhood Program / 蒙特梭利早教项目](https://www.montessori.org/wp-content/uploads/2021/09/Montessori-Curriculum-Scope-and-Sequence.pdf) | Montessori / 蒙特梭利 |
-| Primary / 小学 | [Singapore primary school / 新加坡小学](https://www.moe.gov.sg/primary/curriculum/syllabus) | Singapore / 新加坡制 |
-| Secondary / 中学 | [Singapore secondary school / 新加坡中学](https://www.moe.gov.sg/secondary/schools-offering-full-sbb/syllabus) | Singapore / 新加坡制 |
-| Junior Secondary / 初中 | [Edexcel GCSEs / 爱徳思 GCSE](https://qualifications.pearson.com/en/qualifications/edexcel-gcses.html) | UK / 英制 |
-| Junior Secondary / 初中 | [Cambridge IGCSE / 剑桥国际 GCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/) | UK / 英制 |
-| Senior Secondary / 高中 | [Edexcel A Levels / 爱徳思 A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK / 英制 |
-| Senior Secondary / 高中 | [Cambridge International AS and A Levels / 剑桥国际 AS 和 A 水准](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-advanced/cambridge-international-as-and-a-levels/) | UK / 英制 |
-| Tertiary / 大学 | [St John's College Great Books Curriculum / 圣约翰学院好书课程体系](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) | Universal / 通用 |
+| Early years <br /> 早教 | [Montessori Early Childhood Program / 蒙特梭利早教项目](https://www.montessori.org/wp-content/uploads/2021/09/Montessori-Curriculum-Scope-and-Sequence.pdf) | Montessori / 蒙特梭利 |
+| Primary <br /> 小学 | [Singapore primary school / 新加坡小学](https://www.moe.gov.sg/primary/curriculum/syllabus) | Singapore / 新加坡制 |
+| Secondary <br /> 中学 | [Singapore secondary school / 新加坡中学](https://www.moe.gov.sg/secondary/schools-offering-full-sbb/syllabus) | Singapore / 新加坡制 |
+| Junior Secondary <br /> 初中 | [Edexcel GCSEs / 爱徳思 GCSE](https://qualifications.pearson.com/en/qualifications/edexcel-gcses.html) | UK / 英制 |
+| Junior Secondary <br /> 初中 | [Cambridge IGCSE / 剑桥国际 GCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/) | UK / 英制 |
+| Senior Secondary <br /> 高中 | [Edexcel A Levels / 爱徳思 A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK / 英制 |
+| Senior Secondary <br /> 高中 | [Cambridge International AS and A Levels / 剑桥国际 AS 和 A 水准](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-advanced/cambridge-international-as-and-a-levels/) | UK / 英制 |
+| Tertiary <br /> 大学 | [St John's College Great Books Curriculum / 圣约翰学院好书课程体系](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) | Universal / 通用 |
 
 ## Resources / 资源
 
