@@ -15,17 +15,6 @@
 | Senior Secondary <br /> 高中 | [Cambridge International AS & A Levels <br /> 剑桥国际 AS 和 A 水准](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-advanced/cambridge-international-as-and-a-levels/) | UK <br /> 英制 |
 | Tertiary <br /> 大学 | [St John's College Great Books Curriculum <br /> 圣约翰学院好书课程体系](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) | Universal <br /> 通用 |
 
-## Resources / 资源
-
-| Category / 类别 | Resource / 资源 | Misc. / 备注 |
-|---|---|---|
-| Books <br /> 书 | [Library Genesis](https://libgen.li/) ||
-| Papers <br /> 论文 | [Sci-Hub](https://www.sci-hub.ru/) ||
-| Books & Papers / 书和论文 | [Anna's Archive](https://annas-archive.org/) ||
-| Synchronous Virtual <br /> 同步网校 | [Astra Nova School](https://www.astranova.org/) | Founded by Elon Musk <br /> 埃隆·马斯克创建 |
-| Asynchronous Virtual <br /> 异步网校 | [Khan Academy <br /> 可汗学院](https://www.khanacademy.org/) | K-12 tutoring <br /> 幼小初高教辅 |
-| Past Papers <br /> 历年真题 | [Singapore School Test Papers <br /> 新加坡学校历年真题](https://freetestpaper.com/) ||
-
 ## Equivalency Tests and Qualifications / 等同学历测试和证书
 
 | Level / 等级 | Test or Qualification / 测试或证书 | System / 学制 |
@@ -40,6 +29,17 @@
 | Senior Secondary <br /> 高中 | [Edexcel A Levels <br /> 爱徳思 A 水准](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK <br /> 英制 |
 | Senior Secondary <br /> 高中 | Registration with Thai Authority <br /> 向泰国监管当局注册 | Thailand <br /> 泰制 |
 | Tertiary <br /> 高等教育 | [University of the People <br /> 人民大学](https://www.uopeople.edu/) | US <br /> 美制 |
+
+## Resources / 资源
+
+| Category / 类别 | Resource / 资源 | Misc. / 备注 |
+|---|---|---|
+| Books <br /> 书 | [Library Genesis](https://libgen.li/) ||
+| Papers <br /> 论文 | [Sci-Hub](https://www.sci-hub.ru/) ||
+| Books & Papers / 书和论文 | [Anna's Archive](https://annas-archive.org/) ||
+| Synchronous Virtual <br /> 同步网校 | [Astra Nova School](https://www.astranova.org/) | Founded by Elon Musk <br /> 埃隆·马斯克创建 |
+| Asynchronous Virtual <br /> 异步网校 | [Khan Academy <br /> 可汗学院](https://www.khanacademy.org/) | K-12 tutoring <br /> 幼小初高教辅 |
+| Past Papers <br /> 历年真题 | [Singapore School Test Papers <br /> 新加坡学校历年真题](https://freetestpaper.com/) ||
 
 ## Chiang Mai / 清迈
 
