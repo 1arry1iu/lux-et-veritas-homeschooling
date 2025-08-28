@@ -4,7 +4,7 @@
 
 ## Quck Start <br /> 快速上手
 
-Montessori > Singapore Primary and Secondary Programs > ( GED + SAT/ACT/CLT + AP ) V ( Edexcel A Levels) 
+![](https://github.com/1arry1iu/lux-et-veritas-homeschooling/blob/main/pathway.png)
 
 ## Curricula and Equivalency Qualifications <br /> 课程体系和同等学历证书
 
