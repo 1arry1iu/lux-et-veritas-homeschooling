@@ -34,12 +34,22 @@
 
 ## Books <br /> 图书
 
-### 数学
+### Mathematics <br /> 数学
 
-| Stage <br /> 阶段 | Subject <br /> 科目 | Author/Creator <br /> 作者 | Title <br /> 标题 |
-|---|---|---|---|
-| 0 <br /> Curiosity <br /> 兴趣 | General <br /> 通用 | Perelman <br /> Perelman <br /> Kordemsky <br /> Gardner <br /> Tahan <br /> Seife | Mathematics Can Be Fun <br /> Fun with Maths and Physics <br /> The Moscow Puzzles <br /> The Colossal Book of Mathematics <br /> The Man Who Counted <br /> Zero: The Biography of a Dangerous Idea |
-| | History <br /> 数学史 | Boyer <br /> Ifrah <br /> Cohen | A History of Mathematics <br /> Universal History of Numbers <br /> Triumph of Numbers |
+| Stage <br /> 阶段 | Subject <br /> 科目 | Author and Title <br /> 作者和标题 |
+|---|---|---|
+| 0 <br /> Curiosity <br /> 兴趣 | General <br /> 通用 | Perelman - Mathematics Can Be Fun <br /> Perelman - Fun with Maths and Physics <br /> Kordemsky - The Moscow Puzzles <br /> Gardner - The Colossal Book of Mathematics <br /> Tahan - The Man Who Counted <br /> Seife - Zero: The Biography of a Dangerous Idea |
+| | History <br /> 数学史 | Boyer - A History of Mathematics <br /> Ifrah - Universal History of Numbers <br /> Cohen - Triumph of Numbers |
+| 1 <br /> Foundations <br /> 基础 | Arithmetic <br /> 算术 | Kiselev - Arithmetic <br /> Vygodsky - Mathematical Handbook <br /> Lidsky et al. - Problems in Elementary Mathematics |
+| | Algebra <br /> 代数 | Kiselev - Algebra <br /> Gelfand & Shen - Algebra <br /> Mordkovich - Solving Problems in Algebra and Trigonometry <br /> Kostrikin - Introduction to Algebra | 
+| | Geometry <br /> 几何 | Shuvalova - Geometry <br /> Sharygin - Problems in Plane Geometry <br /> Modenov - Problems in Geometry <br /> Gusev - Solving Problems in Geometry |
+| | Trigonometry <br /> 三角函数 | Panchishkin - Trigonometric Functions |
+| | Mathematical Thinking <br /> 数学思维 | Hammack - Book of Proof |
+| | Problems <br /> 习题 | Lidsky - Problems in Elementary Mathematics <br /> Steinhaus - One Hundred Problems in Elementary Mathematics <br /> Tsypkin - Methods of Solving Problems in High School Mathematics | 
+| 2 <br /> Olympiad <br /> 奥数 | Core <br /> 核心 | Shklarsky - The USSR Olympiad Problem Book <br /> Yaglom - Challenging Mathematical Problems <br /> Straszewicz - Mathematical Problems from Polish Olympiads |
+| | Combinatorics <br /> 组合 | Vilenkin - Combinatorial Mathematics for Recreation <br /> Gelfand - Sequences, Combinations, Limits | 
+| | Number Theory <br /> 数论 | Sierpinski - 250 Problems in Elementary Number Theory | 
+| | Inequalities <br /> 不等式 | Korovkin - Inequalities |
 
 ## Resources <br /> 资源
 
