@@ -32,15 +32,14 @@
 || [St John's College Great Books Curriculum <br /> 圣约翰学院好书课程体系](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) | Universal <br /> 通用 | None <br /> 无 |
 || [Open Source Society University <br /> 开源社会大学](https://ossu.thinkific.com/) | Universal <br /> 通用 | None <br /> 无 |
 
-## 材料
+## Books <br /> 图书
 
-| Subject <br /> 课目 | Author/Creator <br /> 作者 | Title <br /> 标题 |
-|---|---|---|
-| Arithmetic <br /> 算术 | Kiselev | [Kiselev’s Arithmetic](https://valeman.gumroad.com/l/arithmetic) |
-| Geometry <br /> 几何 | Euclid | [The Thirteen Books of Euclid’s Elements](https://annas-archive.pk/search?q=euclid+elements) |
-| Geometry <br /> 几何 | Kiselev | [Kiselev’s Geometry](https://annas-archive.pk/search?index=&page=1&sort=&display=&q=Kiselev%E2%80%99s+geometry) |
-| Probability <br /> 概率论 | Gnedenko | [An Elementary Introduction to the Theory of Probability](https://annas-archive.pk/search?index=&page=1&sort=&display=&q=gnedenko+probability) |
-| Probability <br /> 概率论 | Gnedenko | [The Theory of Probability](https://annas-archive.pk/search?index=&page=1&sort=&display=&q=gnedenko+probability) |
+### 数学
+
+| Stage <br /> 阶段 | Subject <br /> 科目 | Author/Creator <br /> 作者 | Title <br /> 标题 |
+|---|---|---|---|
+| 0 <br /> Curiosity <br /> 兴趣 | General <br /> 通用 | Perelman <br /> Perelman <br /> Kordemsky <br /> Gardner <br /> Tahan <br /> Seife | Mathematics Can Be Fun <br /> Fun with Maths and Physics <br /> The Moscow Puzzles <br /> The Colossal Book of Mathematics <br /> The Man Who Counted <br /> Zero: The Biography of a Dangerous Idea |
+| | History <br /> 数学史 | Boyer <br /> Ifrah <br /> Cohen | A History of Mathematics <br /> Universal History of Numbers <br /> Triumph of Numbers |
 
 ## Resources <br /> 资源
 
