@@ -50,6 +50,36 @@
 | | Combinatorics <br /> 组合 | Vilenkin - Combinatorial Mathematics for Recreation <br /> Gelfand - Sequences, Combinations, Limits | 
 | | Number Theory <br /> 数论 | Sierpinski - 250 Problems in Elementary Number Theory | 
 | | Inequalities <br /> 不等式 | Korovkin - Inequalities |
+| 3 <br /> Advanced 1 <br /> 高等数学 1 | Calculus <br /> 微积分 | Thompson - Calculus Made Easy <br /> Spivak - Calculus <br /> Apostol - Calculus <br /> Leib - Problems in the Calculus <br /> Gelfand - Learn Limits Through Problems | 
+| | Linear Algebra <br /> 线性代数 | Nicholson - Linear Algebra with Applications <br /> Shilov - Linear Algebra <br /> Voyevodin - Linear Algebra <br /> Halmos - Linear Algebra Problem Book <br /> Proskuryakov - Problems in Linear Algebra <br /> Ikramov - Linear Algebra Problems |
+| | Analytic Geometry <br /> 解析几何 | Pogorelov - Analytic Geometry <br /> Kletenik - Problems in Analytic Geometry | 
+| 4 <br /> Analysis <br /> 数学分析 | Bridge <br /> 衔接 | Kolmogorov & Fomin - Introductory Real Analysis <br /> Bermant - Mathematical Analysis |
+| | Core <br /> 核心 | Rudin - Principles of Mathematical Analysis <br /> Hardy - Course of Pure Mathematics <br /> Nikolsky - A Course of Mathematical Analysis <br /> Ilyin & Poznyak - Mathematical Analysis |
+| | Problems <br /> 习题 | Butuzov - Mathematical Analysis in Quesitons and Problems <br /> Berman - Problems in Mathematical Analysis |
+| 5 <br /> Advanced 2 <br /> 高等数学 2 | Abstract Algebra <br /> 抽象代数 | Kurosh - Higher Algebra <br /> Lang - Algebra | 
+| | Matrix <br /> 矩阵 | Gantmacher - Theory of Matrices |
+| | Number Theory <br /> 数论 | Hardy & Wright - Introduction to Number Theory <br /> Vinogradov - Elements of Number Theory |
+| | Discrete Mathematics <br /> 离散数学 | MIT - Mathematics for Computer Science <br /> Knuth - Concrete Mathematics |
+| | Logic <br /> 逻辑学 | Ershov - Mathematical Logic |
+| 6 <br /> Probability & Statistics <br /> 概率和统计 | Intro <br /> 入门 | Tarasov - The World is Built on Probability <br /> Freund - Introduction to Probability <br /> Uspensky - Introduction to Mathematical Probability |
+| | Rigorous Probability <br /> 严格概率 | Kolmogorov - Foundations of Probability <br /> Gnedenko - Theory of Probability <br /> Feller - Introduction to Probability |
+| | Advanced Probability <br /> 高等概率 | Lamperti - Probability Theory Survey <br /> Breiman - Probability |
+| | Specialized <br /> 专题 | Markov - Calculus of Probabilities <br /> Dynkin - Markov Processes |
+| 7 <br /> Advanced Analysis <br /> 高等分析 | Measure Theory <br /> 测度论 | Kolmogorov & Fomin - Measure and Hilbert Space |
+| | Fourier Analysis <br /> 傅立叶分析 | Tolstov - Fourier Series |
+| | Differential Equations <br /> 微分方程 | Pontryagin - Ordinary Differential Equations <br /> Elsgolts - Differential Equations |
+| | Calculus of Variations <br /> 变分法 | Gelfand & Fomin - Calculus of Variations |
+| | Functional Analysis <br /> 泛函分析 | Shilov - Measure and Derivative |
+| 8 <br /> Topology <br /> 拓扑 | Differential Geometry <br /> 微分几何 | Mishchenko & Fomenko - Differential Geometry |
+| | Topology <br /> 拓扑 | Borisovich - Introduction to Topology <br /> Kelley - General Topology |
+| | Geometric Transformations <br /> 几何变换 | Yaglom - Geometric Transformations |
+| 9 <br /> Mathematical Physics <br /> 数学物理学 | Mathematical Physics <br /> 数学物理学 | Vladimirov - Equations of Mathematical Physics |
+| | Analytical Mechanics <br /> 分析力学 | Gantmacher - Analytical Mechanics |
+| | Physics Core <br /> 物理核心 | Irodov - Problems in General Physics <br /> Feynman - The Feynman Lectures on Physics |
+| 10 <br /> Machine Learning <br /> 机器学习 | Deisenroth - Mathematics for Machine Learning <br /> Bishop - Pattern Recognition and Machine Learning <br /> Murphy - Probabilistic Machine Learning |
+| | Optimization <br /> 优化 | MIT - Algorithms for Optimization <br /> Nemirovski - Convex Optimization |
+| | Information Theory <br /> 信息理论 | MacKay - Information Theory, Inference and Learning Algorithms | 
+| 11 <br /> Metamathematics <br /> 元数学 | Metamathematics <br /> 元数学 | Aleksandrov - Mathematics: Its Contents, Methods and Meaning <br /> Khrennikov - Interpretations of Probabililty <br /> Keynes - Treatise on Probability |
 
 ## Resources <br /> 资源
 
