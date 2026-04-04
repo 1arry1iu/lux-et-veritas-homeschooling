@@ -32,6 +32,16 @@
 || [St John's College Great Books Curriculum <br /> 圣约翰学院好书课程体系](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) | Universal <br /> 通用 | None <br /> 无 |
 || [Open Source Society University <br /> 开源社会大学](https://ossu.thinkific.com/) | Universal <br /> 通用 | None <br /> 无 |
 
+## 材料
+
+| Subject <br /> 课目 | Author/Creator <br /> 作者 | Title <br /> 标题 |
+|---|---|---|
+| Arithmetic <br /> 算术 | Kiselev | [Kiselev’s Arithmetic](https://valeman.gumroad.com/l/arithmetic) |
+| Geometry <br /> 几何 | Euclid | [The Thirteen Books of Euclid’s Elements](https://annas-archive.pk/search?q=euclid+elements) |
+| Geometry <br /> 几何 | Kiselev | [Kiselev’s Geometry](https://annas-archive.pk/search?index=&page=1&sort=&display=&q=Kiselev%E2%80%99s+geometry) |
+| Probability <br /> 概率论 | Gnedenko | [An Elementary Introduction to the Theory of Probability](https://annas-archive.pk/search?index=&page=1&sort=&display=&q=gnedenko+probability) |
+| Probability <br /> 概率论 | Gnedenko | [The Theory of Probability](https://annas-archive.pk/search?index=&page=1&sort=&display=&q=gnedenko+probability) |
+
 ## Resources <br /> 资源
 
 | Category <br /> 类别 | Resource <br /> 资源 | Misc. <br /> 备注 |
@@ -52,5 +62,5 @@
 
 ## Contact me <br /> 联系我
 
-X: [Lux et Veritas Homeschooling](https://x.com/_lux_veritas_)
-小红书: [Lux et Veritas Homeschooling](https://www.xiaohongshu.com/user/profile/61b77657000000001000a6de)
+X: [1arry1iu](https://x.com/1arry1iu)
+小红书: [The Larry Show](https://www.xiaohongshu.com/user/profile/61b77657000000001000a6de)
