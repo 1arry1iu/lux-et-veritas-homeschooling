@@ -76,7 +76,7 @@
 | 9 <br /> Mathematical Physics <br /> 数学物理学 | Mathematical Physics <br /> 数学物理学 | Vladimirov - Equations of Mathematical Physics |
 | | Analytical Mechanics <br /> 分析力学 | Gantmacher - Analytical Mechanics |
 | | Physics Core <br /> 物理核心 | Irodov - Problems in General Physics <br /> Feynman - The Feynman Lectures on Physics |
-| 10 <br /> Machine Learning <br /> 机器学习 | Deisenroth - Mathematics for Machine Learning <br /> Bishop - Pattern Recognition and Machine Learning <br /> Murphy - Probabilistic Machine Learning |
+| 10 <br /> Machine Learning <br /> 机器学习 | Machine Learning <br /> 机器学习 | Deisenroth - Mathematics for Machine Learning <br /> Bishop - Pattern Recognition and Machine Learning <br /> Murphy - Probabilistic Machine Learning |
 | | Optimization <br /> 优化 | MIT - Algorithms for Optimization <br /> Nemirovski - Convex Optimization |
 | | Information Theory <br /> 信息理论 | MacKay - Information Theory, Inference and Learning Algorithms | 
 | 11 <br /> Metamathematics <br /> 元数学 | Metamathematics <br /> 元数学 | Aleksandrov - Mathematics: Its Contents, Methods and Meaning <br /> Khrennikov - Interpretations of Probabililty <br /> Keynes - Treatise on Probability |
