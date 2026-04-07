@@ -85,11 +85,11 @@
 
 | Category <br /> 类别 | Resource <br /> 资源 | Misc. <br /> 备注 |
 |---|---|---|
-| Books <br /> 书 | [Anna's Archive](https://annas-archive.org/) ||
+| Books <br /> 书 | [Anna's Archive](https://annas-archive.pk/) ||
 || [Library Genesis](https://libgen.li/) ||
-| Papers <br /> 论文 | [Anna's Archive](https://annas-archive.org/) ||
-|| [Sci-Hub](https://www.sci-hub.ru/) ||
-| Past Papers <br /> 历年真题 | [Singapore School Test Papers <br /> 新加坡学校历年真题](https://freetestpaper.com/) ||
+| Papers <br /> 论文 | [Anna's Archive](https://annas-archive.pk/) ||
+|| [Sci-Hub](https://www.sci-hub.pub/) ||
+| Past Papers <br /> 历年真题 | [Singapore School Past Papers <br /> 新加坡学校历年真题](https://freetestpaper.com/) ||
 | Virtual Asynchronous <br /> 异步网校 | [Khan Academy <br /> 可汗学院](https://www.khanacademy.org/) | K-12 tutoring <br /> 幼小初高教辅 |
 | Virtual Synchronous <br /> 同步网校 | [Astra Nova School](https://www.astranova.org/) | Founded by Elon Musk <br /> 埃隆·马斯克创建 |
 
