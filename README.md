@@ -101,5 +101,4 @@
 
 ## Contact me <br /> 联系我
 
-X: [1arry1iu](https://x.com/1arry1iu)
-小红书: [The Larry Show](https://www.xiaohongshu.com/user/profile/61b77657000000001000a6de)
+X: [1arry1iu](https://x.com/1arry1iu) | 小红书: [The Larry Show](https://www.xiaohongshu.com/user/profile/61b77657000000001000a6de)
