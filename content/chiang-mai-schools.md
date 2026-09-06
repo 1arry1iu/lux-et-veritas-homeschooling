@@ -1,8 +1,8 @@
 # Chiang Mai Schools Guide
-## 清迈学校与教育路径指南
+## 泰国清迈国际学校和泰制双语项目学校
 
-> **A pathway-first decision guide for international, bilingual, Thai-system, and homeschool-connected education in Chiang Mai.**  
-> **以升学路径为起点，比较清迈国际学校、双语学校、泰制学校与家庭教育衔接资源。**
+> **A bilingual Chiang Mai school guide that preserves the project's mathematics-competition ranking while independently researching each school's current educational pathway.**  
+> **保留项目数学竞赛排名，同时独立核查各校当前课程、资格与教育路径的清迈学校双语指南。**
 
 **Last structured review / 最近结构化核查：6 September 2026 / 2026年9月6日**
 
@@ -10,728 +10,670 @@
 
 ---
 
-## Purpose <br /> 本页定位
+# How to Read This Guide <br /> 如何使用本指南
 
-This guide helps families answer one practical question:
+This page deliberately separates **ranking** from **school research**.
 
-> **Which educational environment best fits this learner, this family, and the future pathways we want to preserve?**
+本页刻意把**排名**与**学校研究**分开。
 
-本指南试图帮助家庭回答一个真正重要的问题：
+1. **Mathematics Competition Ranking / 数学竞赛排名** — the ranking positions and tiers are preserved exactly as supplied by this project, where the underlying basis is schools' results in major mathematics competitions.
+2. **School Research / 学校研究** — current official information about school type, curriculum, qualifications, advanced academic options, accreditation, university pathways, and homeschool/external-candidate relevance.
+3. **Family Fit / 家庭适配** — commute, fees, language, values, learning support, air quality, and other practical factors are considered separately.
 
-> **哪一种教育环境，最适合这个学习者、这个家庭，并且能够保留我们希望保留的未来路径？**
-
-It is **not a ranking** and does not attempt to identify a universal “best school.”
-
-本页**不是学校排行榜**，也不试图定义一所对所有家庭都“最好”的学校。
-
-A school may be excellent and still be a poor fit because of qualification pathway, language profile, educational philosophy, learning-support capacity, religious or cultural ethos, commute, cost, admissions constraints, learner temperament, accessibility needs, relocation plans, or the learner's need for more or less institutional structure.
-
-一所学校即使总体质量很高，也可能因为毕业资格路径、语言环境、教育理念、学习支持能力、宗教或文化取向、通勤、成本、招生限制、学习者气质、无障碍需求、家庭迁移计划，或学习者需要更多/更少学校化结构而并不适合。
+1. **数学竞赛排名**——严格保留本项目已经给出的名次和阶梯；其底层依据是各校在主要数学竞赛中的成绩。
+2. **学校研究**——独立核查学校类型、课程体系、外部资格、高阶学术课程、认证、大学路径以及家庭教育/社会考生相关性。
+3. **家庭适配**——通勤、费用、语言、价值观、学习支持、空气质量等现实因素另行判断。
 
 > [!IMPORTANT]
-> **School curriculum ≠ external qualification ≠ accreditation ≠ university recognition.**  
-> **学校课程 ≠ 外部资格证书 ≠ 学校认证 ≠ 大学最终认可。**
+> **This page does not publish medal counts.**
 >
-> Verify consequential decisions directly with the school, examination board, accreditor, receiving university, and—where relevant—the Thai education authorities.
+> **本页不公布奖牌数量。**
 >
-> 重要决定应直接向学校、考试机构、认证机构、目标大学，以及必要时向泰国教育主管部门核实。
+> The ranking order is treated as a fixed project input and is **not recalculated from school marketing pages, curriculum strength, university admissions, tuition, facilities, or general reputation**.
+>
+> 本页把排名顺序视为项目既定输入，**不会因为学校宣传、课程强度、大学录取、学费、设施或一般声誉而重新排序**。
+>
+> Research notes beside each school are therefore **context**, not explanations for why one school ranks above another.
+>
+> 每所学校旁边的研究说明属于**背景资料**，不是用来解释为什么某校名次高于另一校。
 
 ---
 
-# 1. Start With the Exit Pathway <br /> 先确定未来出口
+# Ranking Scope <br /> 排名范围
 
-The most efficient way to compare schools is to work **backward from the likely secondary-school exit credential**.
+The ranking answers only this question:
 
-比较学校最有效的方法，是从未来可能取得的**中学毕业资格**向前反推。
+> **Within the project's major-mathematics-competition results framework, what is the retained ordering of the listed Chiang Mai schools?**
 
-| Pathway <br /> 路径 | Typical secondary outcome <br /> 常见高中出口 | Chiang Mai examples <br /> 清迈代表性选择 | Particularly useful when… <br /> 更适合以下情况 |
-|---|---|---|---|
-| **IB** | IB Diploma Programme (DP), sometimes within a broader IB continuum.<br>IB 大学预科文凭；部分学校提供更完整的 IB 连贯课程。 | Prem, American Pacific, Panyaden | The learner benefits from breadth, inquiry, writing, research, and an internationally portable university-preparation route.<br>希望保留国际大学路径，并适合跨学科、研究与写作型学习。 |
-| **British / Cambridge** | IGCSE → AS/A Level.<br>IGCSE → AS/A Level。 | LANNA, SISB Chiangmai, BCIS, VCIS; Meritton is developing the upper pathway | The learner prefers subject specialization in later secondary years or may move within British/Cambridge systems.<br>高中阶段希望更早进行学科专门化，或未来可能进入英制/剑桥体系。 |
-| **American / AP** | U.S.-style high-school diploma, often with Advanced Placement.<br>美式高中毕业证 + AP 课程/考试。 | CMIS, NIS, UCIS, Grace; ACIS follows an American curriculum | The learner wants broad course choice, GPA/transcript-based progression, AP opportunities, or likely U.S./Canadian transitions.<br>希望通过成绩单/GPA、选课与 AP 建立大学申请路径。 |
-| **Thai national + English/bilingual** | Thai Basic Education credential, with varying proportions of English-medium instruction.<br>泰国基础教育学历，英语授课比例各异。 | Montfort, Varee Chiangmai School, Ambassador Bilingual School | Thai-language continuity, Thai university options, local integration, or lower-cost bilingual provision are priorities.<br>优先考虑泰语能力、泰国升学、本地融入或成本更可控的双语教育。 |
-| **Homeschool / hybrid** | Family-designed curriculum + independently arranged documentation/exams/credentials.<br>家庭设计课程 + 独立安排记录、考试或资格。 | Grace Connect is the clearest school-linked homeschool support found in this review | The family wants home education while selectively using testing, library, community, or school-linked services.<br>家庭希望以自主教育为主，同时选择性使用考试、图书馆、社区或学校资源。 |
+本排名只回答：
+
+> **在本项目采用的主要数学竞赛成绩框架下，这些清迈学校的既定排序是什么？**
+
+The guide intentionally does **not** expose the underlying medal totals. Ties are preserved exactly as supplied.
+
+本指南刻意**不展示底层奖牌总数**；并列名次完全按照原始排名保留。
+
+The following do **not** change rank placement in this guide:
+
+**IB / A Level / AP results · curriculum brand · university admissions · accreditation · school size · selectivity · fees · facilities · commute · religion · boarding · family fit**
+
+以下因素均**不改变本指南中的名次**：
+
+**IB / A Level / AP 成绩 · 课程品牌 · 大学录取 · 学校认证 · 学校规模 · 招生选择性 · 学费 · 设施 · 通勤 · 宗教 · 寄宿 · 家庭适配**
+
+Because school websites publish competition results unevenly, this page does not pretend that public marketing pages alone can independently reconstruct the ranking.
+
+由于不同学校公开竞赛成果的完整度差异很大，本页不会假装仅凭学校官网宣传页面就能独立重建排名。
+
+---
+
+# Mathematics Competition Ranking <br /> 数学竞赛排名
+
+The **ranking positions below are preserved exactly as supplied**. The 2026 research updates the school descriptions but does not alter the order.
+
+**以下名次完全按原始排名保留。** 2026 年核查只更新学校事实，不改变排序。
+
+## 第一阶梯 · Tier 1
+
+| 排名 | 英文校名 | 中文校名 | 2026 核实后的体制 / 路径 | 数学与学术背景（不影响排名） | 大学/资格背景 |
+|---:|---|---|---|---|---|
+| **1** | Montfort College ([Primary](https://www.mcp.ac.th/), [Secondary](https://www.montfort.ac.th/)) | 蒙福学院 | **泰制私立**；Secondary 为 Year 7–12，Regular + English Programme；Lower Secondary 另有 Cambridge-framed bilingual route | Science–Mathematics 与 gifted classes；学校明确列出 Olympic-potential development、TEDET、ASMO、Math Camp 等；Bilingual route 的 Mathematics/Science/English 采用 Cambridge framework | English Programme 高中阶段公开说明部分学生可参加 **IGCSE**，并有 **AS/A Level** 机会；[2025 outcome example](https://www.facebook.com/share/p/1DJCofL6RB/) |
+
+### Research note <br /> 核查说明
+
+Montfort should **not** be labelled simply “international.” Its current official secondary curriculum identifies it as a Thai secondary school with Regular and English Programmes. The academically relevant distinction is its unusually broad Thai-system science–mathematics infrastructure plus Cambridge-linked options inside selected English/bilingual routes.
+
+蒙福不应简单标注为“国际学校”。当前官方资料明确显示其主体是泰制中学，设 Regular 与 English Programme；其特色在于泰制体系内部较强的科学—数学课程、gifted classes 与竞赛/奥赛培养，同时部分英语/双语项目连接 Cambridge 课程与考试。
+
+Primary and Secondary are separate sections/sites and should be evaluated separately when planning a long K–12 pathway.
+
+小学部和中学部是不同校部/网站；规划完整 K–12 路径时应分别核查。
+
+---
+
+## 第二阶梯 · Tier 2
+
+| 排名 | 英文校名 | 中文校名 | 2026 核实后的体制 / 路径 | 数学与学术背景（不影响排名） | 大学/资格背景 |
+|---:|---|---|---|---|---|
+| **2** | [Lanna International School](https://www.lannaist.ac.th/) | 兰纳国际学校 | 国际 / British-Cambridge；IEYC → Cambridge Primary + IPC → IGCSE → AS/A Level | IGCSE Mathematics；A Level Mathematics；2026–27 published menu includes Mathematics pathways and **Further Pure Mathematics**; Physics, Computer Science, Economics also available | WASC reaccredited through **2031**; Cambridge exam centre; students also receive a WASC-accredited high-school diploma/transcript alongside British exam results. [Academic achievement](https://www.lannaist.ac.th/about-us/academic-achievement/) |
+| **3=** | [The Prince Royal's College](https://www.prc.ac.th/) | 王子学校 | **泰制私立**；STEP / EEP / IEP differentiated programmes | STEP is English-medium STEM except Thai and Chinese; current primary IEP uses **ORIGO Stepping Stones** mathematics; school emphasizes science, technology, engineering, mathematics, coding and problem solving | Thai-system credential; programme choice matters more than the school name alone |
+| **3=** | [Singapore International School, Chiangmai Campus](https://sisb.ac.th/singapore-international-school-chiangmai/) | 新加坡国际学校清迈校区 | 国际 / Singapore-Cambridge；EYFS → Singapore Primary → Cambridge secondary → IGCSE → AS/A Level | Singapore-style mathematics foundations feed into Cambridge secondary; students can choose up to nine IGCSE subjects; Sixth Form offers Cambridge AS/A Levels | International Cambridge qualification route; 2026–27 calendar and campus programme are currently published |
+
+### Research notes <br /> 核查说明
+
+**LANNA:** The school now has one of the clearest advanced mathematics pathways among Chiang Mai's international schools because it publishes both standard Mathematics and Further Pure Mathematics at AS/A Level, rather than merely stating “Cambridge.” It also retains a dual British-examination + WASC-accredited transcript/diploma architecture.
+
+**PRC:** It is a Thai private school, not an international school. Families interested in mathematics should compare **programme-to-programme**, especially STEP versus EEP/IEP, rather than treating PRC as one homogeneous curriculum.
+
+**SISB Chiangmai:** The important current structure is **Singapore primary → Cambridge IGCSE → AS/A Level**, not simply “Singapore curriculum” at every stage.
+
+---
+
+## 第三阶梯 · Tier 3
+
+| 排名 | 英文校名 | 中文校名 | 2026 核实后的体制 / 路径 | 数学与学术背景（不影响排名） | 大学/资格背景 |
+|---:|---|---|---|---|---|
+| **5** | [Nakornpayap International School](https://www.nis.ac.th/) | 西北之城国际学校 | 国际 / American; U.S. standards/Common Core-oriented; WASC | Mathematics runs through Calculus and Statistics; current AP menu includes **AP Calculus AB, AP Calculus BC, AP Statistics, AP Physics 1/2, AP Computer Science A/CSP** | WASC accreditation through **2032**; U.S. high-school diploma; school currently publishes 20+ AP courses |
+| **6=** | Chiang Mai University Demonstration School ([Primary](https://itpc.edu.cmu.ac.th/), [Secondary](https://cmud.edu.cmu.ac.th/)) | 清迈大学附属示范学校 | 公立 / Thai university demonstration school | Current special classes include **Data Science + Robotics & AI**, **Data Science + Super STEAM**, and IEP; official curriculum describes intensive STEM integration and a university-linked **วมว.-มช.** programme | Thai national pathway with university-linked specialist programmes and guidance; not an international credential school |
+| **6=** | [Chiang Mai International School](https://cmis.ac.th/) | 清迈国际学校 | 国际 / American; standards-based; WASC | AP-based advanced study; current profile publishes MAP growth/achievement data in mathematics and science; Honors Diploma requires advanced-course performance | WASC six-year accreditation **2023–2029**; U.S.-style diploma + AP/AP Capstone opportunities; [2025–26 School Profile](https://cmis.ac.th/sites/default/files/CMIS_HS_Profile_2025-26.pdf) |
+| **6=** | [Dara Academy](https://www.dara.ac.th/) | 德拉学校 | **泰制私立 / Christian**, not an international school | Large Thai K–12 school; mathematics/science follow Thai curriculum; Native Speaker Programme is an English-language enrichment route rather than a separate international qualification | Thai national credential; NP programme runs K–12 for English support |
+| **6=** | [SBS International School Chiangmai / SIBS](https://sibs.ac.th/) | 兰实大学国际双语示范学校清迈分校 | International bilingual / Cambridge + Thai | EYFS → Cambridge Primary → Cambridge Lower Secondary → IGCSE → AS/A Level; science labs and technology integration published | Cambridge route plus Thai pathway; **June Cambridge exam series accepts eligible private/external candidates**. [Exam centre](https://sibs.ac.th/exam/) |
+| **10=** | [Americana Chinese International School](https://www.acis.ac.th/) | 美中国际学校 | 国际 / American PK–12 + English/Chinese/Thai | Current school profile emphasizes American curriculum, STEM and project-based learning; Chinese is a sustained core language | Do **not** assume AP from the old list without year-specific confirmation; verify current upper-secondary course/credential menu directly |
+| **10=** | [Anuban Chiangmai School](https://abcm.ac.th/) | 清迈幼儿园学校 | 公立 / Thai; early years + primary | Thai primary programme with a documented **English Program**; no secondary school | Thai primary pathway only |
+| **10=** | [British Concordance International School](https://www.bcisschool.ac.th/) | 英国协和国际学校 | 国际 / **Cambridge**; ages 2–18 | Cambridge Primary → Lower Secondary → IGCSE → A Level; current school states 450+ students and average 1:15 teacher/student ratio | Cambridge qualification route. **Current official material does not support the old Edexcel label.** |
+| **10=** | [Yupparaj Wittayalai School](https://www.yupparaj.ac.th/) | 耀华中学 | 公立 / Thai secondary | Thai secondary school with a strong academic/competition tradition; programme details should be checked by current admission stream | Thai national secondary credential |
+
+### Important corrections <br /> 重要事实修正
+
+- **NIS:** current official materials list more than 20 AP courses and WASC accreditation through 2032.
+- **CMU Demonstration:** the current specialist-course picture is much richer than “Thai curriculum” alone; its Data Science routes explicitly integrate STEM, Robotics, Embedded Technology and AI.
+- **CMIS:** use the current 2025–26 profile, not the older 2021–22 profile.
+- **Dara:** officially describes itself as **not an international school**; the Native Speaker Programme supplements the Thai curriculum.
+- **SBS/SIBS:** current Cambridge pathway extends through AS/A Level, and the examination centre has explicit private-candidate access rules.
+- **ACIS:** current official site supports “American PK–12 + English/Chinese/Thai + STEM/PBL”; AP should be verified for the intended cohort.
+- **BCIS:** current official pathway is **Cambridge**, not Pearson Edexcel.
+
+---
+
+## 第四阶梯 · Tier 4 — included but not numerically ordered <br /> 第四阶梯——收录但不做数字排序
 
 > [!NOTE]
-> An external qualification should be selected because it serves the learner's future pathway—not because its acronym sounds prestigious.
+> Tier 4 is the **unnumbered fourth tier of the retained mathematics-competition ranking**. It is not a judgment that these schools are weak academically.
 >
-> 资格证书的价值来自它是否服务于学习者的未来路径，而不是缩写本身是否“看起来高级”。
-
----
-
-# 2. Verified Pathway Shortlist <br /> 已核实的主要学校路径
-
-The schools below were checked against current official school, accreditor, or examination-program sources during the September 2026 review.
-
-以下学校在 2026 年 9 月本次核查中，使用了学校官网、认证机构或考试项目的当前官方资料进行确认。
-
-**“Verified” means the stated pathway was checked—not that this guide endorses the school.**
-
-**“已核实”只表示所列路径已核查，并不代表本指南对学校进行背书。**
-
-## 2.1 IB pathways <br /> IB 路径
-
-| School | Verified pathway | Family-fit notes | Primary verification |
-|---|---|---|---|
-| **Prem Tinsulanonda International School** | **IB PYP + MYP + DP + CP**; English-medium; day and boarding.<br>IB 小学、中学、大学预科与职业相关四个项目；走读与寄宿。 | Strongest choice in Chiang Mai when a family specifically wants continuity across the full IB architecture. Mae Rim location and boarding can materially change family logistics.<br>如果家庭明确追求完整 IB 连贯体系，这是清迈最直接的选择之一；湄林位置和寄宿选择会明显影响家庭生活方式。 | [IB official school record](https://www.ibo.org/en/school/001366) · [School](https://ptis.ac.th/) |
-| **American Pacific International School (APIS)** | **IB PYP + MYP + DP**; boarding is available in the IB record.<br>IB 小学、中学与大学预科项目；IB 官方记录显示提供寄宿。 | Worth comparing with Prem when an IB continuum and residential option matter, but families should compare campus structure, boarding model, language support, subject availability, and commute carefully.<br>如果 IB 连贯体系和寄宿很重要，可与 Prem 比较；应重点核查校区安排、寄宿模式、语言支持、科目与通勤。 | [IB official school record](https://www.ibo.org/en/school/002907) · [School](https://www.apis.ac.th/) |
-| **Panyaden International School** | Primary curriculum draws from the English National Curriculum and NGSS; **Pre-IB Years 10–11 → IB DP Years 12–13**.<br>小学阶段参考英国国家课程与 NGSS；10–11 年级 Pre-IB，12–13 年级 IB DP。 | Distinctive values-led environment with Buddhist-informed education, interdisciplinary learning, service, and sustainability orientation. Families should actively assess philosophical fit rather than treating it as a generic IB school.<br>学校价值观、佛教教育、跨学科与可持续发展特色明显，应把教育哲学匹配度作为核心决策变量。 | [Primary](https://www.panyaden.ac.th/primary-years/) · [Secondary](https://www.panyaden.ac.th/secondary-years/) · [IB official](https://www.ibo.org/en/school/061269) |
-
-### IB decision note <br /> IB 决策提醒
-
-Do not treat all three as interchangeable “IB schools.” Ask:
-
-- Is the learner entering early enough that PYP/MYP continuity matters?
-- Does the learner thrive with breadth and substantial writing/research?
-- Is boarding relevant?
-- Which DP subjects are actually offered in the intended year?
-- Does the learner want the IB DP specifically, or simply a portable university credential?
-- Is the school ethos a good family fit?
-
-不要把三所学校简单理解为可以互换的“IB 学校”。还应确认：
-
-- 是否足够早进入，使 PYP/MYP 连贯性真正有价值？
-- 学习者是否适合较广的学科覆盖、大量写作与研究？
-- 是否考虑寄宿？
-- 目标入学年份实际提供哪些 DP 科目？
-- 学习者真正需要的是 IB DP，还是只需要一种国际可携带的大学升学资格？
-- 学校价值观是否与家庭匹配？
-
----
-
-## 2.2 British / Cambridge pathways <br /> 英制 / Cambridge 路径
-
-| School | Verified pathway | Family-fit notes | Primary verification |
-|---|---|---|---|
-| **LANNA International School** | National Curriculum of England / international primary frameworks → Cambridge pathway → **IGCSE → AS/A Level**.<br>英格兰国家课程/国际小学框架 → Cambridge → IGCSE → AS/A Level。 | Mature British pathway with a broad published A-Level subject range. Useful for families prioritizing continuity into British-style sixth form.<br>英制路径成熟，公开的 A Level 科目范围较广，适合明确计划走英制高中后段的家庭。 | [School](https://www.lannaist.ac.th/) · [2026–27 A-Level options](https://www.lannaist.ac.th/wp-content/uploads/2025/11/LANNA-A-Level-Courses-for-2026-27.pdf) |
-| **Singapore International School Chiangmai (SISB)** | Singapore-influenced primary; Singapore/Cambridge secondary; **IGCSE in Grades 9–10; Cambridge AS/A Levels in Sixth Form**.<br>小学以新加坡体系为主；中学结合新加坡与 Cambridge；9–10 年级 IGCSE，Sixth Form 为 AS/A Level。 | Particularly relevant to families valuing Singapore-style foundations, multilingual development, and a later Cambridge qualification route.<br>适合重视新加坡式基础、语言发展并希望高中衔接 Cambridge 资格的家庭。 | [Chiang Mai campus](https://sisb.ac.th/singapore-international-school-chiangmai/) |
-| **British Concordance International School (BCIS)** | **Cambridge pathway from Early Years to IGCSE and A Levels**.<br>从幼儿阶段到 IGCSE 与 A Level 的 Cambridge 路径。 | A direct Cambridge-oriented option in Hang Dong. Confirm exact subject menu, examination-board details, cohort size, and support capacity for the intended year.<br>位于杭东的直接 Cambridge 路径；应核查目标年份的科目组合、考试机构、年级规模与支持能力。 | [School](https://www.bcisschool.ac.th/) |
-| **Varee Chiangmai International School (VCIS)** | English National Curriculum alignment; Cambridge centre; **IGCSE → Cambridge International AS/A Levels**.<br>对齐英国国家课程；Cambridge 考点；IGCSE → Cambridge International AS/A Levels。 | Do not confuse **VCIS** with **Varee Chiangmai School**, which offers Thai-system programmes. VCIS is the international-school route.<br>不要把 VCIS 与 Varee Chiangmai School 混为一谈；前者是国际学校路径，后者主要属于泰制教育体系。 | [FAQ / curriculum](https://vcis.ac.th/vcis/faq/) · [A Levels](https://vcis.ac.th/vcis/a-levels/) |
-| **Meritton British International School** | EYFS → Cambridge Primary → Cambridge Lower Secondary → IGCSE; school states **AS/A Level expansion from 2026 onward**.<br>EYFS → Cambridge Primary → Lower Secondary → IGCSE；学校表示自 2026 年起扩展 AS/A Level。 | Treat the sixth-form pathway as a **current-rollout item to verify**, not as a long-established outcome. Ask which Year 12–13 cohorts, subjects, and exam entries are operational now.<br>Sixth Form 应视为**正在扩展、需要当年确认**的路径，而不是已经长期成熟的项目。 | [Curriculum](https://merittonbritish.ac.th/curriculum/) |
-| **Mill Hill International School Thailand** | British curriculum; current 2026–27 published fee schedule extends through **Year 9**, while the school describes a broader Senior School route.<br>英制课程；2026–27 当前公开学费表到 Year 9，同时学校描述更完整的 Senior School 路径。 | A newer and expanding option. **Verify currently open year groups and external qualification plans before choosing it for a secondary exit pathway.**<br>属于较新的扩展型学校。若目标是高中资格路径，**必须确认目前实际开放年级及外部考试规划**。 | [School](https://millhillthailand.ac.th/) · [Admissions](https://millhillthailand.ac.th/admissions) · [Fees](https://millhillthailand.ac.th/admissions/fees) |
-
-### Cambridge warning for homeschool families <br /> Cambridge 家庭教育提醒
-
-A school being a Cambridge school or examination centre **does not mean it accepts private candidates**.
-
-学校属于 Cambridge 学校或考试中心，**不代表一定接受社会考生/家庭教育考生**。
-
-Cambridge allows private candidates, including homeschoolers, but centres choose whether to accept them, and some syllabuses/options with coursework are not available to private candidates.
-
-Cambridge 允许家庭教育学习者以 private candidate 身份参加部分考试，但考点是否接受由考点决定，而且包含课程作业的部分科目/选项并不适用于社会考生。
-
-Official guidance: [Cambridge Private Candidates](https://www.cambridgeinternational.org/exam-administration/private-candidates/)
-
----
-
-## 2.3 American / AP pathways <br /> 美式 / AP 路径
-
-| School | Verified pathway | Family-fit notes | Primary verification |
-|---|---|---|---|
-| **Chiang Mai International School (CMIS)** | English-language American standards-based curriculum; **AP** in high school; WASC six-year accreditation **2023–2029** in the 2025–26 school profile.<br>美式标准课程；高中 AP；2025–26 学校档案显示 WASC 认证期为 2023–2029。 | Long-established city option with Christian heritage and an American university-preparation structure. Useful for families wanting an urban location and a conventional U.S.-style transcript/AP route.<br>历史较长、位于城区、具有基督教传统，适合需要美式成绩单与 AP 路径的家庭。 | [Academic programs](https://cmis.ac.th/programs) · [School profile](https://cmis.ac.th/sites/default/files/CMIS_HS_Profile_2025-26.pdf) |
-| **Nakornpayap International School (NIS)** | U.S. standards/Common Core-based curriculum; **20+ AP courses listed by the school**; WASC accreditation extended **through 2032**.<br>美式标准/Common Core；学校列出 20+ AP 课程；WASC 认证延续至 2032。 | Strong comparison point for families who want a secular American/AP route and substantial advanced-course choice.<br>适合希望走世俗美式/AP 路线，并重视高阶课程选择的家庭。 | [School](https://www.nis.ac.th/) · [High school/AP](https://www.nis.ac.th/academics/highschool) · [WASC through 2032](https://www.nis.ac.th/news/u0m1fox623y440tz5qkospno) |
-| **Unity Concord International School (UCIS)** | American curriculum using California standards, Common Core, NGSS/AERO frameworks; AP pathway; school states WASC accreditation.<br>美式课程，使用 California Standards、Common Core、NGSS/AERO；提供 AP；学校说明拥有 WASC 认证。 | Consider when an American pathway plus EAL/STREAM-style provision and Saraphi location fit the learner and commute.<br>如果需要美式路径、EAL/STREAM 类型课程，并且 Saraphi 地理位置合适，可列入比较。 | [Academics](https://www.ucis.ac.th/academics) · [Admissions](https://www.ucis.ac.th/admissions) |
-| **Grace International School (GIS)** | American-style Christian college-preparatory K–12; jointly accredited by **ACSI and WASC**; offers extensive learning support and a dedicated homeschool interface through **Grace Connect**.<br>美式基督教大学预备 K–12；ACSI + WASC；学习支持较完整，并通过 Grace Connect 直接连接家庭教育。 | Particularly important for missionary/international-Christian-worker families, homeschoolers, and some learners needing structured support. Admissions priority and religious fit must be checked carefully.<br>对宣教/国际基督教工作者家庭、家庭教育者及部分需要结构化支持的学习者尤其值得关注；必须核查招生优先级与宗教价值观匹配。 | [Academics](https://gisthailand.org/academics/) · [Grace Connect](https://gisthailand.org/academics/grace-connect/) · [Admissions](https://gisthailand.org/admissions/) |
-| **Americana Chinese International School (ACIS)** | American PK–12 curriculum with English, Chinese, and Thai language emphasis.<br>美式 PK–12，并强调英语、中文与泰语。 | Useful to investigate when multilingual development—especially sustained Chinese—is a central family priority. Verify advanced-course and graduation requirements for the intended cohort directly with the school.<br>如果持续中文学习是核心目标，值得重点比较；高阶课程与毕业要求应直接向学校确认。 | [School](https://www.acis.ac.th/) |
-
-### AP warning for homeschool families <br /> AP 家庭教育提醒
-
-Homeschooled learners can self-study for most AP Exams, but they **cannot order an AP Exam directly**. They need a local authorized school or test centre willing to administer it.
-
-家庭教育学习者可以自学大多数 AP 科目，但**不能直接向 College Board 自行订购 AP 考试**，需要找到愿意接受外部考生的授权学校或考点。
-
-College Board recommends contacting possible schools early because each school can set its own policy and deadline.
-
-College Board 建议在学年较早阶段联系可能的考点，因为每所学校可以自行决定是否接收外部考生以及报名截止日期。
-
-Official guidance: [College Board — AP exams for homeschooled students](https://apstudents.collegeboard.org/help-center/im-homeschooled-how-can-i-take-ap-exam)
-
----
-
-# 3. Thai-System & Bilingual Options <br /> 泰制与双语路径
-
-These schools should **not** be mixed into the same “international-school ranking” as IB, Cambridge, or U.S.-diploma schools. They solve a different educational problem.
-
-这些学校不应与 IB、Cambridge 或美式高中毕业证学校放进同一个“国际学校排名”。它们服务的是不同教育目标。
-
-| School | Verified model | Key distinction | Primary verification |
-|---|---|---|---|
-| **Montfort College** | Thai private secondary school (Years 7–12) with Regular and English Programme routes.<br>泰国私立中学（Year 7–12），包含普通课程与 English Programme。 | **Not an international school.** Its English Programme uses international-standard testing and references Cambridge Checkpoint; current upper-secondary material describes an **IGCSE mock**, which should not be confused with automatically earning IGCSE qualifications.<br>**不是国际学校。** English Programme 会使用国际标准测试，并提及 Cambridge Checkpoint；当前高中资料写的是 **IGCSE Mock**，不应误认为一定取得正式 IGCSE 资格。 | [Curriculum](https://www.montfort.ac.th/en/curriculum/) · [Upper Secondary](https://www.montfort.ac.th/academic-upper-secondary/) |
-| **Varee Chiangmai School (VCS)** | Thai Basic Education curriculum with ESL, English Programme, and intensive-English variants depending on stage.<br>泰国基础教育课程，根据阶段提供 ESL、English Programme 与强化英语项目。 | **Separate from VCIS.** Useful for families wanting Thai-system credentials with substantial English exposure at a different cost/structure from an international school.<br>**与 VCIS 是不同路径。** 适合需要泰制学历，同时希望增加英语授课比例的家庭。 | [Programmes](https://www.varee.ac.th/en/newweb/course.php) · [Admissions/fees](https://www.varee.ac.th/en/newweb/admissions.php) |
-| **Ambassador Bilingual School (ABS)** | Bilingual Thai-school model using English for English, mathematics, science, health and PE, with other subjects taught in Thai.<br>泰制双语模式；英语、数学、科学、健康与体育等以英语授课，其他科目主要以泰语授课。 | Appropriate to compare on bilingual fluency, Thai academic continuity, class structure, and cost—not on international qualification branding.<br>应主要比较双语能力、泰制连续性、班级结构与成本，而不是国际资格品牌。 | [Curriculum](https://absbilingualschool.ac.th/new/curriculum/) |
-
-### A key distinction <br /> 一个关键区别
-
-A Thai school that uses Cambridge resources, Cambridge Checkpoint, an “international programme,” or an IGCSE-style mock examination is **not automatically equivalent** to a school whose students are formally entered for Cambridge IGCSE or A-Level qualifications.
-
-一所泰制学校即使使用 Cambridge 资源、Checkpoint、“国际项目”或 IGCSE 模拟考试，也**不自动等同于**正式组织学生报名参加 Cambridge IGCSE/A-Level 资格考试的学校。
-
-Always ask:
-
-> **What exact certificate appears at the end, who awards it, and what external examinations does the student actually enter?**
-
-务必问：
-
-> **最终拿到的证书到底是什么？谁颁发？学生实际报名参加哪些外部考试？**
-
----
-
-# 4. Homeschool & Hybrid Use <br /> 家庭教育与混合使用
-
-For this repository, school research is not only about full-time enrollment. Schools can matter as examination venues, library/resource partners, testing providers, community anchors, specialist-course providers, transition destinations, or partial/hybrid supports.
-
-对于本仓库，研究学校不仅是为了全日制入学。学校还可能承担外部考试考点、图书馆/资源合作、标准化测试、社交与社区连接、专门课程、从家庭教育转入学校的衔接，或部分混合式支持。
-
-## 4.1 Grace Connect — clearest verified homeschool interface <br /> Grace Connect：目前最明确的学校型家庭教育接口
-
-During this review, **Grace International School** was the only major Chiang Mai school found to publish a substantial, explicit homeschool-support programme.
-
-本次核查中，**Grace International School** 是清迈主要学校里最明确公开系统性家庭教育支持项目的学校。
-
-Grace Connect currently describes:
-
-- homeschool curriculum-resource access;
-- library/material recommendations;
-- referrals for testing and educational support;
-- MAP Growth testing for eligible homeschool students;
-- some PSAT10 access subject to availability;
-- campus/community opportunities;
-- no complete homeschool curriculum provided by Grace;
-- no student visa through Grace Connect;
-- AP exam access limited by Grace's stated course/enrolment rules.
-
-Grace Connect 当前公开说明包括：
-
-- 家庭教育课程资源与资料；
-- 图书馆/教材建议；
-- 测试与教育支持转介；
-- 符合条件者可参加 MAP Growth；
-- PSAT10 可能在有名额时开放；
-- 部分校园与社区机会；
-- Grace Connect 本身不提供完整家庭教育课程；
-- Grace Connect 不提供学生签证；
-- AP 考试需遵守 Grace 自身课程/注册规则。
-
-Official: [Grace Connect](https://gisthailand.org/academics/grace-connect/)
-
-## 4.2 External-exam access <br /> 外部考试接入
-
-Never assume that a school offering a qualification will register your homeschooler.
-
-不要因为某校开设某项资格课程，就默认它会为家庭教育学习者报名考试。
-
-### Cambridge
-
-Private candidates are permitted, but centres decide whether to accept them. Coursework components can restrict eligibility.
-
-[Cambridge Private Candidates](https://www.cambridgeinternational.org/exam-administration/private-candidates/)
-
-### Pearson Edexcel
-
-Pearson recognizes home-educated/private candidates, but centres are not obliged to accept them and non-exam assessment requirements can create additional conditions.
-
-[Pearson Private Candidates](https://qualifications.pearson.com/en/support/support-topics/registrations-and-entries/academic-registrations-and-entries/private-candidates.html)
-
-### AP
-
-Homeschooled students may self-study, but must arrange testing through an authorized school/centre willing to accept them.
-
-[College Board guidance](https://apstudents.collegeboard.org/help-center/im-homeschooled-how-can-i-take-ap-exam)
-
-### IB Diploma
-
-Treat the IB Diploma as an **enrolled-programme pathway**, not as a conventional private-candidate examination route.
-
-IB Diploma 应视为**需要进入获授权项目的学习路径**，而不是普通社会考生考试路线。
-
-[Find an IB World School](https://www.ibo.org/programmes/find-an-ib-school/)
-
----
-
-# 5. Learning Support & Accessibility <br /> 学习支持与无障碍
-
-Do not ask only, “Does the school have learning support?” Ask instead:
-
-1. Who qualifies for support?
-2. What documentation is required?
-3. What support is delivered in class versus pull-out?
-4. Are accommodations available without curriculum modification?
-5. When do modifications affect diploma eligibility?
-6. Are speech/language, OT, counseling, or specialist services available?
-7. Are there additional fees?
-8. What happens if the learner's needs increase after enrollment?
-9. Can the school support gifted or twice-exceptional learners as well as struggling learners?
-10. How are accommodations handled in external exams?
-
-不要只问“学校有没有 Learning Support？”，还应具体确认：
-
-1. 什么情况能够获得支持？
-2. 需要什么诊断或文件？
-3. 支持主要发生在课堂内还是抽离式服务？
-4. 能否只做 accommodation 而不修改课程标准？
-5. 什么时候 curriculum modification 会影响毕业证？
-6. 是否有语言治疗、OT、心理/辅导或其他专业服务？
-7. 是否另外收费？
-8. 入学后如果需要增加支持，学校如何处理？
-9. 学校是否也能支持资优或 twice-exceptional 学习者？
-10. 外部考试中的 accommodation 如何申请和实施？
-
-### Verified example: Grace <br /> 已核实例：Grace
-
-Grace publishes one of the clearest support architectures in the reviewed set, including accommodation plans, individualized learning plans, inclusion support, guided study halls, small-group support, occupational therapy, speech/language therapy, and academic assessments subject to staffing.
-
-Grace 在本次核查学校中公开了较清晰的支持架构，包括 accommodation plan、个别学习计划、融合支持、guided study hall、小组支持、OT、语言治疗与学术评估等（具体取决于人员配置）。
-
-[Grace Learning Support](https://gisthailand.org/academics/learning-support/)
-
-> [!IMPORTANT]
-> Published services do not guarantee that a school has capacity for a particular learner in a particular year.
+> 第四阶梯是本数学竞赛排名中**未单独编号的第四层级**，不代表这些学校整体学术水平较弱。
 >
-> 学校官网列出某项支持，并不保证某个学年一定有足够人员与名额支持某一位具体学习者。
+> Several Tier 4 schools have highly portable external qualifications or distinctive national pathways; those facts are documented below but do not change the supplied ranking.
 
----
+### International / internationally oriented <br /> 国际及国际化学校
 
-# 6. Geography & Commute <br /> 地理位置与通勤
+| 英文校名 | 中文校名 | 2026 研究后的当前路径 | Research note / 核查说明 |
+|---|---|---|---|
+| [American Pacific International School](https://www.apis.ac.th/) | 美国太平洋国际学校 | **IB PYP + MYP + DP** | IB official directory confirms all three programmes and mixed boarding. [IB record](https://www.ibo.org/en/school/002907) · [2015–2024 profile](https://www.apis.ac.th/wp-content/uploads/2024/09/24-25-School-Profile.pdf) |
+| [Boston International School](https://www.bostoninternationalschoolcm.com/) | 波士顿国际学校 | Korean-oriented international provision | Current detailed credential structure was not sufficiently clear from primary sources in this review; verify directly before relying on the old “韩制 K–12” shorthand |
+| [Bright Seeds International Kindergarten](https://brightseeds.ac.th/) | 光明种子国际幼儿园 | **EYFS**, ages approximately 18 months–6 | Current official site says play-based learning guided by the UK's EYFS framework; the old IPC label is outdated |
+| [Cariad International School](https://cariad.ac.th/) | 卡睿阿德国际学校 | Finnish Early Childhood + UK curriculum | Current official site describes Finnish early-childhood education combined with the UK national curriculum; verify current upper-secondary qualification availability |
+| [Chiang Mai Cedar International School](https://chiangmaicedar.ac.th/) | 清迈香柏树国际学校 | Accelerated Christian Education / PACE-based | Current high-school framework publishes Algebra, Geometry, Trigonometry and Calculus and a 21-Carnegie-unit graduation structure; strong religious/worldview fit is essential |
+| [Chiang Mai Chinese International School](https://ccis.ac.th/) | 清迈中文国际学校 | Trilingual Chinese-English-Thai; U.S./Chinese hybrid | Current Grade 7–9 programme aligns with a U.S. middle-school structure while emphasizing Chinese math/science methods; Grade 10–12 uses an El Camino Real Charter High School collaboration. The old “中国/AP” shorthand is too simplistic |
+| [Chiang Mai Montessori International School](https://www.chiangmaimontessori.org/) | 清迈蒙特梭利国际学校 | Montessori | Current official elementary programme covers ages 6–12 in mixed-age lower/upper elementary groups; do not assume a conventional secondary credential |
+| [Christliche Deutsche Schule Chiang Mai](https://cdsc.ac.th/) | 清迈基督教德国学校 | German national/international pathway → **German International Abitur (DIA)** | German is primary instructional language; English and Thai begin in Grade 1; Physics is taught in English from Grade 10; DIA provides German higher-education entrance qualification |
+| [Grace International School](https://gisthailand.org/) | 恩典国际学校 | American Christian K–12 + AP | ACSI + WASC + ONESQA; current high school publishes **nine AP classes**; unusually strong learning-support architecture and **Grace Connect** homeschool interface. [University outcomes sample](https://drive.google.com/file/d/1c22afIQ6JtUwapbY-mGCRygXI0Kt230u/view) |
+| [Hana Christian International Kindergarten](https://www.hcik.ac.th/) | 合一基督教国际幼儿园 | Christian early years | Verify current curriculum directly; do not assume Common Core merely from older directory descriptions |
+| [Meritton British International School](https://merittonbritish.ac.th/) | 美利顿英国国际学校 | EYFS → Cambridge Primary → Cambridge Lower Secondary → IGCSE; AS/A Level expansion stated from 2026 | Current website still presents Years 7–11 as its active secondary section while describing future/expanding AS/A Level provision; verify which Year 12–13 courses are actually running |
+| [Mill Hill International School Thailand](https://millhillthailand.ac.th/) | 泰国米尔山国际学校 | British / National Curriculum in England | Current 2026–27 fee schedule lists **Nursery through Year 9 only**. Do not describe it yet as a complete secondary exit pathway without confirming later-year rollout |
+| [Northern International Montessori School](https://nims-chiangmai.org/) | 北方国际蒙特梭利学校 | Montessori | Current programme: Toddler Prep, Primary and **Lower Elementary (Grades 1–3) opening August 2026**; old “primary school” shorthand overstated its current age range |
+| [Panyaden International School](https://www.panyaden.ac.th/) | 卓越智力国际学校 | British/Thai-informed primary → Pre-IB Years 10–11 → **IB DP Years 12–13** | IB official directory confirms **DP only**, not a full IB continuum; Buddhist-informed values and sustainability are central. [IB record](https://www.ibo.org/en/school/061269) |
+| [Prem Tinsulanonda International School](https://ptis.ac.th/) | 炳·廷素拉暖国际学校 | **IB PYP + MYP + DP + CP** | IB official directory confirms the full four-programme continuum; boarding available; current IB subject list includes Math Analysis and Math Applications. [IB record](https://www.ibo.org/en/school/001366) |
+| [Unity Concord International School](https://www.ucis.ac.th/) | 联合和谐国际学校 | American + AP | Current academics page explicitly describes an American curriculum and AP pathways, with EAL and STREAM provision |
+| [Varee Chiangmai International School](https://vcis.ac.th/) | 清水清迈国际学校 | English National Curriculum aligned → Cambridge IGCSE → **AS/A Level** | Current site lists English-medium ages 2–18; IGCSE and Cambridge AS/A Level are active. Distinguish **VCIS** from Varee Chiangmai School. [2025 outcome post](https://www.facebook.com/VareeInternational/posts/pfbid02aMxskrEdwYZgRm4Ui4Nr8zME1Ea97fT6t6fSJqfxDv5QDA8zkYoat7agxMgmFfd3l) |
+| [Wichai Wittaya School](https://wichai.ac.th/) | 威才维塔雅学校 | **CIS-accredited Cambridge International School**, K–13 | Current site describes Cambridge/IGCSE secondary progression and English-rich instruction; this is more accurate than the old “Thai / Cambridge elements” label. [2022 placements](https://wichai.ac.th/100-university-placements/) |
+| [Windfield French International School Chiang Mai](https://chiangmai.windfield.ac.th/chiang-mai/) | 温德菲尔德清迈法国学校 | French National Education + Cambridge enrichment | Current Chiang Mai site states French national programme from Petite Section to **CM2**, complemented by Cambridge; currently an early/primary pathway rather than a full French secondary route |
 
-In Chiang Mai, **school location is part of curriculum design** because a poor commute consumes sleep, family time, exercise, extracurricular participation, and parent capacity.
+### Private Thai / bilingual <br /> 私立泰制与双语学校
 
-在清迈，**学校位置本身就是教育设计的一部分**。过长通勤会消耗睡眠、家庭时间、运动、课外活动以及父母精力。
-
-Think in broad zones:
-
-| Zone <br /> 区域 | Examples | Planning implication <br /> 规划意义 |
+| 英文校名 | 中文校名 | 当前可确认的重点 |
 |---|---|---|
-| **City / central-north** | CMIS, SISB Chiangmai | Often better for families living near the old city/Nimman/central areas; verify rush-hour reality rather than map distance.<br>对古城、宁曼及城区家庭通常更方便，但应以高峰实际车程而不是地图距离判断。 |
-| **Hang Dong / south-west** | LANNA, Panyaden, APIS, Grace, BCIS, Meritton | Large cluster of international-school and family services; housing choice can dramatically reduce daily travel.<br>国际学校和家庭资源较集中，合理选址可大幅降低通勤。 |
-| **Saraphi / south-east** | UCIS, ACIS, Ambassador Bilingual | Can suit families living east/south of the city; cross-city commuting may be inefficient.<br>适合东部/南部居住家庭；跨城通勤可能效率很低。 |
-| **Mae Rim / north** | Prem | Destination campus; daily commute can be substantial unless living north or using boarding/transport arrangements.<br>目的地型校园；如果不住北部，日常通勤可能较长，寄宿/校车会影响决策。 |
-| **Doi Saket / east** | Mill Hill Thailand | Newer east-side option; verify commute from the family's actual residence.<br>东部较新选择，应根据实际住所测试通勤。 |
+| [Premrudee Kindergarten School](https://www.facebook.com/premrudeekindergarten/) | 柏姆露迪幼儿园学校 | 私立泰制 / 幼儿；以当年招生信息为准 |
+| [Sunshine Kindergarten](https://www.sunshinekindergarten.com/) | 阳光幼儿园 | 私立泰制 / 幼儿 |
+| [Vimantip Kindergarten](https://www.facebook.com/vimantip) | 维曼蒂幼儿园 | 私立泰制 / 幼儿 |
+| [Ambassador Bilingual Academy](https://www.abachiangmai.com/) | 大使双语学院 | Pre-K–Grade 12 bilingual school; formerly Little Stars Bilingual School; part of Ambassador Education Group |
+| [Ambassador Bilingual School](https://absbilingualschool.ac.th/) | 大使双语学校 | Thai Basic Education Core Curriculum integrated with Californian/American standards for English, Mathematics and Science; substantial English-medium instruction |
+| [Chongfah Sinseung Wanichbamrung School](https://www.chongfah.ac.th/) | 崇华新生华立学校 | 私立泰制；核实当年语言/特色项目 |
+| [Christian Outreach International School](https://maps.app.goo.gl/HPc8NRWArZkhreSs9) | 基督教拓展国际学校 | 泰制私立；缺乏足够当前第一手课程资料，需直接核实 |
+| [Kasintorn Saint James Chiang Mai School](https://saintjames.ac.th/) | 清迈戛欣通圣詹姆斯学校 | 私立泰制 |
+| [Kowittamrong Chiangmai School](http://www.kowitt.ac.th/) | 清迈构维塔龙学校 | 私立泰制 |
+| [Luckpong Wittaya School](https://www.facebook.com/Luckpongwittaya/) | 拉蓬维塔雅学校 | 私立泰制 |
+| [Nandachart School](https://nandachartschool.com/) | 南达查学校 | 私立泰制 |
+| [Napa Chiangmai School](https://www.napa.ac.th/) | 清迈天空学校 | 私立泰制 |
+| [Pantasanya School](https://sopromise.net/) | 潘塔散亚学校 | 私立泰制 |
+| [Pimandek Chiang Mai School](https://pimandek.ac.th/) | 清迈联合智慧毗曼学校 | 私立泰制 |
+| [Regina Coeli College](https://www.regina.ac.th/) | 雷吉娜妙济学院 | 私立泰制 |
+| [Sacred Heart College](https://sch.ac.th/) | 圣心学院 | 私立泰制 |
+| [Sarasas Witaed Chiang Mai School](https://www.scm.ac.th/) | 撒拉萨维特清迈学校 | 私立泰制 / bilingual-oriented |
+| [Sarasas Witaed Lanna School](https://sarasas-lanna.ac.th/) | 撒拉萨维特兰纳学校 | 私立泰制 |
+| [Sarasas Witaed Upatham School](https://www.facebook.com/Witaedupathum) | 撒拉萨维特乌巴探学校 | 私立泰制 |
+| [Siriaunda School](https://siriaunda.ac.th/) | 西里安达学校 | 私立泰制 |
+| [Subnathitham School](http://sntcm.ac.th/) | 素纳提塔姆学校 | 私立泰制 |
+| [The Nest International School](https://www.facebook.com/TheNestInternationalChiangMai/) | 安巢国际学校 | 学校名称含 International，但当前第一手课程/资格资料不足；应按实际 licence/curriculum 核实 |
+| [Tonkla School](https://www.tonkla.ac.th/) | 童蔻拉学校 | 私立泰制 |
+| [Varee Chiangmai School](https://www.varee.ac.th/) | 清水清迈学校 | Thai core + ESL/EP/IEP/Science routes; current secondary includes **Science Mathematics Plus**, Science-Mathematics-Technology and other specialist programmes |
+| [Wachirawit Chiangmai School](https://www.wachirawit.ac.th/) | 华威学校 | 私立泰制 |
 
-### Commute test <br /> 通勤测试
+### Public Thai <br /> 公立泰制学校
 
-Before enrolling, simulate the journey during weekday morning, school dismissal, rainy conditions if possible, and after an extracurricular activity.
+The following schools are retained exactly from the supplied universe. They are Thai public/municipal pathways unless their current official documentation states otherwise. Because programme streams can change by admission year, families should verify special Science–Mathematics, English, gifted, or provincial programme tracks directly.
 
-入学前应实际测试工作日早高峰、放学时段、尽可能测试雨天，以及课外活动结束后的返程。
+以下学校完整保留自原始清单。除非学校当前官方资料另有说明，它们属于泰国公立/市立教育路径。由于 Science–Mathematics、English、gifted 等特色班可能按招生年度变化，建议逐校核实当年招生简章。
 
-A school 12 km away can affect family life more than a school 20 km away depending on route and timing.
-
-“12 公里”不一定比“20 公里”更近，路线与时段往往更重要。
+| 英文校名 | 中文校名 | 体制 |
+|---|---|---|
+| [Baansankamphaeng School](https://bsk.ac.th/) | 班伞冈彭学校 | 公立泰制 |
+| [Bancherngdoi School](https://bcd.ac.th/) | 班清杜学校（素贴山研究学校） | 公立泰制 |
+| [Bankadwittayakom School](https://bankad.ac.th/) | 班嘎中学 | 公立泰制 |
+| [Ban Maena School](http://www.maena.ac.th/) | 班湄娜学校 | 公立泰制 |
+| [Chiangdao Wittayakom School](http://www.chiangdao.ac.th/) | 清道中学 | 公立泰制 |
+| [Chomthong School](https://www.chomthong.ac.th/) | 宗通学校 | 公立泰制 |
+| [Chumchonbanbuakkroknoi School](https://bknschool.ac.th/) | 宗通小磨坊社区学校 | 公立泰制 |
+| [Debsirin School](https://www.dsc.ac.th/) | 德斯林学校 | 公立泰制 |
+| [Fangchanuphathum School](https://www.fangchanu.ac.th/) | 芳区育民学校 | 公立泰制 |
+| [Hotpittayakom School](http://www.hpk.ac.th/) | 霍德中学 | 公立泰制 |
+| [Maechaem School](https://www.maechaem.ac.th/) | 湄绽学校 | 公立泰制 |
+| [Maerimwittayakom School](https://www.maerim.ac.th/) | 湄林中学 | 公立泰制 |
+| [Navamindarajudis Phayap School](https://sites.google.com/a/nmp.ac.th/navamindarajudis-phayap-school) | 纳瓦明他拉猜努提学校（北部） | 公立泰制 |
+| [Puttisopon School](https://puttisopon.ac.th/) | 佛迪颂学校 | 公立泰制 |
+| [Rangsee Vittaya School](http://rsv.ac.th/) | 光明学校 | 公立泰制 |
+| [Sanpatong Suwannarat Wittayakarn](https://sswr.ac.th/) | 散巴东学校（素万纳拉实中学） | 公立泰制 |
+| [Sanpatongwittayakom School](http://www.svk.ac.th/) | 伞巴东中学 | 公立泰制 |
+| [Sarapeepittayakom School](https://www.sarapee.ac.th/) | 撒拉毗中学 | 公立泰制 |
+| [Srichomtong School](https://www.srichomtong.ac.th/) | 实宗通学校 | 公立泰制 |
+| [Sridonchai Municipality School](https://www.sdc.ac.th/) | 清迈市立寺敦猜学校 | 公立泰制 |
+| [Thasala School](https://sites.google.com/view/thasalaschool/) | 塔萨拉学校 | 公立泰制 |
+| [Thungphabod Radbumrung School](http://www.thungphabod.ac.th/) | 班光镇市立第一学校（通法博德公立学校） | 公立泰制 |
+| [Tonkaewphadungpittayalai School](https://www.tonkaew.ac.th/) | 顿盖帕东披塔亚学校 | 公立泰制 |
+| [Wattanothaipayap School](https://www.wattano.ac.th/) | 瓦塔诺泰帕亚学校 | 公立泰制 |
+| [Watweruwan School](https://weruwan.ac.th/) | 威鲁宛寺学校 | 公立泰制 |
 
 ---
 
-# 7. Air Quality, Heat & Physical Environment <br /> 空气质量、热环境与校园条件
+# Pathway-First Interpretation <br /> 按升学路径理解排名
 
-For Chiang Mai families, the learning environment should include an **air-quality plan**.
+The mathematics-competition ranking should be read separately from pathway matching; the strongest competition record is not automatically the best credential route for every learner.
 
-对清迈家庭而言，学习环境评估应包含明确的**空气质量应对方案**。
+数学竞赛排名应与升学路径判断分开阅读；竞赛名次最高，并不代表对每位学习者来说都是最合适的资格路径。
 
-Ask every school:
+## IB <br /> IB
 
-- What PM2.5 threshold changes outdoor activity?
-- Which sensors/data source does the school use?
-- Are classrooms mechanically filtered?
-- What filtration standard and maintenance schedule are used?
-- Are gyms, cafeterias, libraries, and buses protected or only classrooms?
+### Prem Tinsulanonda International School
+- **PYP + MYP + DP + CP**
+- English-medium, day + boarding
+- the broadest verified IB continuum in Chiang Mai
+- particularly strong fit when a family wants IB from early years through graduation
+
+### American Pacific International School
+- **PYP + MYP + DP**
+- boarding available
+- useful alternative when IB continuity and residential provision matter
+
+### Panyaden International School
+- **IB DP only at the IB authorization level**
+- earlier curriculum is not PYP/MYP; current school materials describe English-National-Curriculum/NGSS-informed primary and a Pre-IB transition
+- distinct Buddhist-informed, sustainability-focused ethos
+
+> **IB pathway conclusion / IB 路径结论:**  
+> If the family wants the **most complete IB architecture**, Prem should be investigated first regardless of its unnumbered placement in the mathematics-competition ranking.
+
+---
+
+## British / Cambridge <br /> 英制 / Cambridge
+
+### LANNA
+- IEYC / IPC enrichment
+- Cambridge/British progression
+- IGCSE → wide A-Level choice
+- WASC reaccredited through 2031
+- long operating history
+
+### SISB Chiangmai
+- Singapore foundations
+- Cambridge IGCSE
+- AS/A Level Sixth Form
+- strong fit for families valuing Singapore mathematics/science culture plus Cambridge qualifications
+
+### SBS International School Chiangmai / SIBS
+- Cambridge-based primary and secondary
+- IGCSE → AS/A Level
+- Thai pathway continuity
+- unusually relevant to homeschoolers because the exam centre currently welcomes eligible private candidates for the June series
+
+### BCIS
+- current official programme is Cambridge from Early Years through A Levels
+- do **not** describe it as Edexcel unless the school publishes a current Pearson qualification route
+
+### VCIS
+- British/Cambridge route
+- IGCSE → AS/A Level
+
+### Meritton
+- EYFS → Cambridge Primary → Lower Secondary → IGCSE
+- first IGCSE cohort reported in 2026
+- AS/A Level provision is still a newer expansion and should be rechecked annually
+
+---
+
+## American / AP <br /> 美式 / AP
+
+### NIS
+- U.S. standards/Common Core model
+- 20+ AP courses currently listed
+- WASC full cycle through 2032
+- unusually broad current AP menu for Chiang Mai
+
+### CMIS
+- American standards-based
+- U.S.-style diploma + AP
+- WASC 2023–2029
+- founded in 1954
+- Christian heritage while welcoming a diverse community
+
+### UCIS
+- Common Core + NGSS + AERO
+- current 2026–27 AP offerings published
+- WASC + ONESQA
+- also functions as SAT/PSAT/IELTS test centre according to current school material
+
+### ACIS
+- American/AERO/Common Core Plus
+- daily Chinese and Thai alongside English
+- strong multilingual proposition
+- verify the exact current AP course/exam arrangement before making a high-school decision
+
+### Grace
+- American Christian college-preparatory model
+- ACSI/WASC/ONESQA
+- especially important for missionary/international-Christian-worker families
+- strongest verified school-linked homeschool interface through Grace Connect
+
+---
+
+# Thai-System + International Elements <br /> 泰制 + 国际化元素
+
+## Montfort College
+
+**Primary:** Thai Basic Education Core Curriculum; English Programme teaches several subjects in English with foreign teachers.  
+**Secondary:** Thai programmes plus Bilingual/English Programme options; current school materials describe Cambridge-linked English/Mathematics/Science in lower secondary and opportunities for IGCSE plus some AS/A Level examinations in upper secondary.
+
+**Do not label Montfort simply as “international.”** Its strength is the hybrid architecture: Thai-system continuity plus English/international assessment opportunities.
+
+## The Prince Royal's College
+
+Current admissions materials show:
+- **EEP — English Excellence Program**
+- **IEP — Individualized Excellence Program**
+- **STEP — Science & Technology Excellence Program**, taught in English except Thai and Chinese
+
+STEP emphasizes STEM, active learning, innovation, English/Thai/Chinese/coding communication, and exists across multiple entry stages.
+
+## Chiang Mai University Demonstration School
+
+Thai public/university-linked model. The school publishes subject-group curriculum and specialized structures including science/technology and special-education functions. Its value proposition is fundamentally different from an international qualification school.
+
+## Dara Academy
+
+Thai private Christian school from early years through upper secondary. Current school material continues to describe a Native Speaker Programme aligned with the Thai Ministry of Education curriculum.
+
+---
+
+# Homeschool & Hybrid Relevance <br /> 家庭教育与混合教育相关性
+
+For **Lux et Veritas Homeschooling**, schools matter even when the learner is not enrolled full time.
+
+对于 **Lux et Veritas Homeschooling**，即使学习者不全日制入学，学校仍可能承担重要功能。
+
+## SBS/SIBS Chiangmai Exam Centre
+
+The current exam-centre page states that:
+- Cambridge IGCSE and AS/A Level examinations are offered;
+- the **June series is open to private/external candidates**;
+- external candidates are limited where moderated coursework or certain speaking components are involved;
+- deadlines are set by the centre and should be reconfirmed every year.
+
+This makes SBS/SIBS one of the most directly useful Chiang Mai institutions for a homeschooler following a Cambridge route.
+
+## Grace Connect
+
+Grace publishes a dedicated homeschool-support interface offering access to selected resources, testing/referrals, library/community opportunities, and some school-linked services. It does **not** replace a complete family curriculum and does not automatically provide every external examination.
+
+## Cambridge / Pearson / AP caution
+
+- A school teaching Cambridge does **not** automatically accept private candidates.
+- Pearson private candidates similarly need an accepting centre.
+- AP self-study students still need an authorized school/test centre willing to order/administer the exam.
+- IB DP should be treated as an enrolled authorized-programme pathway rather than a conventional private-candidate examination route.
+
+---
+
+# University Outcomes: How to Use Them <br /> 如何正确理解“大学录取”
+
+University-offer pages are useful, but they are **not directly comparable performance statistics**.
+
+大学录取页面有参考价值，但**不能直接当作学校之间的绩效统计比较**。
+
+Reasons include:
+- different graduating cohort sizes;
+- different proportions applying abroad;
+- multiple offers to the same student;
+- varying selectivity and programme type;
+- scholarships sometimes mixed with offers;
+- different publication years;
+- selective publication of successful outcomes.
+
+原因包括：
+- 毕业班规模不同；
+- 申请海外大学的比例不同；
+- 同一学生可能获得多个 offer；
+- 大学与专业选择性差异很大；
+- 奖学金与录取有时混合统计；
+- 数据年份不同；
+- 学校可能只公开部分成功案例。
+
+Use outcome pages to ask better questions:
+
+1. How many students graduated that year?
+2. How many applied internationally?
+3. What qualifications did they hold?
+4. Which offers became actual enrollments?
+5. What support did the school provide?
+6. Are results shown for one exceptional student or the whole cohort?
+
+---
+
+# Learning Support & Accessibility <br /> 学习支持与无障碍
+
+Do not ask only, “Does the school have learning support?”
+
+Ask:
+- Who qualifies?
+- What documentation is needed?
+- Are accommodations possible without lowering curriculum standards?
+- Are speech/language, OT, counseling, EAL or SEN services available?
+- Are there extra fees?
+- Are gifted and twice-exceptional learners supported?
+- How are external-exam accommodations handled?
+- What happens if support needs increase after admission?
+
+学校“有 Learning Support”并不代表一定适合所有学习者。应具体了解资格条件、文件要求、课堂内/抽离支持、是否额外收费、外部考试 accommodation，以及学校是否真正有当年人员容量。
+
+---
+
+# Chiang Mai-Specific Practical Factors <br /> 清迈本地现实因素
+
+## Commute <br /> 通勤
+
+A school is part of the family system. Long daily travel consumes sleep, exercise, extracurricular time, parent capacity, and family relationships.
+
+学校是家庭系统的一部分。长期通勤会消耗睡眠、运动、课外活动、父母精力与家庭关系。
+
+Test the commute during:
+- weekday morning rush;
+- dismissal;
+- rainy weather;
+- after extracurricular activities.
+
+## PM2.5 / Air Quality <br /> PM2.5 / 空气质量
+
+Ask:
+- Which PM2.5 threshold changes outdoor activity?
+- What air sensors/data source are used?
+- Are classrooms filtered?
+- Are gyms, libraries, cafeterias and buses also protected?
+- How often are filters serviced?
 - What happens during prolonged poor-air periods?
-- Can medically vulnerable students receive additional accommodations?
-- How is PE replaced when outdoor activity is suspended?
 
-建议向每所学校确认：
+Prem currently publishes positive-pressure/air-filtration infrastructure in school materials, but every family should verify the current operational policy for every school on the shortlist.
 
-- PM2.5 达到什么阈值会停止户外活动？
-- 学校使用什么监测设备或数据源？
-- 教室是否进行机械过滤？
-- 过滤设备规格与更换/维护频率是什么？
-- 体育馆、食堂、图书馆、校车是否同样有保护，还是只有教室？
-- 连续多日空气差时如何安排？
-- 有医学风险的学生能否获得额外调整？
-- 户外体育取消时，用什么替代？
+## Total Cost <br /> 总成本
 
-Do not infer indoor air quality from the appearance or price of a campus.
-
-不要根据校园“看起来高级”或学费高低推断室内空气质量。
-
----
-
-# 8. Cost Architecture <br /> 成本结构
-
-Do not compare schools using tuition alone.
-
-不要只比较学费。
-
-Calculate **Total Annual Educational Cost**:
+Compare:
 
 ```text
 Tuition
-+ application / assessment fees
-+ registration / enrolment fee
-+ capital / development levy
-+ refundable or non-refundable deposits
-+ books / devices
-+ external examination fees
++ application/assessment
++ registration
++ capital/development levy
++ deposit
++ books/devices
++ external exams
 + meals
 + transport
 + uniforms
-+ trips / expeditions
-+ required activities
-+ learning-support / EAL fees
-+ boarding (if applicable)
-+ visa / documentation costs
-= realistic annual cost
++ trips
++ learning support/EAL
++ boarding
++ visa/documentation
+= realistic annual educational cost
 ```
 
-真正年度教育成本应包括：
-
-```text
-学费
-+ 申请 / 入学测试
-+ 注册费
-+ 建设 / 发展费
-+ 押金
-+ 教材 / 设备
-+ 外部考试费
-+ 餐费
-+ 校车
-+ 校服
-+ 旅行 / 户外课程
-+ 必修活动
-+ Learning Support / EAL
-+ 寄宿（如适用）
-+ 签证 / 文件费用
-= 真实年度成本
-```
-
-### Current-fee links <br /> 当前学费链接
-
-Because fees change frequently, this guide links to current official fee pages instead of maintaining a static price ranking.
-
-由于费用变化较快，本指南优先链接学校官方费用页，而不是维护一个很快过时的静态价格排行榜。
-
-- [CMIS Tuition & Fees](https://cmis.ac.th/node/34)
-- [NIS Tuition & Fees](https://www.nis.ac.th/admissions/tuition-fees)
-- [LANNA Fees](https://www.lannaist.ac.th/admissions/fees/)
-- [Prem Tuition & Fees](https://ptis.ac.th/tuition-and-fees/)
-- [Panyaden School Fees](https://www.panyaden.ac.th/school-fees/)
-- [SISB Chiangmai Fees](https://sisb.ac.th/admissions/tuition-fee/chiangmai-campus/)
-- [Grace Tuition & Fees](https://gisthailand.org/admissions/tuition-and-fees/)
-- [Mill Hill Fees](https://millhillthailand.ac.th/admissions/fees)
-- [Varee Chiangmai School Admissions / Fees](https://www.varee.ac.th/en/newweb/admissions.php)
-
-> [!TIP]
-> Recalculate the full cost every year before assuming a school remains affordable.
->
-> 每年都应重新计算总成本，不要因为上一年可以承担，就默认下一年仍然可以。
+不要只看“学费”。
 
 ---
 
-# 9. Values, Religion & School Culture <br /> 价值观、宗教与学校文化
+# Family Decision Matrix <br /> 家庭决策矩阵
 
-Culture is not a marketing extra. It changes the learner's daily experience.
+First set **non-negotiables**, then score the remaining schools.
 
-学校文化不是宣传附加项，它会直接改变孩子每天的教育体验。
-
-Families should deliberately evaluate:
-
-- Christian identity and biblical integration;
-- Buddhist-informed education;
-- secular/international orientation;
-- Thai cultural expectations;
-- discipline philosophy;
-- competitiveness versus cooperation;
-- homework expectations;
-- teacher-student relationships;
-- parent involvement;
-- attitudes toward neurodiversity;
-- political/religious/intellectual pluralism;
-- technology and phone policy.
-
-家庭应主动了解：
-
-- 基督教身份与圣经整合；
-- 佛教取向；
-- 世俗/国际化取向；
-- 泰国文化规范；
-- 纪律理念；
-- 竞争与合作的平衡；
-- 作业量；
-- 师生关系；
-- 家长参与程度；
-- 对神经多样性的态度；
-- 对宗教、思想与观点差异的容纳程度；
-- 科技与手机政策。
-
-A values-aligned school can be excellent for one family and fundamentally wrong for another.
-
-价值观高度一致的学校可能非常适合某个家庭，同时完全不适合另一个家庭。
-
----
-
-# 10. Admissions Due Diligence <br /> 入学尽调
-
-Do not stop at a campus tour.
-
-不要只参观校园就做决定。
-
-## Ask admissions <br /> 向招生部门询问
-
-- Is there space in the **specific grade**?
-- What is the age/grade placement policy?
-- What tests/interviews are required?
-- Can a learner enter mid-year?
-- Which grades are difficult transition points?
-- What English proficiency is expected?
-- What EAL support is available and at what cost?
-- What learning-support profiles can the school realistically serve?
-- What records are required from homeschoolers or previous schools?
-- What visa support is available?
-
-## Ask academics <br /> 向学术部门询问
-
-- What is the **actual current subject menu**, not the theoretical curriculum?
-- Which AP / IGCSE / A-Level / IB DP subjects ran this year?
-- What minimum cohort size is required for a subject to run?
-- Which courses are taught online or by external providers?
-- How does the school handle advanced learners?
-- How does it handle prerequisite gaps?
-- What happens when a learner is above grade level in one domain and below in another?
-- What academic counseling is provided for university planning?
-
-## Ask current families <br /> 向在读家庭询问
-
-- What surprised you after enrollment?
-- How responsive is the school when something goes wrong?
-- How stable is the teaching staff?
-- What is homework actually like?
-- How much time does transport consume?
-- Is the stated learning support available in practice?
-- How well does the school handle bullying/conflict?
-- What additional costs were not obvious at admission?
-
----
-
-# 11. Family Decision Matrix <br /> 家庭决策矩阵
-
-Do not average every factor equally. Choose **non-negotiables first**, then weight the remaining criteria.
-
-不要把所有因素简单等权平均。先确定**不可妥协项**，再为其他因素分配权重。
-
-### Step 1 — Non-negotiables <br /> 第一步：不可妥协项
-
-Examples:
-
-- must offer IB DP;
-- must support a specific disability;
-- maximum commute time;
-- annual budget ceiling;
-- must preserve Thai literacy;
-- must be secular / Christian / values-compatible;
-- must accept mid-year entry;
-- must offer a particular A-Level/AP/IB subject.
-
-### Step 2 — Weighted comparison <br /> 第二步：加权比较
+先确定**不可妥协项**，再比较其他因素。
 
 | Criterion <br /> 标准 | Weight 1–5 <br /> 权重 | School A | School B | School C |
 |---|---:|---:|---:|---:|
-| Qualification/pathway fit <br>资格路径匹配 | 5 |  |  |  |
+| Qualification/pathway fit <br>资格路径 | 5 |  |  |  |
 | Learner fit <br>学习者匹配 | 5 |  |  |  |
 | Learning support/accessibility <br>支持与无障碍 |  |  |  |  |
 | Academic challenge <br>学术挑战 |  |  |  |  |
 | Language goals <br>语言目标 |  |  |  |  |
-| School culture/values <br>文化与价值观 |  |  |  |  |
+| Culture/values <br>文化与价值观 |  |  |  |  |
 | Social/community fit <br>社交与社区 |  |  |  |  |
 | Commute <br>通勤 |  |  |  |  |
 | Air-quality environment <br>空气环境 |  |  |  |  |
 | Total cost <br>总成本 |  |  |  |  |
-| Future relocation portability <br>未来迁移可衔接性 |  |  |  |  |
+| Future portability <br>未来迁移可衔接性 |  |  |  |  |
 
-> **Do not allow a beautiful campus to compensate mathematically for a failed non-negotiable.**
+> **A failed non-negotiable cannot be compensated for by a beautiful campus or a high ranking.**  
+> **如果不可妥协条件不满足，再漂亮的校园或再高的排名也不应把它重新变成合格选择。**
+
+---
+
+# Verification Status <br /> 核查状态
+
+### High-confidence current verification <br /> 当前高置信核查
+
+The September 2026 review used current official materials for major claims about:
+
+- Montfort College
+- The Prince Royal's College
+- LANNA International School
+- SISB Chiangmai
+- NIS
+- CMIS
+- Chiang Mai University Demonstration School
+- Dara Academy
+- SBS/SIBS Chiangmai
+- ACIS
+- BCIS
+- Prem
+- APIS
+- Panyaden
+- Grace
+- UCIS
+- Meritton
+- Mill Hill
+
+### Registry-only / needs direct recheck <br /> 名录保留 / 需进一步核实
+
+Many Tier-4 and public/private-directory entries are preserved from the supplied list for coverage, but have **not** been individually reverified in this review. Their inclusion means “worth knowing exists,” not “all listed curriculum claims are current.”
+
+第四阶梯及公立/私立长名录中的许多学校，为了保持覆盖范围而保留自原始清单，但**本轮并未逐校核实所有课程细节**。被收录只表示“值得知道这所学校存在”，不代表所有课程描述都已经确认仍然有效。
+
+---
+
+# Maintenance Protocol <br /> 维护协议
+
+Recheck at least annually:
+
+- open year groups;
+- curriculum framework;
+- actual leaving qualification;
+- AP/IGCSE/A-Level/IB subject menu;
+- accreditation/authorization cycle;
+- private-candidate policy;
+- tuition and additional fees;
+- admissions availability;
+- EAL/SEN staffing;
+- boarding;
+- transport;
+- air-quality policy;
+- safeguarding;
+- university-counseling provision.
+
+For every important claim, prefer:
+
+**school website → examination board / IB / accreditor → current school profile → direct written confirmation**
+
+对于重要事实，应优先使用：
+
+**学校官网 → 考试机构 / IB / 认证机构 → 当前 school profile → 学校书面确认**
+
+---
+
+# School Map <br /> 学校地图
+
+[点击这里 / Open the Chiang Mai School Map](https://www.google.com/maps/d/u/0/edit?mid=1PiDBgDtru576POqJG0nSSFDADONg60U&usp=sharing)
+
+> [!TIP]
+> Do not choose housing until the school shortlist is narrow. In Chiang Mai, geography can change the educational experience as much as curriculum.
 >
-> **如果某所学校不满足不可妥协条件，不要让“校园很漂亮”等优点通过加权平均把它重新变成合格选择。**
+> 在候选学校尚未缩小之前，不建议先决定长期住房。清迈的地理与通勤对教育体验的影响，可能不亚于课程体系。
 
 ---
 
-# 12. Quick Shortlisting by Family Goal <br /> 按家庭目标快速缩小范围
+# Primary Sources for the 2026 Review <br /> 2026 核查主要来源
 
-This is **not a ranking**.
+The school profiles above prioritize **current official school, examination-board, accreditor, and programme sources**. Competition-result counts are intentionally not reproduced in this guide.
 
-以下内容**不是排名**。
+上述学校资料优先使用**学校官网、考试机构、认证机构与项目官方来源**。本指南刻意不展示竞赛奖牌数量。
 
-### “We specifically want a full IB continuum.” <br /> “我们明确想要完整 IB 连贯体系。”
+## Ranked schools / 排名学校
 
-Start with **Prem** and **American Pacific**, then compare actual programme delivery, boarding/day structure, location, subject availability, and learner fit.
-
-优先比较 **Prem** 与 **American Pacific**，然后进一步比较课程实际执行、寄宿/走读、地理位置、科目与学习者匹配。
-
-### “We want IB DP but prefer a distinctive values-led school.” <br /> “我们要 IB DP，但更重视独特价值观教育。”
-
-Investigate **Panyaden** carefully for philosophical fit.
-
-重点了解 **Panyaden** 的教育理念是否真正适合家庭。
-
-### “We want IGCSE → A Levels.” <br /> “我们要 IGCSE → A Level。”
-
-Begin with **LANNA, SISB Chiangmai, BCIS, and VCIS**. Investigate **Meritton** where its currently rolling-out senior pathway fits.
-
-可先比较 **LANNA、SISB Chiangmai、BCIS、VCIS**；若接受较新的高中扩展路径，再研究 **Meritton**。
-
-### “We want a U.S. diploma + AP.” <br /> “我们要美式高中毕业证 + AP。”
-
-Compare **CMIS, NIS, and UCIS**; add **Grace** when its Christian/mission-oriented model is appropriate.
-
-可比较 **CMIS、NIS、UCIS**；如果 Grace 的基督教/宣教家庭定位适合，再加入 **Grace**。
-
-### “Chinese is a major long-term goal.” <br /> “中文是重要长期目标。”
-
-Compare **ACIS** and **SISB Chiangmai**, but ask for actual weekly language hours, literacy outcomes, grouping, and secondary continuity rather than relying on “trilingual” branding.
-
-可以重点比较 **ACIS** 与 **SISB Chiangmai**，但应询问实际每周中文课时、读写目标、分层方式和高中连续性，而不是只看“三语”宣传。
-
-### “We need school-linked homeschool support.” <br /> “我们需要学校型家庭教育支持。”
-
-Start with **Grace Connect**, then separately investigate external examination centres for the qualifications you intend to use.
-
-优先了解 **Grace Connect**，同时根据计划使用的外部资格，单独寻找相应考试中心。
-
-### “We want Thai-system continuity with strong English.” <br /> “我们希望保留泰制学历，同时强化英语。”
-
-Compare **Montfort's English Programme, Varee Chiangmai School, and Ambassador Bilingual School** according to age, language level, credential goals, class environment, and cost.
-
-可根据年龄、语言水平、资格目标、班级环境与成本，比较 **Montfort English Programme、Varee Chiangmai School、Ambassador Bilingual School**。
-
----
-
-# 13. Schools Worth Further Investigation <br /> 其他值得继续调查的学校
-
-Chiang Mai has additional international, private, bilingual, Montessori, national-language, and faith-based schools. They may be excellent fits for particular learners, but this guide does **not** assign detailed curriculum claims without current primary-source verification.
-
-清迈还有其他国际、私立、双语、蒙特梭利、国家语言体系与宗教学校。它们可能非常适合某些学习者，但如果缺少当前第一手资料核查，本指南不会给出详细课程断言。
-
-Examples include:
-
-- Christliche Deutsche Schule Chiang Mai;
-- Chiang Mai Montessori International School;
-- Chiang Mai Chinese International School;
-- Satit International Bilingual School of Rangsit University Chiangmai;
-- Chiang Mai University Demonstration School;
-- Prince Royal's College;
-- Dara Academy;
-- Regina Coeli College;
-- Sacred Heart College;
-- Yupparaj Wittayalai School;
-- Tonkla School;
-- and other Thai private/public schools across the province.
-
-If one of these enters your final shortlist, apply the **same verification protocol** used for the schools above before relying on it.
-
-如果其中任何一所进入家庭最终候选名单，都应使用与上文相同的**核查流程**，而不是依赖旧目录、社交媒体转述或他人印象。
-
----
-
-# 14. Verification Protocol <br /> 信息核查流程
-
-Before a school is described as “verified” in this guide:
-
-1. **Use the school's current official website.**
-2. **For IB, check the IB World School directory.**
-3. **For Cambridge/Pearson/AP, separate curriculum claims from actual exam access.**
-4. **For accreditation, prefer the accreditor or a current school profile naming the accreditation period.**
-5. **Check the academic year.**
-6. **Do not infer a qualification from words such as “British,” “American,” “international,” “Cambridge-based,” or “IB-inspired.”**
-7. **Do not infer private-candidate access from the school's own qualification pathway.**
-8. **Date volatile information.**
-9. **Keep uncertain claims explicitly uncertain.**
-10. **Remove unsupported rankings.**
-
-一所学校在本指南中标注为“已核实”之前，应：
-
-1. **查看学校当前官网；**
-2. **IB 通过 IB World School 官方目录核对；**
-3. **Cambridge/Pearson/AP 要区分课程教学与实际考试接入；**
-4. **认证优先查看认证机构，或包含明确认证期限的当前学校档案；**
-5. **确认信息所属学年；**
-6. **不能仅凭“British”“American”“International”“Cambridge-based”“IB-inspired”等词推断最终资格；**
-7. **不能因为学校本身开设某资格，就推断接受社会考生；**
-8. **为易变信息标注日期；**
-9. **不确定的事实明确保留不确定性；**
-10. **删除没有方法论支撑的排名。**
-
----
-
-# 15. Primary Sources Used in the 2026 Review <br /> 2026 本次核查使用的主要官方来源
-
-## IB
-
-- [IB — Prem Tinsulanonda International School](https://www.ibo.org/en/school/001366)
-- [IB — American Pacific International School](https://www.ibo.org/en/school/002907)
-- [IB — Panyaden International School](https://www.ibo.org/en/school/061269)
-- [IB — Find an IB World School](https://www.ibo.org/programmes/find-an-ib-school/)
-
-## American / AP
-
-- [CMIS — Academic Programs](https://cmis.ac.th/programs)
-- [CMIS — Tuition & Fees](https://cmis.ac.th/node/34)
-- [NIS — High School / AP](https://www.nis.ac.th/academics/highschool)
-- [NIS — WASC Accreditation through 2032](https://www.nis.ac.th/news/u0m1fox623y440tz5qkospno)
-- [UCIS — Academics](https://www.ucis.ac.th/academics)
-- [Grace — Academics](https://gisthailand.org/academics/)
-- [Grace — Grace Connect](https://gisthailand.org/academics/grace-connect/)
-- [Grace — Learning Support](https://gisthailand.org/academics/learning-support/)
-- [ACIS](https://www.acis.ac.th/)
-- [College Board — AP for Homeschooled Students](https://apstudents.collegeboard.org/help-center/im-homeschooled-how-can-i-take-ap-exam)
-
-## British / Cambridge
-
+- [Montfort Secondary Curriculum](https://www.montfort.ac.th/en/curriculum/)
+- [Montfort Lower Secondary](https://www.montfort.ac.th/academic-lower-secondary/)
+- [Prince Royal's College STEP](https://www.prc.ac.th/step-m1/)
+- [Prince Royal's College Primary Programmes](https://www.prc.ac.th/program-eep-iep/)
 - [LANNA](https://www.lannaist.ac.th/)
+- [LANNA IGCSE Course Guide](https://www.lannaist.ac.th/wp-content/uploads/2025/02/LANNA-IGCSE-Courses-for-2025-26.pdf)
+- [LANNA 2026–27 A-Level Course Guide](https://www.lannaist.ac.th/wp-content/uploads/2025/11/LANNA-A-Level-Courses-for-2026-27.pdf)
+- [LANNA WASC through 2031](https://www.lannaist.ac.th/lanna-reaccredited-by-wasc-through-2031/)
 - [SISB Chiangmai](https://sisb.ac.th/singapore-international-school-chiangmai/)
+- [NIS High School / AP](https://www.nis.ac.th/academics/highschool)
+- [NIS WASC through 2032](https://www.nis.ac.th/news/u0m1fox623y440tz5qkospno)
+- [CMIS School Profile 2025–26](https://cmis.ac.th/sites/default/files/CMIS_HS_Profile_2025-26.pdf)
+- [CMU Demonstration Curriculum](https://cmud.edu.cmu.ac.th/page/2prqjkaeldqj?lang=th)
+- [CMU Demonstration 2026 Specialist Classes](https://cmud.edu.cmu.ac.th/news/6871-bc7u085iwjq4rn0bdq97)
+- [Dara Academy / Native Speaker Programme](https://score.dara.ac.th/np/)
+- [SBS/SIBS School Profile](https://sibs.ac.th/school-profile/)
+- [SBS/SIBS Exam Centre](https://sibs.ac.th/exam/)
+- [ACIS](https://www.acis.ac.th/)
+- [Anuban Chiangmai School](https://abcm.ac.th/)
 - [BCIS](https://www.bcisschool.ac.th/)
-- [VCIS](https://vcis.ac.th/vcis/)
-- [VCIS — FAQ / Accreditation / Curriculum](https://vcis.ac.th/vcis/faq/)
-- [Meritton — Curriculum](https://merittonbritish.ac.th/curriculum/)
-- [Mill Hill Thailand](https://millhillthailand.ac.th/)
+
+## International and alternative pathways / 国际与特色路径
+
+- [IB — Prem](https://www.ibo.org/en/school/001366)
+- [IB — APIS](https://www.ibo.org/en/school/002907)
+- [IB — Panyaden](https://www.ibo.org/en/school/061269)
+- [Grace Academics](https://gisthailand.org/academics/)
+- [Grace High School](https://gisthailand.org/academics/high-school/)
+- [Grace Learning Support](https://gisthailand.org/academics/learning-support/)
+- [Grace Connect](https://gisthailand.org/academics/grace-connect/)
+- [UCIS Academics](https://www.ucis.ac.th/academics)
+- [VCIS Secondary / IGCSE](https://vcis.ac.th/vcis/secondary/)
+- [VCIS A Levels](https://vcis.ac.th/vcis/a-levels/)
+- [Meritton Curriculum](https://merittonbritish.ac.th/curriculum/)
+- [Mill Hill 2026–27 Fees / Current Year Levels](https://millhillthailand.ac.th/admissions/fees)
+- [Wichai Wittaya Academics](https://wichai.ac.th/academics/)
+- [CDSC German International Abitur](https://cdsc.ac.th/en/learning/degrees-certificates/)
+- [CCIS Academics](https://ccis.ac.th/academics/)
+- [Bright Seeds](https://brightseeds.ac.th/)
+- [Cariad](https://cariad.ac.th/)
+- [Chiang Mai Montessori Elementary](https://chiangmaimontessori.org/elementary/)
+- [Northern International Montessori Programmes](https://nims-chiangmai.org/programs.htm)
+- [Windfield Chiang Mai](https://chiangmai.windfield.ac.th/chiang-mai/)
+- [Cedar International School curriculum](https://chiangmaicedar.ac.th/en/research-grade.html)
+
+## Thai / bilingual pathways <br /> 泰制与双语路径
+
+- [Varee Chiangmai School Programmes](https://www.varee.ac.th/en/newweb/course.php)
+- [Varee Chiangmai School Secondary](https://www.varee.ac.th/en/newweb/secondary.php)
+- [Ambassador Bilingual School Curriculum](https://absbilingualschool.ac.th/new/curriculum/)
+- [Ambassador Bilingual Academy](https://www.abachiangmai.com/)
+
+## External-candidate / homeschool verification <br /> 社会考生与家庭教育
+
 - [Cambridge — Private Candidates](https://www.cambridgeinternational.org/exam-administration/private-candidates/)
 - [Pearson — Private Candidates](https://qualifications.pearson.com/en/support/support-topics/registrations-and-entries/academic-registrations-and-entries/private-candidates.html)
-
-## Thai-system / bilingual
-
-- [Montfort — Curriculum](https://www.montfort.ac.th/en/curriculum/)
-- [Montfort — Upper Secondary](https://www.montfort.ac.th/academic-upper-secondary/)
-- [Varee Chiangmai School — Programmes](https://www.varee.ac.th/en/newweb/course.php)
-- [Ambassador Bilingual School — Curriculum](https://absbilingualschool.ac.th/new/curriculum/)
+- [College Board — AP for Homeschooled Students](https://apstudents.collegeboard.org/help-center/im-homeschooled-how-can-i-take-ap-exam)
+- [SBS/SIBS Exam Centre](https://sibs.ac.th/exam/)
+- [Grace Connect](https://gisthailand.org/academics/grace-connect/)
 
 ---
 
-# 16. Maintenance Notes <br /> 维护原则
+# Final Principle <br /> 最终原则
 
-The following fields should be treated as **volatile** and rechecked at least annually:
-
-- tuition and additional fees;
-- open year groups;
-- external qualification subjects;
-- AP / A-Level / IGCSE / IB DP subject availability;
-- exam-centre/private-candidate policies;
-- accreditation cycles;
-- admissions availability;
-- EAL and learning-support staffing;
-- boarding provision;
-- school transport;
-- school leadership;
-- campus location;
-- safeguarding and air-quality procedures.
-
-以下信息属于**高变化信息**，建议至少每年重新核查：学费及附加费用、实际开放年级、外部资格科目、AP/A-Level/IGCSE/IB DP 选科、社会考生政策、认证周期、招生名额、EAL 与学习支持人员、寄宿、校车、学校领导、校区位置、儿童安全与空气质量程序。
-
-Keep stable architectural information separate from volatile operational information.
-
-应把相对稳定的教育架构信息，与每年变化的运营信息分开维护。
-
----
-
-## Final Principle <br /> 最终原则
-
-> **Do not choose the “best school in Chiang Mai.” Choose the educational ecosystem that best fits the learner and preserves the right future options.**
+> **Keep the mathematics-competition ranking as the ranking. Keep school research as school research. Do not let one silently substitute for the other.**
 >
-> **不要寻找“清迈最好的学校”。要选择最适合这个学习者、并能够保留正确未来选择的教育生态。**
+> **数学竞赛排名就是数学竞赛排名；学校研究就是学校研究。不要让两者在不知不觉中互相替代。**
 
-For some learners, that will be a full-time international school. For others, it may be a Thai bilingual school, a specialized school, a homeschool architecture with external qualifications, or a hybrid system assembled across family, tutors, community, and institutional resources.
+The ranking preserves the project's competition-based ordering. The researched profiles answer a different and more practical question: **what educational pathway does each school actually offer now?**
 
-对一些学习者来说，这意味着全日制国际学校。对另一些学习者来说，更好的答案可能是泰制双语学校、专业特色学校、家庭教育 + 外部资格，或由家庭、导师、社区与机构共同构成的混合教育系统。
+排名保留本项目基于数学竞赛成绩形成的既定顺序；而学校研究回答的是另一个更实际的问题：**这所学校现在究竟提供什么教育路径？**
+
+For a real family decision, use both—but also consider the learner's needs, language, future credentials, learning support, commute, cost, values, and long-term optionality.
+
+真正择校时，两者都可以参考，但还必须同时考虑学习者需求、语言、未来资格、学习支持、通勤、成本、价值观与长期选择空间。
