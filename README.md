@@ -2,15 +2,17 @@
 
 <img src="./lux-et-veritas.png" alt="Lux et Veritas Homeschooling" width="720">
 
-# Lux et Veritas Homeschooling  
+# Lux et Veritas Homeschooling
 ## 光与真理家庭学校教育
 
-**A bilingual, internationally oriented architecture for homeschooling, self-study, and lifelong learning.**  
-**面向家庭教育、自学与终身学习的双语国际化学习体系。**
+**A learner-centered architecture for rigorous homeschooling, independent study, and internationally portable pathways.**  
+**以学习者为中心，面向严谨家庭教育、自主学习与国际升学路径的教育架构。**
 
-[Quick Start](#quick-start--快速上手) ·
-[Curriculum Pathways](#curriculum-pathways--课程路径) ·
-[Mastery Mathematics](#mastery-mathematics--掌握式数学) ·
+[Start Here](#start-here--从这里开始) ·
+[Operating Model](#operating-model--运行模型) ·
+[Curriculum](#curriculum-architecture--课程架构) ·
+[Qualifications](#qualification--recognition-pathways--学历与认证路径) ·
+[Mastery Mathematics](./content/mastery-mathematics.md) ·
 [Resources](#resources--资源) ·
 [Chiang Mai](#chiang-mai--清迈)
 
@@ -22,404 +24,293 @@
 
 ## About <br /> 关于
 
-**Lux et Veritas Homeschooling** is a living reference for designing a rigorous education outside a single school system. It brings together curriculum frameworks, examination and qualification routes, mastery-based subject study, online learning resources, and Chiang Mai–specific information in one place.
+**Lux et Veritas Homeschooling** is a living, modular framework for designing an education around a developing learner rather than reproducing a school timetable at home.
 
-**Lux et Veritas Homeschooling（光与真理家庭学校教育）** 是一个持续更新的家庭教育与自主学习框架，将课程体系、考试与学历路径、掌握式学科学习、在线资源，以及清迈本地教育信息整合在同一个学习架构中。
+It connects six things that are often confused:
 
-The repository is intentionally **modular**. A learner may use one curriculum as the structural spine, borrow strengths from other systems, study subjects beyond school level, and select formal credentials according to future goals.
+1. **the learner** — development, prior knowledge, strengths, needs, interests, and growing independence;
+2. **the outcomes** — what the learner should know, be able to do, and eventually manage without help;
+3. **the curriculum** — the scope and sequence used to reach those outcomes;
+4. **the learning process** — instruction, practice, projects, discussion, reading, community, and experience;
+5. **the evidence** — diagnostic assessment, mastery checks, transfer tasks, portfolios, and external examinations;
+6. **the pathway** — legal status, credentials, recognition, and future transitions.
 
-本项目强调**模块化组合**：以一个体系作为主线，吸收其他体系的优势，在能力允许时超越年级学习，并根据未来升学或职业目标选择正式考试与学历路径。
-
-### Philosophy <br /> 核心理念
+**Lux et Veritas（光与真理）** 将家庭教育视为一个可持续迭代的学习系统：先理解学习者，再确定目标与课程；通过教学、练习、项目和真实世界经验促进学习；用证据验证掌握程度；最后把学历、认证与未来升学路径纳入整体设计。
 
 > **Curriculum gives structure. Books give depth. Problems build mastery. Projects create transfer. Qualifications create portability. Curiosity gives the whole system a reason to exist.**
->
-> **课程提供结构，书籍提供深度，问题训练形成掌握，项目促进迁移，学历提供可迁移性，而好奇心赋予整个学习体系意义。**
+
+### What this repository is — and is not <br /> 本项目是什么，不是什么
+
+This repository is a **planning and educational-design reference**. It is not a school, examination centre, accrediting body, legal opinion, or guarantee of admission or qualification recognition.
 
 > [!IMPORTANT]
-> Curriculum, examination, school-registration, and qualification-recognition rules vary by country, institution, and year. Treat the pathways below as planning references and verify current requirements with the relevant authority, examination board, school, university, or professional body.
+> **Curriculum ≠ enrollment ≠ examination entry ≠ credential ≠ legal recognition.**  
+> Rules change by jurisdiction, examination board, subject, institution, and year. Verify high-stakes decisions with the relevant authority or receiving institution before committing time or money.
 
 ---
 
-## Quick Start <br /> 快速上手
+## Start Here <br /> 从这里开始
 
-1. **Define the destination.** University, vocational route, examination qualification, independent scholarship, or a combination.  
-   **先确定目标。** 大学、职业教育、考试学历、自主学术发展，或多者结合。
-2. **Place the learner by demonstrated mastery, not age alone.**  
-   **根据真实掌握程度定位，而不是只按年龄或年级。**
-3. **Choose one primary curriculum spine.**  
-   **选择一个主要课程体系作为结构主线。**
-4. **Build subject depth with carefully chosen books, problems, projects, and discussion.**  
-   **通过精选教材、习题、项目与讨论建立学科深度。**
-5. **Use assessment diagnostically.** Repair weak prerequisites before adding harder material.  
-   **把评估当作诊断工具。** 先修复薄弱先修知识，再增加难度。
-6. **Plan credentials backward from future goals.**  
-   **从未来目标反推考试与学历路径。**
-7. **Review and redesign periodically.** A homeschool pathway should evolve with the learner.  
-   **定期复盘和重构。** 家庭教育路径应随学习者发展而变化。
+A strong homeschool plan should be built in this order:
 
-<img src="./pathway.png" alt="Lux et Veritas homeschooling pathway" width="900">
+1. **Establish context and constraints.**  
+   Jurisdiction, language, family capacity, finances, available expertise, accessibility needs, and likely future pathways.
+
+2. **Build a learner profile.**  
+   Identify prior knowledge, misconceptions, reading level, mathematical readiness, interests, strengths, executive-function demands, independence, and support needs.
+
+3. **Define long-horizon outcomes.**  
+   Decide what flourishing, intellectual independence, future agency, and pathway readiness should look like for this learner.
+
+4. **Choose a coherent curriculum spine.**  
+   Use one primary sequence per major domain. Add resources because they solve a defined need—not because more materials feel more rigorous.
+
+5. **Teach for understanding and independence.**  
+   New material may require explicit modeling and guided practice; established knowledge should be strengthened through retrieval, spacing, mixed practice, discussion, projects, and authentic application.
+
+6. **Collect evidence of mastery.**  
+   Look for accurate performance, reasoning, delayed retention, transfer to unfamiliar situations, clear communication, and decreasing dependence on support.
+
+7. **Plan credentials backward.**  
+   If formal qualifications matter, determine the target university, profession, or jurisdiction first; then confirm eligible examinations, subjects, centres, deadlines, practical/coursework requirements, and recognition.
+
+8. **Review and redesign.**  
+   At least once per term, examine academic growth, independence, wellbeing, workload, resource fit, social participation, and pathway risk. Preserve what works; change what does not.
+
+**核心原则：不以年龄自动决定学习内容，不以“完成教材”代替掌握，不以考试分数代替全部能力，也不把家庭教育变成学校课程表的简单复制。**
 
 ---
 
-## Curriculum Pathways <br /> 课程路径
+## Operating Model <br /> 运行模型
 
-The table below is a **menu of possible components**, not a recommendation to complete every program. A practical homeschooling plan will usually use one main framework plus selected supplementary elements.
+```mermaid
+flowchart LR
+    A[Context & Legal Constraints<br/>家庭与法规环境] --> B[Learner Profile<br/>学习者画像]
+    B --> C[Goals & Competencies<br/>目标与能力]
+    C --> D[Curriculum & Provision<br/>课程与资源]
+    D --> E[Instruction & Experience<br/>教学与体验]
+    E --> F[Assessment & Portfolio<br/>评估与作品集]
+    F --> G[Credentials & Transitions<br/>学历与未来路径]
+    F --> B
+    G --> C
+```
 
-下表是**可组合的教育模块清单**，并不意味着学习者需要完成所有项目。现实中的家庭教育通常以一个主要体系为主，再选择性吸收其他体系的优势。
+### Design principles <br /> 设计原则
+
+- **Learner before grade label.** Age matters developmentally, but placement should also reflect demonstrated readiness.
+- **Mastery before acceleration.** Accelerate by removing unnecessary repetition, not by deleting foundations.
+- **Foundations before tool dependence.** Reading, writing, mathematics, disciplinary knowledge, and reasoning make later technology—including AI—more useful.
+- **Explicit instruction and inquiry are complementary.** Model unfamiliar skills when cognitive load is high; increase exploration as knowledge and independence grow.
+- **Retrieval, spacing, and revisitation are normal.** Important knowledge should return after delays and in mixed contexts.
+- **Transfer matters.** A learner should eventually use knowledge in unfamiliar problems, projects, conversations, and real decisions.
+- **One spine, many experiences.** Coherence comes from a stable sequence; richness comes from books, laboratories, fieldwork, projects, mentors, clubs, art, sport, and community.
+- **Agency is an outcome.** Support should gradually fade so that the learner plans, studies, checks, revises, and seeks help increasingly well.
+- **Family sustainability is a design constraint.** A plan that exceeds available time, money, energy, or expertise is not a good plan.
+- **Credentials are instruments, not the purpose of education.** Use them deliberately when they preserve future options.
+
+---
+
+## Learner Model <br /> 学习者模型
+
+Before selecting courses, record a short **living learner profile**. It should be revised as the learner changes.
+
+| Dimension | Questions to answer |
+|---|---|
+| Prior knowledge | What is secure? What is fragile? What misconceptions recur? |
+| Development | What level of abstraction, sustained attention, reading demand, and self-management is realistic now? |
+| Language & literacy | In which language(s) can the learner read, write, discuss, and study independently? |
+| Strengths & interests | What produces sustained attention, curiosity, or unusually rapid learning? |
+| Barriers & supports | Are there task, environmental, sensory, motor, language, or executive-function barriers? |
+| Independence | What can be done alone, with prompts, with guided practice, or only with direct teaching? |
+| Social needs | What peer, mentor, team, mixed-age, or community participation is needed? |
+| Future direction | Which pathways should remain open even if the learner's eventual destination is uncertain? |
 
 > [!NOTE]
-> Using a curriculum framework independently is not the same as enrollment in, authorization by, or certification from the organization that owns that framework. Where a formal credential matters, confirm school, examination-center, candidate-registration, and recognition arrangements in advance.
+> A learner profile is a **working hypothesis**, not a permanent label. The purpose is better decisions, not categorization.
 
-| Level <br /> 等级 | Curriculum / Pathway <br /> 课程体系 / 路径 | Reference System <br /> 参考学制 | Credential / Recognition Route <br /> 学历 / 认证路径 |
-|---|---|---|---|
-| Early Childhood <br /> 幼教 | [Montessori Early Childhood Program <br /> 蒙特梭利幼教项目](https://www.montessori.org/wp-content/uploads/2021/09/Montessori-Curriculum-Scope-and-Sequence.pdf) | Montessori <br /> 蒙特梭利 | None <br /> 无 |
-| Primary <br /> 小学 | [IB PYP <br /> IB 小学项目](https://www.ibo.org/programmes/primary-years-programme/) | International <br /> 国际 | Curriculum framework; no standalone leaving qualification <br /> 课程框架；无独立毕业资格证书 |
-| | Thai Primary School Program <br /> 泰国小学项目 | Thailand <br /> 泰制 | Registration / recognition through the relevant Thai authority <br /> 通过泰国相关主管机关注册 / 认证 |
-| | [Singapore Primary School Program <br /> 新加坡小学项目](https://www.moe.gov.sg/primary/curriculum/syllabus) | Singapore <br /> 新加坡制 | Curriculum reference <br /> 课程参考 |
-| | [Chinese Primary School Program <br /> 中国义务教育小学项目](http://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html) | China <br /> 中国制 | Curriculum reference <br /> 课程参考 |
-| Junior Secondary <br /> 初中 | [Pearson Edexcel GCSEs <br /> Pearson Edexcel GCSE](https://qualifications.pearson.com/en/qualifications/edexcel-gcses.html) | UK <br /> 英制 | GCSE qualification route <br /> GCSE 资格路径 |
-| | [IB MYP <br /> IB 中学项目](https://www.ibo.org/programmes/middle-years-programme/) | International <br /> 国际 | Optional MYP eAssessment can lead to IB MYP course results / certificate through an authorized school <br /> 可通过授权学校参加 MYP eAssessment，获得课程成绩 / MYP 证书 |
-| | Thai Junior Secondary School Program <br /> 泰国初中项目 | Thailand <br /> 泰制 | Registration / recognition through the relevant Thai authority <br /> 通过泰国相关主管机关注册 / 认证 |
-| | [Singapore Junior Secondary School Program <br /> 新加坡初中项目](https://www.moe.gov.sg/secondary/schools-offering-full-sbb/syllabus) | Singapore <br /> 新加坡制 | Curriculum reference <br /> 课程参考 |
-| | [Chinese Junior Secondary School Program <br /> 中国义务教育初中项目](http://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html) | China <br /> 中国制 | Curriculum reference <br /> 课程参考 |
-| | [Cambridge IGCSE <br /> 剑桥 IGCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/) | International / UK-oriented <br /> 国际 / 英制取向 | IGCSE qualification route <br /> IGCSE 资格路径 |
-| Senior Secondary <br /> 高中 | [GED](https://www.ged.com/en/) | US high-school equivalency testing <br /> 美国高中同等学历考试 | Standardized equivalency test; recognition varies <br /> 标准化同等学历考试；认可范围因机构而异 |
-| | [Pearson Edexcel A Levels <br /> Pearson Edexcel A Level](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels.html) | UK <br /> 英制 | A Level qualification route <br /> A Level 资格路径 |
-| | [IB DP <br /> IB 文凭项目](https://www.ibo.org/programmes/diploma-programme/) | International <br /> 国际 | IB Diploma route through an authorized IB World School <br /> 通过授权 IB 世界学校取得 IB 文凭 |
-| | Thai Senior Secondary School Program <br /> 泰国高中项目 | Thailand <br /> 泰制 | Registration / recognition through the relevant Thai authority <br /> 通过泰国相关主管机关注册 / 认证 |
-| | [Singapore Senior Secondary School Program <br /> 新加坡高中项目](https://www.moe.gov.sg/secondary/schools-offering-full-sbb/syllabus) | Singapore <br /> 新加坡制 | Curriculum reference <br /> 课程参考 |
-| | [Chinese Senior Secondary School Program <br /> 中国普通高中项目](http://www.moe.gov.cn/srcsite/A26/s8001/201801/t20180115_324647.html) | China <br /> 中国制 | Curriculum reference <br /> 课程参考 |
-| | [Cambridge International AS & A Levels <br /> 剑桥国际 AS & A Level](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-advanced/cambridge-international-as-and-a-levels/) | International / UK-oriented <br /> 国际 / 英制取向 | AS & A Level qualification route <br /> AS & A Level 资格路径 |
+---
 
-### Tertiary & Lifelong Learning <br /> 高等教育与终身学习
+## Curriculum Architecture <br /> 课程架构
 
-These are best treated separately from school-level equivalency pathways.
+A complete homeschool curriculum is broader than an examination syllabus. The intended domain architecture is:
 
-| Pathway <br /> 路径 | Model <br /> 模式 | Role <br /> 作用 |
+| Domain | Core purpose | Repository status |
 |---|---|---|
-| [University of the People](https://www.uopeople.edu/) | Online university <br /> 在线大学 | Formal tertiary study <br /> 正规高等教育 |
-| [St. John's College Great Books Curriculum <br /> 圣约翰学院经典著作课程](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) | Great Books <br /> 经典著作 | Liberal-arts reading model <br /> 博雅教育阅读框架 |
-| [Open Source Society University <br /> 开源社会大学](https://ossu.thinkific.com/) | Open-source self-study <br /> 开源自学 | Structured independent study <br /> 结构化自主学习 |
+| **Literacy & Language Arts** | Reading, writing, speaking, listening, grammar, rhetoric, literature, research | Architecture to be developed |
+| **Mathematics** | Number, algebra, geometry, proof, modeling, calculus, advanced mathematics | **[Mastery Mathematics](./content/mastery-mathematics.md)** |
+| **Science** | Scientific knowledge, investigation, measurement, modeling, laboratory and field practice | Architecture to be developed |
+| **Humanities** | History, geography, civics, economics, philosophy, source analysis | Architecture to be developed |
+| **Languages** | Multilingual communication, literacy, culture, sustained input and output | Family/pathway dependent |
+| **Computing** | Computational thinking, programming, data, systems, digital creation | Architecture to be developed |
+| **Arts** | Visual art, music, design, performance, creative practice | Family/community provision |
+| **Physical Education & Health** | Movement competence, strength, endurance, health knowledge, safe habits | Family/community provision |
+| **Practical & Financial Capability** | Household competence, money, planning, making, repair, entrepreneurship | Integrated and project-based |
+
+### Curriculum selection rule <br /> 课程选择规则
+
+For each domain, define:
+
+**purpose → prerequisites → scope → sequence → primary spine → practice → assessment → transfer → enrichment → credential mapping (if needed).**
+
+Do not combine multiple full curricula unless there is a clear reason. When a learner is struggling, first diagnose whether the problem is **missing prerequisite knowledge, excessive task difficulty, weak instruction, language load, poor resource fit, insufficient practice, or an accessibility barrier**.
 
 ---
 
-# Mastery Mathematics <br /> 掌握式数学
+## Mastery Mathematics <br /> 掌握式数学
 
-### A Self-Study & Homeschool Curriculum from Arithmetic to Advanced Mathematics  
-### 从算术到高等数学的自学与家庭教育课程
+Mathematics is the first fully developed subject architecture in this repository.
 
-**Mastery Mathematics** is the default mathematics architecture for Lux et Veritas. It turns a large mathematics library into a usable sequence for a motivated self-learner, homeschool family, tutor, or small learning pod that wants **mathematical depth rather than a checklist of school topics**.
+**[Open the dedicated Mastery Mathematics curriculum →](./content/mastery-mathematics.md)**
 
-The route is mastery-based. A learner advances when prerequisite ideas, techniques, proof habits, and problem-solving behaviors are secure—not merely because a school year has ended.
+Its broad progression is:
 
-**Core progression:**
+> **Number & arithmetic → algebra + Euclidean geometry → advanced algebra + trigonometry → proof + discrete mathematics → calculus + linear algebra → multivariable mathematics + differential equations + probability → rigorous analysis → optional specialization**
 
-> **Arithmetic & number sense → Algebra + Euclidean geometry → Algebra II + trigonometry + analytic/solid geometry → Proof + discrete mathematics + number theory → Calculus + linear algebra → Multivariable calculus + differential equations + probability → Rigorous analysis → Specialization**
-
-This sequence is intentionally more ambitious than a conventional minimum-requirement school curriculum. It may be **slowed down, compressed, or entered midway after placement**.
-
----
-
-## Mathematical Design Principles <br /> 数学课程设计原则
-
-1. **Mastery before acceleration.** Add new material only when representative problems can be solved independently and the learner can explain why the methods work.
-2. **Problems are the main activity.** Reading mathematics prepares the learner to *do* mathematics; most time goes to solving, proving, checking, revising, and explaining.
-3. **Algebra and geometry grow together.** Geometry develops proof, visualization, construction, and mathematical taste and should not be postponed.
-4. **Proof begins early.** Explanation, counterexample, induction, contradiction, invariants, and Euclidean argument develop gradually rather than appearing suddenly at university.
-5. **Depth beats book completion.** Finishing every page of every book is neither required nor desirable.
-6. **Difficulty is layered.** Each stage should contain fluent work, stretching work, and a small amount of genuinely difficult work.
-7. **Mixed review is permanent.** Previously mastered ideas return in weekly mixed sets.
-8. **Mathematical communication counts.** Solutions state assumptions, define symbols, show reasoning, and distinguish proof from numerical evidence.
-9. **Technology is a tool, not a substitute.** Mental arithmetic, estimation, symbolic fluency, graph sketching, and hand derivation come before routine technological dependence.
-10. **Curiosity is protected.** Puzzles, history, biography, recreational mathematics, and open-ended investigation belong inside the curriculum.
-
----
-
-## The Eight-Stage Pathway <br /> 八阶段学习路径
-
-| Stage <br /> 阶段 | Typical Duration <br /> 典型时长 | Core <br /> 核心内容 | Primary Spines <br /> 主教材 | Exit Evidence <br /> 阶段完成证据 |
-|---|---:|---|---|---|
-| **1 — Arithmetic, Number Sense & Mathematical Habits** <br /> 算术、数感与数学习惯 | 32–40 weeks | Integers, fractions, decimals, ratio, percent, estimation, divisibility, word problems, early variables | Kiselev — *Arithmetic*; Berezanskaya — *Arithmetic—Problems and Exercises* | Accurate mixed fraction/ratio/percent work; strong estimation; multi-step problems; sustained independent attack on unfamiliar problems |
-| **2 — Algebra I + Euclidean Geometry I** <br /> 代数 I + 欧氏几何 I | 36–44 weeks | Expressions, equations, inequalities, systems, polynomials, factorization, functions, congruence, similarity, circles, area, proof | Gelfand & Shen — *Algebra*; Kiselev — *Geometry: Planimetry* | Algebraic fluency plus correct multi-step Euclidean proofs; can select relevant theorems independently |
-| **3 — Algebra II, Trigonometry, Coordinate & Solid Geometry** <br /> 代数 II、三角、解析与立体几何 | 36–44 weeks | Quadratics, rational/radical equations, logs/exponentials, trig, vectors, coordinates, stereometry | Kiselev — *Algebra II*; Gelfand & Saul — *Trigonometry*; Kiselev — *Stereometry*; Pogorelov / Yefimov — analytic geometry | Moves fluently among symbolic, graphical, geometric, and verbal representations; chooses strategies in mixed problems |
-| **4 — Proof, Discrete Mathematics, Number Theory & Precalculus Maturity** <br /> 证明、离散数学、数论与大学数学衔接 | 32–40 weeks | Logic, sets, quantifiers, proof methods, counting, induction, invariants, congruences, Diophantine equations, sequences, inequalities | Hammack — *Book of Proof*; Borovik & Gardiner — *The Essence of Mathematics Through Elementary Problems*; Vilenkin — *Combinatorial Mathematics for Recreation*; MIT — *Mathematics for Computer Science* (selected) | **10-problem proof portfolio** with induction, number theory, combinatorics, geometry, and open-choice problems |
-| **5 — Single-Variable Calculus + Linear Algebra** <br /> 单变量微积分 + 线性代数 | 40–48 weeks | Limits, continuity, derivatives, integration, Taylor approximation, vector spaces, transformations, eigenvalues | Apostol — *Calculus, Vol. 1* **or** Spivak — *Calculus*; Shilov — *Linear Algebra* | Mixed closed-book calculus performance; explains theorem hypotheses; constructs counterexamples; uses linear algebra conceptually |
-| **6 — Multivariable Calculus, Vector Analysis, Differential Equations & Probability** <br /> 多变量微积分、向量分析、微分方程与概率 | 40–52 weeks | Partial derivatives, multiple integrals, vector fields, integral theorems, ODEs, random variables, expectation, distributions, LLN/CLT ideas | Apostol — *Calculus, Vol. 2*; Krasnov et al. — *Vector Analysis*; Pontryagin — *Ordinary Differential Equations*; Gnedenko & Khinchin → Rozanov — probability | Integrated mathematical modeling connecting calculus, linear algebra, differential equations, and probability |
-| **7 — Rigorous Analysis & Advanced Mathematical Core** <br /> 严格分析与高等数学核心 | 1–2 years | Epsilon-delta analysis, sequences/series, compactness, completeness, abstract structures, advanced matrices, algebra/topology extensions | Kolmogorov & Fomin — *Introductory Real Analysis*; Rudin — *Principles of Mathematical Analysis*; selected advanced companions | Can learn theorem-centered material independently: definitions → examples → theorem → reconstructed proof → examples/counterexamples |
-| **8 — Specialization** <br /> 专业方向 | Flexible | Choose one primary advanced track and optionally one secondary track | Track-dependent | Substantial specialization project: research-style exposition, computational notebook, advanced problem set, or modeling study |
+The curriculum includes placement, instructional progression, mastery evidence, weekly rhythm, assessment, self-study protocols, mentor roles, transcript-friendly labels, capstones, and a curated book library.
 
 > [!TIP]
-> **Do not race to calculus.** Acceleration should compress repetition—not delete arithmetic fluency, geometry, proof, or problem solving.
+> **Do not race to calculus.** Real acceleration compresses already-mastered repetition; it does not remove arithmetic fluency, geometry, proof, mathematical communication, or problem solving.
 
 ---
 
-## Stage 8 Specialization Tracks <br /> 第八阶段专业方向
+## Curriculum & Reference Systems <br /> 课程与参考体系
 
-| Track <br /> 方向 | Focus <br /> 重点 | Representative Core <br /> 代表性核心书 |
+External curricula can serve different roles: **structural spine, benchmark, content reference, examination syllabus, or credential route**. Those roles should not be confused.
+
+| System | Useful role in a homeschool architecture | Important limitation |
 |---|---|---|
-| **A — Discrete Mathematics, Computer Science & Algorithms** <br /> 离散数学、计算机与算法 | Combinatorics, recurrences, graph algorithms, computational experiments | Graham, Knuth & Patashnik — *Concrete Mathematics*; MIT — *Mathematics for Computer Science* |
-| **B — Statistics & Machine Learning** <br /> 统计与机器学习 | Statistical learning, probabilistic modeling, ML theory, implementation from first principles | Deisenroth et al. — *Mathematics for Machine Learning*; James et al. — *An Introduction to Statistical Learning*; Bishop; Murphy |
-| **C — Optimization, Variational Methods & Control** <br /> 优化、变分法与控制 | Convex optimization, numerical optimization, variational methods, optimal control | Kochenderfer & Wheeler — *Algorithms for Optimization*; Ben-Tal & Nemirovski; Gelfand & Fomin |
-| **D — Probability, Stochastic Processes & Information** <br /> 概率、随机过程与信息论 | Probability theory, random walks, Markov processes, entropy, coding | Feller; Gnedenko; Dynkin; MacKay; Yeung |
-| **E — Mathematical Physics** <br /> 数学物理 | Physics problem solving, mathematical methods, PDEs, generalized functions | Feynman; Irodov; Vladimirov; Gelfand & Shilov |
-| **F — Pure Mathematics** <br /> 纯数学 | Number theory, algebra, topology, real/complex analysis, differential geometry | Hardy & Wright; Lang; Kelley; Shilov; Mishchenko & Fomenko |
+| [Montessori](https://www.montessori.org/) | Early-childhood environment and developmental method | Not a universal credential route |
+| [IB PYP / MYP / DP](https://www.ibo.org/programmes/) | Inquiry, interdisciplinary planning, conceptual frameworks | Official programme participation/credentials are tied to IB World Schools |
+| [Singapore MOE syllabuses](https://www.moe.gov.sg/education-in-sg/our-programmes) | Strong curriculum reference and benchmarking | Independent use is not Singapore school enrollment or certification |
+| [China MOE curriculum standards](http://www.moe.gov.cn/) | Curriculum reference, especially Chinese-language study | Independent use is not Chinese school enrollment or certification |
+| [Cambridge International](https://www.cambridgeinternational.org/programmes-and-qualifications/) | Curriculum plus internationally portable examinations | Private-candidate availability depends on syllabus and accepting centre |
+| [Pearson Edexcel International](https://qualifications.pearson.com/) | International GCSE / IAL examination pathways | Entry requires an approved centre; some components create conditions |
+| Thai basic education / home education | National legal and educational framework in Thailand | Family provision must follow current Thai requirements and local implementation |
 
 ---
 
-<details>
-<summary><strong>How to Use the Book Library / 如何使用数学书库</strong></summary>
+## Qualification & Recognition Pathways <br /> 学历与认证路径
 
-The book library is **not a reading checklist**. Every book should be assigned one of five roles:
+**Credential notes last reviewed: 2026-09-06.** Always re-check before registration.
 
-| Role | Use |
-|---|---|
-| **Spine** | Main explanatory text for a stage; study sequentially and complete most core exercises. |
-| **Problem bank** | Extra exercises, challenge problems, and mixed review; sample strategically rather than reading linearly. |
-| **Proof / problem-solving laboratory** | Develop ingenuity, proof habits, and non-routine reasoning. |
-| **Enrichment / culture** | History, puzzles, biography, and conceptual reading that sustain perspective and curiosity. |
-| **Reference / advanced extension** | Consult selectively after prerequisites are secure; not required for the core sequence. |
+| Route | Can learning be prepared independently? | External arrangement required | Planning caution |
+|---|---|---|---|
+| **[Cambridge IGCSE / International AS & A Level](https://www.cambridgeinternational.org/exam-administration/private-candidates/)** | Often yes | A Cambridge centre or approved exam provider that accepts private candidates | Not every syllabus/option is available privately; coursework and practical requirements can restrict entry |
+| **[Pearson Edexcel International GCSE / International A Level](https://qualifications.pearson.com/en/support/support-for-you/students/private-candidates.html)** | Often yes | An approved centre willing and able to enter the candidate | Check subject-specific coursework, practical, speaking, endorsement, and centre requirements before study begins |
+| **[IB programmes](https://www.ibo.org/become-an-ib-school/)** | IB ideas/materials can inform independent learning | Official IB programme delivery and credentials require an authorized IB World School | Do not describe independent study as an IB programme or assume access to IB credentials |
+| **[GED — Thailand policy](https://www.ged.com/en/policies/thailand.html)** | Yes, for test preparation | Official GED testing/registration requirements | Age rules apply; institutional recognition must be checked with each receiving university or authority |
+| **[Thai family-provided basic education](https://www.obec.go.th/การขอจัดการศึกษาขั้นพื้นฐานโดยครอบครัว/)** | Yes, within the legal home-education framework | Current application, educational plan, review/assessment, and local authority processes | Verify the current OBEC guidance and the responsible education-area authority for the learner's level/location |
 
-**Operating rule:** use **one spine per major strand at a time**. More books do not automatically create more learning.
+### Four questions to keep separate <br /> 必须分开的四个问题
 
-</details>
+For every pathway, answer these independently:
 
-<details>
-<summary><strong>Placement & Mastery Gates / 定位与掌握门槛</strong></summary>
+1. **Is homeschooling / family-provided education legal for this learner in this jurisdiction?**
+2. **What curriculum will actually be taught?**
+3. **What credential or examination will be earned, and through whom?**
+4. **Will the receiving university, employer, licensing body, or government recognize it for the intended purpose?**
 
-### Placement
-
-Do **not** place by age alone. Start at the highest stage for which the learner can comfortably meet the previous stage's mastery gate. If performance is uneven, use a **4–8 week bridge** to repair only the missing prerequisites.
-
-A placement diagnostic should sample:
-
-- whole-number arithmetic, fractions, decimals, percent, ratio, estimation, and mental arithmetic;
-- linear equations, factorization, exponents, identities, inequalities, and functions;
-- Euclidean geometry, constructions, congruence/similarity, area, and elementary proof;
-- trigonometry and coordinate geometry;
-- proof techniques, sequences, combinatorics, and elementary number theory;
-- for advanced entry: limits, derivatives, integrals, matrices, vectors, and probability.
-
-### Mastery Standard
-
-- **Routine work:** normally **≥ 90%** accurate.
-- **Mixed and transfer problems:** normally **≥ 80%**.
-- **Challenge problems:** no fixed percentage; require sustained, organized attempts and learning from complete solutions.
-- A learner should be able to **explain why** a method works, not merely reproduce it.
-
-</details>
-
-<details>
-<summary><strong>Time Model & Weekly Rhythm / 时间模型与每周节奏</strong></summary>
-
-A conventional pace uses **36 study weeks per year**.
-
-| Level | Suggested Daily Study |
-|---|---:|
-| Foundation stages | 45–75 min × 5 days/week |
-| Secondary stages | 75–105 min × 5 days/week |
-| Calculus and beyond | 90–150 min × 5 days/week |
-
-Approximate time allocation:
-
-- **65–75%** active problem solving;
-- **15–25%** reading and notes;
-- **~10%** review, reflection, or oral explanation.
-
-### Recommended week
-
-| Day | Main Work |
-|---|---|
-| **Monday** | New concepts + straightforward practice |
-| **Tuesday** | Continued practice + 1–2 non-routine problems |
-| **Wednesday** | Geometry / proof / discrete strand + polished written solution |
-| **Thursday** | Mixed set + correction of errors |
-| **Friday** | Challenge session: oral problems, puzzles, history, mini-project, or mastery check |
-| **Weekend — optional** | Recreational mathematics, coding, physics application, reading, or an extended problem |
-
-</details>
-
-<details>
-<summary><strong>Assessment System / 评估体系</strong></summary>
-
-Assessment measures **durable understanding, transfer, and mathematical communication**, not merely short-term homework accuracy.
-
-### Daily
-
-- Mark work **correct / incomplete / wrong** without erasing the original attempt.
-- Maintain an **error log**: topic → error type → corrected reasoning → later retrieval problem.
-- End with one retrieval problem from an older topic.
-
-### Weekly
-
-- One mixed set without notes.
-- One polished solution to a non-routine problem.
-- One 5–10 minute oral explanation of a definition, theorem, proof idea, or solution.
-
-### Every 4–6 weeks
-
-- Closed-book mastery test with **routine + transfer + challenge** items.
-- Re-test missed prerequisites after correction.
-- Add 1–2 representative pieces to a cumulative portfolio.
-
-### Every term
-
-- Cumulative examination.
-- Oral defense of two mentor-selected solutions and one learner-selected solution.
-- Mini-project or exposition connecting mathematics to another area.
-- Written reflection on strengths, recurring errors, hardest successful problem, and next target.
-
-### Four-Dimension Mastery Rubric
-
-| Dimension | Standard |
-|---|---|
-| **Accuracy** | Computations, symbolic steps, diagrams, and conclusions are correct. |
-| **Reasoning** | Nontrivial steps are justified and the learner knows which facts are being used. |
-| **Transfer** | Methods adapt to unfamiliar problems rather than only familiar templates. |
-| **Communication** | Notation, diagrams, prose, and proof structure are clear enough for another learner to follow. |
-
-</details>
-
-<details>
-<summary><strong>Self-Study Problem-Solving Protocol / 自学习题协议</strong></summary>
-
-1. Read the problem slowly; rewrite the givens and exact target.
-2. Try small cases, diagrams, estimates, or simpler analogues.
-3. Identify relevant definitions and previously proved results.
-4. Work independently for a serious interval before seeking help: about **15 min early**, **30 min secondary**, **45–60 min advanced challenge**.
-5. If stuck, take the **smallest possible hint**, not a full solution.
-6. After seeing a solution, close it and reconstruct the argument from memory.
-7. Re-solve the problem **2–7 days later** if the key idea was new.
-8. Record reusable ideas in a **toolbox notebook**: substitutions, constructions, inequalities, invariants, transformations, proof patterns, and counterexample strategies.
-
-</details>
-
-<details>
-<summary><strong>Role of the Parent, Tutor, or Mentor / 家长、导师与教师的角色</strong></summary>
-
-- Protect study time and consistency without converting every hard problem into a lecture.
-- Ask productive questions: *What do you know? What are you trying to prove? Can you draw it? What happens in a smaller case? Which assumption have you not used?*
-- Require correction and later re-solving of significant errors.
-- Occasionally require oral solutions so understanding cannot hide behind copied work.
-- Keep the learner **slightly challenged, not permanently overwhelmed**.
-- Permit genuine acceleration, but do not skip geometry, proof, or problem solving merely to reach calculus earlier.
-- When a learner struggles, diagnose the **smallest missing prerequisite**, repair it, then return to the main course.
-
-</details>
-
-<details>
-<summary><strong>Transcript-Friendly Sequence / 成绩单课程名称</strong></summary>
-
-Families needing conventional course labels can translate the mastery stages into:
-
-1. **Mathematics I** — Arithmetic, Number Sense, and Problem Solving
-2. **Mathematics II** — Algebra I and Euclidean Geometry
-3. **Mathematics III** — Algebra II, Trigonometry, and Analytic/Solid Geometry
-4. **Mathematics IV** — Precalculus, Proof, Discrete Mathematics, and Number Theory
-5. **Mathematics V** — Calculus I and Linear Algebra
-6. **Mathematics VI** — Multivariable Calculus, Differential Equations, and Probability
-7. **Advanced Mathematics I** — Real Analysis and Advanced Linear Algebra
-8. **Advanced Mathematics II** — specialization in Machine Learning, Optimization, Probability/Information, Mathematical Physics, Discrete Mathematics, or Pure Mathematics
-
-> [!CAUTION]
-> Actual credit, transcript, and reporting rules depend on the jurisdiction, school, umbrella program, or university target. This is a **curricular architecture**, not a legal accreditation guide.
-
-</details>
-
-<details>
-<summary><strong>Capstone Milestones / 阶段性成果</strong></summary>
-
-| After Stage | Capstone |
-|---|---|
-| **1** | Design and explain a mental-arithmetic strategy collection, with estimation tests and ≥20 original word problems. |
-| **2** | Euclidean geometry portfolio with 12 polished proofs and 4 constructions. |
-| **3** | Model a real situation using algebra, trigonometry, and coordinates; validate it numerically and graphically. |
-| **4** | Complete the proof/problem portfolio and present three problems orally. |
-| **5** | Write a short exposition connecting a calculus idea to a linear-algebra idea, plus independently solved challenge problems. |
-| **6** | Modeling project using differential equations or probability, with assumptions, derivation, computation, and interpretation. |
-| **7** | Independently read theorem-centered material, reconstruct key proofs, and write a 5–10 page mathematical exposition. |
-| **8** | Substantial specialization project: research-style exposition, computational notebook, advanced problem set, or modeling study. |
-
-</details>
+A "yes" to one question does not automatically answer the others.
 
 ---
 
-## Core Mathematics Library <br /> 数学核心书库
+## Teaching & Learning <br /> 教学与学习
 
-The full bibliography is a **resource universe**. The smaller library below is enough to operate the core curriculum; other books can serve as alternatives, problem banks, enrichment, or advanced references.
+Use the least support that produces successful learning, then fade it.
 
-### Foundation & Secondary <br /> 基础与中学核心
+A reliable progression for unfamiliar material is:
 
-- Kiselev — *Arithmetic*; *Algebra Parts I–II*; *Geometry: Planimetry*; *Stereometry*; *Calculus*
-- Gelfand & Shen — *Algebra*
-- Gelfand & Saul — *Trigonometry*
-- Rybkin — *Collection of Problems in Geometry*
-- Sharygin — *Problems in Plane Geometry*
-- Rachinsky — *1001 Problems in Mental Arithmetic*
-- Borovik & Gardiner — *The Essence of Mathematics Through Elementary Problems*
-- Hammack — *Book of Proof*
-- Vilenkin — *Combinatorial Mathematics for Recreation*
-- Siklos — *Advanced Problems in Mathematics*
-- Shklarsky, Chentzov & Yaglom — *The USSR Olympiad Problem Book*
+**model → worked example → guided practice → partially faded support → independent practice → delayed retrieval → mixed application → transfer.**
 
-### University Core <br /> 大学核心
+For established knowledge, increase independent problem solving, dialogue, projects, teaching-back, writing, experimentation, and authentic use.
 
-- Apostol — *Calculus, Volumes 1–2* **or** Spivak — *Calculus* for a more proof-intensive route
-- Shilov — *Linear Algebra*
-- Halmos — *Linear Algebra Problem Book*
-- Demidovich — *Problems in Mathematical Analysis*
-- Kolmogorov & Fomin — *Introductory Real Analysis*
-- Pontryagin — *Ordinary Differential Equations*
-- Gnedenko & Khinchin — *An Elementary Introduction to the Theory of Probability*
-- Rozanov — *Introductory Probability Theory*
+### Productive struggle <br /> 有效挑战
 
-### Advanced / Specialist Core <br /> 高等与专业核心
+Difficulty is useful when the learner is still generating ideas, testing representations, checking assumptions, or narrowing possibilities. Repeating the same error without new information is not productive struggle. Give the **smallest useful hint**, repair missing prerequisites when necessary, and return responsibility to the learner.
 
-- Graham, Knuth & Patashnik — *Concrete Mathematics*
-- Deisenroth, Faisal & Ong — *Mathematics for Machine Learning*
-- James et al. — *An Introduction to Statistical Learning: With Applications in Python*
-- Bishop — *Pattern Recognition and Machine Learning*
-- Murphy — *Probabilistic Machine Learning*
-- Kochenderfer & Wheeler — *Algorithms for Optimization*
-- Ben-Tal & Nemirovski — *Lectures on Modern Convex Optimization*
-- Feynman, Leighton & Sands — *The Feynman Lectures on Physics*
-- Irodov — *Problems in General Physics*
-- MacKay — *Information Theory, Inference, and Learning Algorithms*
-- Yeung — *A First Course in Information Theory*
+---
 
-### Mathematical Culture <br /> 数学文化
+## Assessment & Evidence <br /> 评估与学习证据
 
-Use these continuously—especially when the technical program becomes demanding. Mathematics should remain a human intellectual activity, not an endless stack of exercises.
+Do not reduce mastery to one percentage or one exam.
 
-- Courant & Robbins — *What Is Mathematics?*
-- Aleksandrov, Kolmogorov & Lavrentiev — *Mathematics: Its Content, Methods and Meaning*
-- Gardner — *The Colossal Book of Mathematics*
-- Boyer & Merzbach — *A History of Mathematics*
-- Ifrah — *The Universal History of Numbers*
-- Beckmann — *A History of Pi*
-- Seife — *Zero: The Biography of a Dangerous Idea*
-- Kochina — *Love and Mathematics: Sofya Kovalevskaya*
+| Evidence layer | Purpose |
+|---|---|
+| **Diagnostic** | Locate entry point, prerequisites, misconceptions, and barriers |
+| **Formative** | Decide what to reteach, practice, scaffold, or extend next |
+| **Mastery** | Show accurate and increasingly independent performance after sufficient practice |
+| **Retention** | Demonstrate that important knowledge remains available after delay |
+| **Transfer** | Apply learning in unfamiliar problems, projects, explanations, or real situations |
+| **Portfolio** | Preserve representative artifacts, feedback, revisions, reflection, and growth |
+| **External** | Provide standardized evidence when a credential or admissions pathway requires it |
 
-### Final Operating Rule <br /> 最终运行原则
+A strong mastery judgment considers **accuracy, reasoning, retention, transfer, communication, and independence**.
 
-> **Keep the spine small, the problem supply rich, the standards for reasoning high, and the learner's curiosity alive. When in doubt, solve fewer problems more deeply, revisit mistakes, and ask for explanations that reveal structure.**
+### Suggested review rhythm <br /> 建议复盘节奏
+
+- **Daily:** brief checking, feedback, correction, retrieval.
+- **Weekly:** mixed review plus one meaningful piece of work worth discussing or preserving.
+- **Every 4–8 weeks:** cumulative check, prerequisite repair, portfolio update.
+- **Every term:** review goals, evidence, workload, wellbeing, social participation, and next-step decisions.
+- **Annually:** rebuild the plan from current learner data rather than automatically repeating last year's structure.
+
+---
+
+## Family & Learning Ecosystem <br /> 家庭与学习生态
+
+A homeschool succeeds through orchestration, not parent omniscience.
+
+Possible roles include:
+
+- **Parent / guardian:** values, safeguarding, legal responsibility, environment, relationships, long-horizon decisions.
+- **Instructor:** direct teaching where expertise and time are available.
+- **Coach:** planning, habits, feedback, metacognition, accountability, and gradual release of responsibility.
+- **Tutor / specialist:** targeted subject expertise, intervention, language support, therapy, or advanced mentorship.
+- **Community:** peers, teams, clubs, museums, libraries, laboratories, religious/civic groups, arts organizations, apprenticeships, volunteering, and workplaces.
+
+Design social development deliberately. "Socialization" is not a single activity; learners need repeated opportunities for **friendship, cooperation, conflict resolution, leadership, mixed-age interaction, mentorship, teamwork, and public contribution**.
+
+---
+
+## Technology & AI <br /> 科技与人工智能
+
+Technology should expand capability without weakening foundational learning or human accountability.
+
+Good uses of AI include:
+
+- Socratic questioning and tutoring;
+- generating additional practice after the learning goal is defined;
+- feedback on drafts while preserving learner authorship;
+- explaining alternative approaches;
+- research triage and source discovery;
+- simulation, coding, and data analysis;
+- helping a learner plan, reflect, and compare strategies.
+
+Guardrails:
+
+- build enough knowledge to **judge** tool output;
+- verify consequential claims against authoritative sources;
+- require the learner's own reasoning for assessed work;
+- protect personal and sensitive information;
+- do not let AI replace reading, writing, calculation, experimentation, discussion, or direct experience when those are the learning goals.
 
 ---
 
 ## Resources <br /> 资源
 
-| Category <br /> 类别 | Resource <br /> 资源 | Notes <br /> 备注 |
+Prefer a **small set of high-quality resources** over a large collection.
+
+| Type | Resource | Best use |
 |---|---|---|
-| Open textbooks <br /> 开放教材 | [OpenStax](https://openstax.org/) | Free, openly licensed textbooks <br /> 免费开放教材 |
-| Courses <br /> 课程 | [Khan Academy <br /> 可汗学院](https://www.khanacademy.org/) | K–12 and introductory college learning <br /> K–12 与大学基础课程 |
-| Papers <br /> 论文 | [arXiv](https://arxiv.org/) | Open research preprints <br /> 开放学术预印本 |
-| Public-domain books <br /> 公版书 | [Project Gutenberg](https://www.gutenberg.org/) | Public-domain ebooks <br /> 公版电子书 |
-| Digital library <br /> 数字图书馆 | [Internet Archive](https://archive.org/) | Books, media, and lending where available <br /> 图书、媒体及可用地区的数字借阅 |
-| Past papers <br /> 历年真题 | [Singapore School Past Papers <br /> 新加坡学校历年真题](https://freetestpaper.com/) | Third-party archive; verify against current syllabi <br /> 第三方资料；请与最新大纲核对 |
-| Live online school <br /> 同步网校 | [Astra Nova School](https://www.astranova.org/) | Online collaborative learning <br /> 在线协作式学习 |
+| Open textbooks | [OpenStax](https://openstax.org/) | Structured secondary and introductory university texts |
+| Practice & instruction | [Khan Academy](https://www.khanacademy.org/) | Explanations, practice, and diagnostic support |
+| University courses | [MIT OpenCourseWare](https://ocw.mit.edu/) | Advanced independent study and course materials |
+| Public-domain books | [Project Gutenberg](https://www.gutenberg.org/) | Literature and historical texts |
+| Digital library | [Internet Archive](https://archive.org/) | Books and media where lawful access/lending is available |
+| Research | [arXiv](https://arxiv.org/) | Preprints for advanced learners; evaluate quality and publication status carefully |
 
 > [!NOTE]
-> For copyrighted books and papers, use lawful access routes available in your jurisdiction: publishers, libraries, institutional subscriptions, author repositories, open-access copies, or legitimate lending services.
+> Prefer official examination-board syllabuses, specimen papers, past papers, examiner reports, and published guidance when preparing for formal qualifications. For copyrighted material, use lawful access routes available in your jurisdiction.
 
 ---
 
@@ -431,9 +322,28 @@ Local information for families living in or considering Chiang Mai:
 - 📅 [Chiang Mai School Calendar <br /> 清迈幼小初高学校日历](https://calendar.google.com/calendar/embed?src=33dbf34a05555c9a2755c92bdaddf8164a4822544c690ac37bdd113ff9129d90%40group.calendar.google.com&ctz=Asia%2FBangkok)
 - 🗺️ [Chiang Mai Life Map <br /> 清迈生活地图](https://www.google.com/maps/d/u/0/edit?mid=1Sm54BUI7Ddt5hjqRUktFB-sX6eiwSHQ&usp=sharing)
 
+Local listings should be treated as **decision-support information, not endorsements**. Verify current curriculum, accreditation/authorization, fees, learning support, admissions, examination services, and external-candidate policies directly.
+
 ---
 
-## Repository Structure <br /> 仓库结构
+## Governance & Maintenance <br /> 治理与维护
+
+For a living education repository, information quality matters as much as quantity.
+
+When adding or revising material:
+
+1. Prefer **official or primary sources** for law, curriculum, examinations, qualifications, authorization, and recognition.
+2. Record a **last-verified date** for time-sensitive pathway information.
+3. Distinguish **fact, recommendation, example, and personal preference**.
+4. Distinguish **curriculum, enrollment, examination entry, credential, equivalency, and recognition**.
+5. Add resources only when their **role in the architecture is clear**.
+6. Avoid rankings unless the criteria, evidence, weighting, date, and limitations are explicit.
+7. Preserve learner accessibility, family sustainability, and alternative pathways rather than optimizing for academic intensity alone.
+8. Revise recommendations when better evidence or changing circumstances justify it.
+
+---
+
+## Current Repository Structure <br /> 当前仓库结构
 
 ```text
 .
@@ -442,22 +352,37 @@ Local information for families living in or considering Chiang Mai:
 ├── lux-et-veritas.png
 ├── pathway.png
 └── content/
+    ├── mastery-mathematics.md
     └── chiang-mai-schools.md
 ```
+
+### Recommended next additions <br /> 建议下一步
+
+The highest-value expansions are:
+
+- learner-profile and annual-planning templates;
+- literacy/language-arts architecture;
+- science architecture with practical/laboratory provision;
+- humanities architecture;
+- Thailand home-education and qualification-recognition guide;
+- portfolio/transcript templates;
+- Chiang Mai community, activity, tutor, and examination-centre information.
 
 ---
 
 ## Contributing <br /> 参与完善
 
-Corrections, better primary sources, updated qualification information, curriculum improvements, book recommendations, and Chiang Mai education resources are welcome.
+Corrections, stronger primary sources, curriculum improvements, pathway updates, accessibility improvements, and local education resources are welcome.
 
-When proposing a change:
+A contribution should answer at least one of these questions:
 
-1. Prefer **official or primary sources** for curricula and qualifications.
-2. Distinguish **curriculum**, **examination**, **credential**, and **legal recognition**.
-3. For mathematics, distinguish a book's role: **spine**, **problem bank**, **proof/problem-solving laboratory**, **enrichment**, or **advanced reference**.
-4. Place additions into a coherent learning progression rather than extending a list for its own sake.
-5. Keep English and Chinese labels concise and parallel where practical.
+- What learner need or educational goal does this improve?
+- Where does it fit in the learning progression?
+- What evidence or authoritative source supports it?
+- What role does the resource play?
+- What new maintenance burden or pathway risk does it introduce?
+
+Keep English and Chinese labels concise and parallel where practical.
 
 ---
 
@@ -469,6 +394,5 @@ X: [@1arry1iu](https://x.com/1arry1iu) · 小红书: [The Larry Show](https://ww
 
 ## License <br /> 许可证
 
-This repository is licensed under the [Apache License 2.0](./LICENSE).
-
+This repository is licensed under the [Apache License 2.0](./LICENSE).  
 本仓库采用 [Apache License 2.0](./LICENSE)。
