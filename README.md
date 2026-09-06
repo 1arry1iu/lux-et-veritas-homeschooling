@@ -5,12 +5,12 @@
 # Lux et Veritas Homeschooling  
 ## 光与真理家庭学校教育
 
-**A bilingual, internationally oriented map for homeschooling, self-study, and lifelong learning.**  
-**面向家庭教育、自学与终身学习的双语国际化学习路线图。**
+**A bilingual, internationally oriented architecture for homeschooling, self-study, and lifelong learning.**  
+**面向家庭教育、自学与终身学习的双语国际化学习体系。**
 
 [Quick Start](#quick-start--快速上手) ·
 [Curriculum Pathways](#curriculum-pathways--课程路径) ·
-[Mathematics](#mathematics--数学) ·
+[Mastery Mathematics](#mastery-mathematics--掌握式数学) ·
 [Resources](#resources--资源) ·
 [Chiang Mai](#chiang-mai--清迈)
 
@@ -22,13 +22,19 @@
 
 ## About <br /> 关于
 
-**Lux et Veritas Homeschooling** is a living reference for designing an education outside a single school system. It brings together curriculum frameworks, examination and qualification routes, rigorous book-based self-study, online learning resources, and Chiang Mai–specific information in one place.
+**Lux et Veritas Homeschooling** is a living reference for designing a rigorous education outside a single school system. It brings together curriculum frameworks, examination and qualification routes, mastery-based subject study, online learning resources, and Chiang Mai–specific information in one place.
 
-**Lux et Veritas Homeschooling（光与真理家庭学校教育）** 是一个持续更新的家庭教育与自学参考框架。它把课程体系、考试与学历路径、以经典教材为核心的自主学习、在线教育资源，以及清迈本地教育信息整合到同一个学习地图中。
+**Lux et Veritas Homeschooling（光与真理家庭学校教育）** 是一个持续更新的家庭教育与自主学习框架，将课程体系、考试与学历路径、掌握式学科学习、在线资源，以及清迈本地教育信息整合在同一个学习架构中。
 
-The repository is intentionally **modular**: families and independent learners can combine elements from different systems rather than treating any one curriculum as the whole education.
+The repository is intentionally **modular**. A learner may use one curriculum as the structural spine, borrow strengths from other systems, study subjects beyond school level, and select formal credentials according to future goals.
 
-本项目强调**模块化组合**：家庭与自学者可以根据学习目标组合不同教育体系的优势，而不必把任何单一课程体系视为完整教育的唯一答案。
+本项目强调**模块化组合**：以一个体系作为主线，吸收其他体系的优势，在能力允许时超越年级学习，并根据未来升学或职业目标选择正式考试与学历路径。
+
+### Philosophy <br /> 核心理念
+
+> **Curriculum gives structure. Books give depth. Problems build mastery. Projects create transfer. Qualifications create portability. Curiosity gives the whole system a reason to exist.**
+>
+> **课程提供结构，书籍提供深度，问题训练形成掌握，项目促进迁移，学历提供可迁移性，而好奇心赋予整个学习体系意义。**
 
 > [!IMPORTANT]
 > Curriculum, examination, school-registration, and qualification-recognition rules vary by country, institution, and year. Treat the pathways below as planning references and verify current requirements with the relevant authority, examination board, school, university, or professional body.
@@ -37,25 +43,22 @@ The repository is intentionally **modular**: families and independent learners c
 
 ## Quick Start <br /> 快速上手
 
-1. **Choose the learner's current level.**  
-   确定学习者当前阶段。
-2. **Choose a primary curriculum spine.**  
-   选择一个主要课程体系作为学习主线。
-3. **Add complementary systems only where they add value.**  
-   仅在有明确价值时补充其他教育体系。
-4. **Build subject depth through books, problems, projects, and discussion.**  
-   通过教材、习题、项目和讨论建立学科深度。
-5. **Plan credentials backward from future goals.**  
-   从未来升学或职业目标反推考试与学历路径。
-6. **Review the pathway periodically.**  
-   根据学习进度、兴趣和现实要求定期调整。
+1. **Define the destination.** University, vocational route, examination qualification, independent scholarship, or a combination.  
+   **先确定目标。** 大学、职业教育、考试学历、自主学术发展，或多者结合。
+2. **Place the learner by demonstrated mastery, not age alone.**  
+   **根据真实掌握程度定位，而不是只按年龄或年级。**
+3. **Choose one primary curriculum spine.**  
+   **选择一个主要课程体系作为结构主线。**
+4. **Build subject depth with carefully chosen books, problems, projects, and discussion.**  
+   **通过精选教材、习题、项目与讨论建立学科深度。**
+5. **Use assessment diagnostically.** Repair weak prerequisites before adding harder material.  
+   **把评估当作诊断工具。** 先修复薄弱先修知识，再增加难度。
+6. **Plan credentials backward from future goals.**  
+   **从未来目标反推考试与学历路径。**
+7. **Review and redesign periodically.** A homeschool pathway should evolve with the learner.  
+   **定期复盘和重构。** 家庭教育路径应随学习者发展而变化。
 
 <img src="./pathway.png" alt="Lux et Veritas homeschooling pathway" width="900">
-
-### A simple design principle <br /> 一个简单的设计原则
-
-**Curriculum gives structure; books give depth; projects give application; qualifications give portability.**  
-**课程提供结构，书籍提供深度，项目提供应用，学历与考试提供可迁移性。**
 
 ---
 
@@ -66,7 +69,7 @@ The table below is a **menu of possible components**, not a recommendation to co
 下表是**可组合的教育模块清单**，并不意味着学习者需要完成所有项目。现实中的家庭教育通常以一个主要体系为主，再选择性吸收其他体系的优势。
 
 > [!NOTE]
-> Using a curriculum framework independently is not the same as enrollment in, authorization by, or certification from the organization that owns that framework. Where a formal credential matters, confirm the required school, examination-center, candidate-registration, and recognition arrangements in advance.
+> Using a curriculum framework independently is not the same as enrollment in, authorization by, or certification from the organization that owns that framework. Where a formal credential matters, confirm school, examination-center, candidate-registration, and recognition arrangements in advance.
 
 | Level <br /> 等级 | Curriculum / Pathway <br /> 课程体系 / 路径 | Reference System <br /> 参考学制 | Credential / Recognition Route <br /> 学历 / 认证路径 |
 |---|---|---|---|
@@ -93,9 +96,7 @@ The table below is a **menu of possible components**, not a recommendation to co
 
 These are best treated separately from school-level equivalency pathways.
 
-以下资源更适合作为大学阶段或终身学习路径，而不是中小学“同等学历”项目。
-
-| Pathway <br /> 路径 | Model <br /> 模式 | Role in the ecosystem <br /> 在学习体系中的作用 |
+| Pathway <br /> 路径 | Model <br /> 模式 | Role <br /> 作用 |
 |---|---|---|
 | [University of the People](https://www.uopeople.edu/) | Online university <br /> 在线大学 | Formal tertiary study <br /> 正规高等教育 |
 | [St. John's College Great Books Curriculum <br /> 圣约翰学院经典著作课程](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) | Great Books <br /> 经典著作 | Liberal-arts reading model <br /> 博雅教育阅读框架 |
@@ -103,67 +104,305 @@ These are best treated separately from school-level equivalency pathways.
 
 ---
 
-## Mathematics <br /> 数学
+# Mastery Mathematics <br /> 掌握式数学
 
-### How to use this roadmap <br /> 如何使用本路线图
+### A Self-Study & Homeschool Curriculum from Arithmetic to Advanced Mathematics  
+### 从算术到高等数学的自学与家庭教育课程
 
-The mathematics list is organized by **intellectual stage rather than school grade**. It is designed for mastery-based self-study: move forward when prerequisite ideas and problem-solving skills are secure, not merely when a calendar says to do so.
+**Mastery Mathematics** is the default mathematics architecture for Lux et Veritas. It turns a large mathematics library into a usable sequence for a motivated self-learner, homeschool family, tutor, or small learning pod that wants **mathematical depth rather than a checklist of school topics**.
 
-数学书单按**知识与思维阶段，而不是学校年级**组织。它更适合掌握式学习：当先修知识和解题能力真正稳固后再前进，而不是机械地按照年龄或学年推进。
+The route is mastery-based. A learner advances when prerequisite ideas, techniques, proof habits, and problem-solving behaviors are secure—not merely because a school year has ended.
 
-A sensible progression is:
+**Core progression:**
 
-**Curiosity → Foundations → Olympiad/problem solving → Calculus & linear algebra → Analysis → Algebra/probability/topology → Mathematical physics/ML → Metamathematics**
+> **Arithmetic & number sense → Algebra + Euclidean geometry → Algebra II + trigonometry + analytic/solid geometry → Proof + discrete mathematics + number theory → Calculus + linear algebra → Multivariable calculus + differential equations + probability → Rigorous analysis → Specialization**
 
-**兴趣 → 基础 → 奥数/问题解决 → 微积分与线性代数 → 数学分析 → 代数/概率/拓扑 → 数学物理/机器学习 → 元数学**
+This sequence is intentionally more ambitious than a conventional minimum-requirement school curriculum. It may be **slowed down, compressed, or entered midway after placement**.
+
+---
+
+## Mathematical Design Principles <br /> 数学课程设计原则
+
+1. **Mastery before acceleration.** Add new material only when representative problems can be solved independently and the learner can explain why the methods work.
+2. **Problems are the main activity.** Reading mathematics prepares the learner to *do* mathematics; most time goes to solving, proving, checking, revising, and explaining.
+3. **Algebra and geometry grow together.** Geometry develops proof, visualization, construction, and mathematical taste and should not be postponed.
+4. **Proof begins early.** Explanation, counterexample, induction, contradiction, invariants, and Euclidean argument develop gradually rather than appearing suddenly at university.
+5. **Depth beats book completion.** Finishing every page of every book is neither required nor desirable.
+6. **Difficulty is layered.** Each stage should contain fluent work, stretching work, and a small amount of genuinely difficult work.
+7. **Mixed review is permanent.** Previously mastered ideas return in weekly mixed sets.
+8. **Mathematical communication counts.** Solutions state assumptions, define symbols, show reasoning, and distinguish proof from numerical evidence.
+9. **Technology is a tool, not a substitute.** Mental arithmetic, estimation, symbolic fluency, graph sketching, and hand derivation come before routine technological dependence.
+10. **Curiosity is protected.** Puzzles, history, biography, recreational mathematics, and open-ended investigation belong inside the curriculum.
+
+---
+
+## The Eight-Stage Pathway <br /> 八阶段学习路径
+
+| Stage <br /> 阶段 | Typical Duration <br /> 典型时长 | Core <br /> 核心内容 | Primary Spines <br /> 主教材 | Exit Evidence <br /> 阶段完成证据 |
+|---|---:|---|---|---|
+| **1 — Arithmetic, Number Sense & Mathematical Habits** <br /> 算术、数感与数学习惯 | 32–40 weeks | Integers, fractions, decimals, ratio, percent, estimation, divisibility, word problems, early variables | Kiselev — *Arithmetic*; Berezanskaya — *Arithmetic—Problems and Exercises* | Accurate mixed fraction/ratio/percent work; strong estimation; multi-step problems; sustained independent attack on unfamiliar problems |
+| **2 — Algebra I + Euclidean Geometry I** <br /> 代数 I + 欧氏几何 I | 36–44 weeks | Expressions, equations, inequalities, systems, polynomials, factorization, functions, congruence, similarity, circles, area, proof | Gelfand & Shen — *Algebra*; Kiselev — *Geometry: Planimetry* | Algebraic fluency plus correct multi-step Euclidean proofs; can select relevant theorems independently |
+| **3 — Algebra II, Trigonometry, Coordinate & Solid Geometry** <br /> 代数 II、三角、解析与立体几何 | 36–44 weeks | Quadratics, rational/radical equations, logs/exponentials, trig, vectors, coordinates, stereometry | Kiselev — *Algebra II*; Gelfand & Saul — *Trigonometry*; Kiselev — *Stereometry*; Pogorelov / Yefimov — analytic geometry | Moves fluently among symbolic, graphical, geometric, and verbal representations; chooses strategies in mixed problems |
+| **4 — Proof, Discrete Mathematics, Number Theory & Precalculus Maturity** <br /> 证明、离散数学、数论与大学数学衔接 | 32–40 weeks | Logic, sets, quantifiers, proof methods, counting, induction, invariants, congruences, Diophantine equations, sequences, inequalities | Hammack — *Book of Proof*; Borovik & Gardiner — *The Essence of Mathematics Through Elementary Problems*; Vilenkin — *Combinatorial Mathematics for Recreation*; MIT — *Mathematics for Computer Science* (selected) | **10-problem proof portfolio** with induction, number theory, combinatorics, geometry, and open-choice problems |
+| **5 — Single-Variable Calculus + Linear Algebra** <br /> 单变量微积分 + 线性代数 | 40–48 weeks | Limits, continuity, derivatives, integration, Taylor approximation, vector spaces, transformations, eigenvalues | Apostol — *Calculus, Vol. 1* **or** Spivak — *Calculus*; Shilov — *Linear Algebra* | Mixed closed-book calculus performance; explains theorem hypotheses; constructs counterexamples; uses linear algebra conceptually |
+| **6 — Multivariable Calculus, Vector Analysis, Differential Equations & Probability** <br /> 多变量微积分、向量分析、微分方程与概率 | 40–52 weeks | Partial derivatives, multiple integrals, vector fields, integral theorems, ODEs, random variables, expectation, distributions, LLN/CLT ideas | Apostol — *Calculus, Vol. 2*; Krasnov et al. — *Vector Analysis*; Pontryagin — *Ordinary Differential Equations*; Gnedenko & Khinchin → Rozanov — probability | Integrated mathematical modeling connecting calculus, linear algebra, differential equations, and probability |
+| **7 — Rigorous Analysis & Advanced Mathematical Core** <br /> 严格分析与高等数学核心 | 1–2 years | Epsilon-delta analysis, sequences/series, compactness, completeness, abstract structures, advanced matrices, algebra/topology extensions | Kolmogorov & Fomin — *Introductory Real Analysis*; Rudin — *Principles of Mathematical Analysis*; selected advanced companions | Can learn theorem-centered material independently: definitions → examples → theorem → reconstructed proof → examples/counterexamples |
+| **8 — Specialization** <br /> 专业方向 | Flexible | Choose one primary advanced track and optionally one secondary track | Track-dependent | Substantial specialization project: research-style exposition, computational notebook, advanced problem set, or modeling study |
 
 > [!TIP]
-> Do not read every book cover to cover. Use one text as the **spine**, another as a **second explanation**, and problem books as **deliberate practice**.
+> **Do not race to calculus.** Acceleration should compress repetition—not delete arithmetic fluency, geometry, proof, or problem solving.
 
-| Stage <br /> 阶段 | Subject <br /> 科目 | Author and Title <br /> 作者和书名 |
+---
+
+## Stage 8 Specialization Tracks <br /> 第八阶段专业方向
+
+| Track <br /> 方向 | Focus <br /> 重点 | Representative Core <br /> 代表性核心书 |
 |---|---|---|
-| 0 <br /> Curiosity <br /> 兴趣 | General <br /> 通用 | Perelman — *Mathematics Can Be Fun* <br /> Perelman — *Fun with Maths and Physics* <br /> Kordemsky — *The Moscow Puzzles* <br /> Gardner — *The Colossal Book of Mathematics* <br /> Tahan — *The Man Who Counted* <br /> Seife — *Zero: The Biography of a Dangerous Idea* |
-| | History <br /> 数学史 | Boyer — *A History of Mathematics* <br /> Ifrah — *Universal History of Numbers* <br /> Cohen — *Triumph of Numbers* |
-| 1 <br /> Foundations <br /> 基础 | Arithmetic <br /> 算术 | Kiselev — *Arithmetic* <br /> Vygodsky — *Mathematical Handbook* <br /> Lidsky et al. — *Problems in Elementary Mathematics* |
-| | Algebra <br /> 代数 | Kiselev — *Algebra* <br /> Gelfand & Shen — *Algebra* <br /> Mordkovich — *Solving Problems in Algebra and Trigonometry* <br /> Kostrikin — *Introduction to Algebra* |
-| | Geometry <br /> 几何 | Shuvalova — *Geometry* <br /> Sharygin — *Problems in Plane Geometry* <br /> Modenov — *Problems in Geometry* <br /> Gusev — *Solving Problems in Geometry* |
-| | Trigonometry <br /> 三角函数 | Panchishkin — *Trigonometric Functions* |
-| | Mathematical Thinking <br /> 数学思维 | Hammack — *Book of Proof* |
-| | Problems <br /> 习题 | Lidsky — *Problems in Elementary Mathematics* <br /> Steinhaus — *One Hundred Problems in Elementary Mathematics* <br /> Tsypkin — *Methods of Solving Problems in High School Mathematics* |
-| 2 <br /> Olympiad <br /> 奥数 | Core <br /> 核心 | Shklarsky — *The USSR Olympiad Problem Book* <br /> Yaglom — *Challenging Mathematical Problems* <br /> Straszewicz — *Mathematical Problems from Polish Olympiads* |
-| | Combinatorics <br /> 组合 | Vilenkin — *Combinatorial Mathematics for Recreation* <br /> Gelfand — *Sequences, Combinations, Limits* |
-| | Number Theory <br /> 数论 | Sierpinski — *250 Problems in Elementary Number Theory* |
-| | Inequalities <br /> 不等式 | Korovkin — *Inequalities* |
-| 3 <br /> Advanced I <br /> 高等数学 I | Calculus <br /> 微积分 | Thompson — *Calculus Made Easy* <br /> Spivak — *Calculus* <br /> Apostol — *Calculus* <br /> Leib — *Problems in the Calculus* <br /> Gelfand — *Learn Limits Through Problems* |
-| | Linear Algebra <br /> 线性代数 | Nicholson — *Linear Algebra with Applications* <br /> Shilov — *Linear Algebra* <br /> Voyevodin — *Linear Algebra* <br /> Halmos — *Linear Algebra Problem Book* <br /> Proskuryakov — *Problems in Linear Algebra* <br /> Ikramov — *Linear Algebra Problems* |
-| | Analytic Geometry <br /> 解析几何 | Pogorelov — *Analytic Geometry* <br /> Kletenik — *Problems in Analytic Geometry* |
-| 4 <br /> Analysis <br /> 数学分析 | Bridge <br /> 衔接 | Kolmogorov & Fomin — *Introductory Real Analysis* <br /> Bermant — *Mathematical Analysis* |
-| | Core <br /> 核心 | Rudin — *Principles of Mathematical Analysis* <br /> Hardy — *A Course of Pure Mathematics* <br /> Nikolsky — *A Course of Mathematical Analysis* <br /> Ilyin & Poznyak — *Mathematical Analysis* |
-| | Problems <br /> 习题 | Butuzov — *Mathematical Analysis in Questions and Problems* <br /> Berman — *Problems in Mathematical Analysis* |
-| 5 <br /> Advanced II <br /> 高等数学 II | Abstract Algebra <br /> 抽象代数 | Kurosh — *Higher Algebra* <br /> Lang — *Algebra* |
-| | Matrices <br /> 矩阵 | Gantmacher — *The Theory of Matrices* |
-| | Number Theory <br /> 数论 | Hardy & Wright — *An Introduction to the Theory of Numbers* <br /> Vinogradov — *Elements of Number Theory* |
-| | Discrete Mathematics <br /> 离散数学 | MIT — *Mathematics for Computer Science* <br /> Knuth — *Concrete Mathematics* |
-| | Logic <br /> 逻辑学 | Ershov — *Mathematical Logic* |
-| 6 <br /> Probability & Statistics <br /> 概率与统计 | Intro <br /> 入门 | Tarasov — *The World Is Built on Probability* <br /> Freund — *Introduction to Probability* <br /> Uspensky — *Introduction to Mathematical Probability* |
-| | Rigorous Probability <br /> 严格概率 | Kolmogorov — *Foundations of the Theory of Probability* <br /> Gnedenko — *Theory of Probability* <br /> Feller — *An Introduction to Probability Theory and Its Applications* |
-| | Advanced Probability <br /> 高等概率 | Lamperti — *Probability: A Survey of the Mathematical Theory* <br /> Breiman — *Probability* |
-| | Specialized <br /> 专题 | Markov — *Calculus of Probabilities* <br /> Dynkin — *Markov Processes* |
-| 7 <br /> Advanced Analysis <br /> 高等分析 | Measure Theory <br /> 测度论 | Kolmogorov & Fomin — *Measure and Hilbert Space* |
-| | Fourier Analysis <br /> 傅里叶分析 | Tolstov — *Fourier Series* |
-| | Differential Equations <br /> 微分方程 | Pontryagin — *Ordinary Differential Equations* <br /> Elsgolts — *Differential Equations* |
-| | Calculus of Variations <br /> 变分法 | Gelfand & Fomin — *Calculus of Variations* |
-| | Functional Analysis <br /> 泛函分析 | Shilov — *Measure and Derivative* |
-| 8 <br /> Topology <br /> 拓扑 | Differential Geometry <br /> 微分几何 | Mishchenko & Fomenko — *Differential Geometry* |
-| | Topology <br /> 拓扑 | Borisovich — *Introduction to Topology* <br /> Kelley — *General Topology* |
-| | Geometric Transformations <br /> 几何变换 | Yaglom — *Geometric Transformations* |
-| 9 <br /> Mathematical Physics <br /> 数学物理 | Mathematical Physics <br /> 数学物理 | Vladimirov — *Equations of Mathematical Physics* |
-| | Analytical Mechanics <br /> 分析力学 | Gantmacher — *Analytical Mechanics* |
-| | Physics Core <br /> 物理核心 | Irodov — *Problems in General Physics* <br /> Feynman — *The Feynman Lectures on Physics* |
-| 10 <br /> Machine Learning <br /> 机器学习 | Machine Learning <br /> 机器学习 | Deisenroth et al. — *Mathematics for Machine Learning* <br /> Bishop — *Pattern Recognition and Machine Learning* <br /> Murphy — *Probabilistic Machine Learning* |
-| | Optimization <br /> 优化 | MIT — *Algorithms for Optimization* <br /> Nemirovski — *Convex Optimization* |
-| | Information Theory <br /> 信息论 | MacKay — *Information Theory, Inference, and Learning Algorithms* |
-| 11 <br /> Metamathematics <br /> 元数学 | Metamathematics <br /> 元数学 | Aleksandrov et al. — *Mathematics: Its Content, Methods and Meaning* <br /> Khrennikov — *Interpretations of Probability* <br /> Keynes — *A Treatise on Probability* |
+| **A — Discrete Mathematics, Computer Science & Algorithms** <br /> 离散数学、计算机与算法 | Combinatorics, recurrences, graph algorithms, computational experiments | Graham, Knuth & Patashnik — *Concrete Mathematics*; MIT — *Mathematics for Computer Science* |
+| **B — Statistics & Machine Learning** <br /> 统计与机器学习 | Statistical learning, probabilistic modeling, ML theory, implementation from first principles | Deisenroth et al. — *Mathematics for Machine Learning*; James et al. — *An Introduction to Statistical Learning*; Bishop; Murphy |
+| **C — Optimization, Variational Methods & Control** <br /> 优化、变分法与控制 | Convex optimization, numerical optimization, variational methods, optimal control | Kochenderfer & Wheeler — *Algorithms for Optimization*; Ben-Tal & Nemirovski; Gelfand & Fomin |
+| **D — Probability, Stochastic Processes & Information** <br /> 概率、随机过程与信息论 | Probability theory, random walks, Markov processes, entropy, coding | Feller; Gnedenko; Dynkin; MacKay; Yeung |
+| **E — Mathematical Physics** <br /> 数学物理 | Physics problem solving, mathematical methods, PDEs, generalized functions | Feynman; Irodov; Vladimirov; Gelfand & Shilov |
+| **F — Pure Mathematics** <br /> 纯数学 | Number theory, algebra, topology, real/complex analysis, differential geometry | Hardy & Wright; Lang; Kelley; Shilov; Mishchenko & Fomenko |
+
+---
+
+<details>
+<summary><strong>How to Use the Book Library / 如何使用数学书库</strong></summary>
+
+The book library is **not a reading checklist**. Every book should be assigned one of five roles:
+
+| Role | Use |
+|---|---|
+| **Spine** | Main explanatory text for a stage; study sequentially and complete most core exercises. |
+| **Problem bank** | Extra exercises, challenge problems, and mixed review; sample strategically rather than reading linearly. |
+| **Proof / problem-solving laboratory** | Develop ingenuity, proof habits, and non-routine reasoning. |
+| **Enrichment / culture** | History, puzzles, biography, and conceptual reading that sustain perspective and curiosity. |
+| **Reference / advanced extension** | Consult selectively after prerequisites are secure; not required for the core sequence. |
+
+**Operating rule:** use **one spine per major strand at a time**. More books do not automatically create more learning.
+
+</details>
+
+<details>
+<summary><strong>Placement & Mastery Gates / 定位与掌握门槛</strong></summary>
+
+### Placement
+
+Do **not** place by age alone. Start at the highest stage for which the learner can comfortably meet the previous stage's mastery gate. If performance is uneven, use a **4–8 week bridge** to repair only the missing prerequisites.
+
+A placement diagnostic should sample:
+
+- whole-number arithmetic, fractions, decimals, percent, ratio, estimation, and mental arithmetic;
+- linear equations, factorization, exponents, identities, inequalities, and functions;
+- Euclidean geometry, constructions, congruence/similarity, area, and elementary proof;
+- trigonometry and coordinate geometry;
+- proof techniques, sequences, combinatorics, and elementary number theory;
+- for advanced entry: limits, derivatives, integrals, matrices, vectors, and probability.
+
+### Mastery Standard
+
+- **Routine work:** normally **≥ 90%** accurate.
+- **Mixed and transfer problems:** normally **≥ 80%**.
+- **Challenge problems:** no fixed percentage; require sustained, organized attempts and learning from complete solutions.
+- A learner should be able to **explain why** a method works, not merely reproduce it.
+
+</details>
+
+<details>
+<summary><strong>Time Model & Weekly Rhythm / 时间模型与每周节奏</strong></summary>
+
+A conventional pace uses **36 study weeks per year**.
+
+| Level | Suggested Daily Study |
+|---|---:|
+| Foundation stages | 45–75 min × 5 days/week |
+| Secondary stages | 75–105 min × 5 days/week |
+| Calculus and beyond | 90–150 min × 5 days/week |
+
+Approximate time allocation:
+
+- **65–75%** active problem solving;
+- **15–25%** reading and notes;
+- **~10%** review, reflection, or oral explanation.
+
+### Recommended week
+
+| Day | Main Work |
+|---|---|
+| **Monday** | New concepts + straightforward practice |
+| **Tuesday** | Continued practice + 1–2 non-routine problems |
+| **Wednesday** | Geometry / proof / discrete strand + polished written solution |
+| **Thursday** | Mixed set + correction of errors |
+| **Friday** | Challenge session: oral problems, puzzles, history, mini-project, or mastery check |
+| **Weekend — optional** | Recreational mathematics, coding, physics application, reading, or an extended problem |
+
+</details>
+
+<details>
+<summary><strong>Assessment System / 评估体系</strong></summary>
+
+Assessment measures **durable understanding, transfer, and mathematical communication**, not merely short-term homework accuracy.
+
+### Daily
+
+- Mark work **correct / incomplete / wrong** without erasing the original attempt.
+- Maintain an **error log**: topic → error type → corrected reasoning → later retrieval problem.
+- End with one retrieval problem from an older topic.
+
+### Weekly
+
+- One mixed set without notes.
+- One polished solution to a non-routine problem.
+- One 5–10 minute oral explanation of a definition, theorem, proof idea, or solution.
+
+### Every 4–6 weeks
+
+- Closed-book mastery test with **routine + transfer + challenge** items.
+- Re-test missed prerequisites after correction.
+- Add 1–2 representative pieces to a cumulative portfolio.
+
+### Every term
+
+- Cumulative examination.
+- Oral defense of two mentor-selected solutions and one learner-selected solution.
+- Mini-project or exposition connecting mathematics to another area.
+- Written reflection on strengths, recurring errors, hardest successful problem, and next target.
+
+### Four-Dimension Mastery Rubric
+
+| Dimension | Standard |
+|---|---|
+| **Accuracy** | Computations, symbolic steps, diagrams, and conclusions are correct. |
+| **Reasoning** | Nontrivial steps are justified and the learner knows which facts are being used. |
+| **Transfer** | Methods adapt to unfamiliar problems rather than only familiar templates. |
+| **Communication** | Notation, diagrams, prose, and proof structure are clear enough for another learner to follow. |
+
+</details>
+
+<details>
+<summary><strong>Self-Study Problem-Solving Protocol / 自学习题协议</strong></summary>
+
+1. Read the problem slowly; rewrite the givens and exact target.
+2. Try small cases, diagrams, estimates, or simpler analogues.
+3. Identify relevant definitions and previously proved results.
+4. Work independently for a serious interval before seeking help: about **15 min early**, **30 min secondary**, **45–60 min advanced challenge**.
+5. If stuck, take the **smallest possible hint**, not a full solution.
+6. After seeing a solution, close it and reconstruct the argument from memory.
+7. Re-solve the problem **2–7 days later** if the key idea was new.
+8. Record reusable ideas in a **toolbox notebook**: substitutions, constructions, inequalities, invariants, transformations, proof patterns, and counterexample strategies.
+
+</details>
+
+<details>
+<summary><strong>Role of the Parent, Tutor, or Mentor / 家长、导师与教师的角色</strong></summary>
+
+- Protect study time and consistency without converting every hard problem into a lecture.
+- Ask productive questions: *What do you know? What are you trying to prove? Can you draw it? What happens in a smaller case? Which assumption have you not used?*
+- Require correction and later re-solving of significant errors.
+- Occasionally require oral solutions so understanding cannot hide behind copied work.
+- Keep the learner **slightly challenged, not permanently overwhelmed**.
+- Permit genuine acceleration, but do not skip geometry, proof, or problem solving merely to reach calculus earlier.
+- When a learner struggles, diagnose the **smallest missing prerequisite**, repair it, then return to the main course.
+
+</details>
+
+<details>
+<summary><strong>Transcript-Friendly Sequence / 成绩单课程名称</strong></summary>
+
+Families needing conventional course labels can translate the mastery stages into:
+
+1. **Mathematics I** — Arithmetic, Number Sense, and Problem Solving
+2. **Mathematics II** — Algebra I and Euclidean Geometry
+3. **Mathematics III** — Algebra II, Trigonometry, and Analytic/Solid Geometry
+4. **Mathematics IV** — Precalculus, Proof, Discrete Mathematics, and Number Theory
+5. **Mathematics V** — Calculus I and Linear Algebra
+6. **Mathematics VI** — Multivariable Calculus, Differential Equations, and Probability
+7. **Advanced Mathematics I** — Real Analysis and Advanced Linear Algebra
+8. **Advanced Mathematics II** — specialization in Machine Learning, Optimization, Probability/Information, Mathematical Physics, Discrete Mathematics, or Pure Mathematics
+
+> [!CAUTION]
+> Actual credit, transcript, and reporting rules depend on the jurisdiction, school, umbrella program, or university target. This is a **curricular architecture**, not a legal accreditation guide.
+
+</details>
+
+<details>
+<summary><strong>Capstone Milestones / 阶段性成果</strong></summary>
+
+| After Stage | Capstone |
+|---|---|
+| **1** | Design and explain a mental-arithmetic strategy collection, with estimation tests and ≥20 original word problems. |
+| **2** | Euclidean geometry portfolio with 12 polished proofs and 4 constructions. |
+| **3** | Model a real situation using algebra, trigonometry, and coordinates; validate it numerically and graphically. |
+| **4** | Complete the proof/problem portfolio and present three problems orally. |
+| **5** | Write a short exposition connecting a calculus idea to a linear-algebra idea, plus independently solved challenge problems. |
+| **6** | Modeling project using differential equations or probability, with assumptions, derivation, computation, and interpretation. |
+| **7** | Independently read theorem-centered material, reconstruct key proofs, and write a 5–10 page mathematical exposition. |
+| **8** | Substantial specialization project: research-style exposition, computational notebook, advanced problem set, or modeling study. |
+
+</details>
+
+---
+
+## Core Mathematics Library <br /> 数学核心书库
+
+The full bibliography is a **resource universe**. The smaller library below is enough to operate the core curriculum; other books can serve as alternatives, problem banks, enrichment, or advanced references.
+
+### Foundation & Secondary <br /> 基础与中学核心
+
+- Kiselev — *Arithmetic*; *Algebra Parts I–II*; *Geometry: Planimetry*; *Stereometry*; *Calculus*
+- Gelfand & Shen — *Algebra*
+- Gelfand & Saul — *Trigonometry*
+- Rybkin — *Collection of Problems in Geometry*
+- Sharygin — *Problems in Plane Geometry*
+- Rachinsky — *1001 Problems in Mental Arithmetic*
+- Borovik & Gardiner — *The Essence of Mathematics Through Elementary Problems*
+- Hammack — *Book of Proof*
+- Vilenkin — *Combinatorial Mathematics for Recreation*
+- Siklos — *Advanced Problems in Mathematics*
+- Shklarsky, Chentzov & Yaglom — *The USSR Olympiad Problem Book*
+
+### University Core <br /> 大学核心
+
+- Apostol — *Calculus, Volumes 1–2* **or** Spivak — *Calculus* for a more proof-intensive route
+- Shilov — *Linear Algebra*
+- Halmos — *Linear Algebra Problem Book*
+- Demidovich — *Problems in Mathematical Analysis*
+- Kolmogorov & Fomin — *Introductory Real Analysis*
+- Pontryagin — *Ordinary Differential Equations*
+- Gnedenko & Khinchin — *An Elementary Introduction to the Theory of Probability*
+- Rozanov — *Introductory Probability Theory*
+
+### Advanced / Specialist Core <br /> 高等与专业核心
+
+- Graham, Knuth & Patashnik — *Concrete Mathematics*
+- Deisenroth, Faisal & Ong — *Mathematics for Machine Learning*
+- James et al. — *An Introduction to Statistical Learning: With Applications in Python*
+- Bishop — *Pattern Recognition and Machine Learning*
+- Murphy — *Probabilistic Machine Learning*
+- Kochenderfer & Wheeler — *Algorithms for Optimization*
+- Ben-Tal & Nemirovski — *Lectures on Modern Convex Optimization*
+- Feynman, Leighton & Sands — *The Feynman Lectures on Physics*
+- Irodov — *Problems in General Physics*
+- MacKay — *Information Theory, Inference, and Learning Algorithms*
+- Yeung — *A First Course in Information Theory*
+
+### Mathematical Culture <br /> 数学文化
+
+Use these continuously—especially when the technical program becomes demanding. Mathematics should remain a human intellectual activity, not an endless stack of exercises.
+
+- Courant & Robbins — *What Is Mathematics?*
+- Aleksandrov, Kolmogorov & Lavrentiev — *Mathematics: Its Content, Methods and Meaning*
+- Gardner — *The Colossal Book of Mathematics*
+- Boyer & Merzbach — *A History of Mathematics*
+- Ifrah — *The Universal History of Numbers*
+- Beckmann — *A History of Pi*
+- Seife — *Zero: The Biography of a Dangerous Idea*
+- Kochina — *Love and Mathematics: Sofya Kovalevskaya*
+
+### Final Operating Rule <br /> 最终运行原则
+
+> **Keep the spine small, the problem supply rich, the standards for reasoning high, and the learner's curiosity alive. When in doubt, solve fewer problems more deeply, revisit mistakes, and ask for explanations that reveal structure.**
 
 ---
 
@@ -210,16 +449,15 @@ Local information for families living in or considering Chiang Mai:
 
 ## Contributing <br /> 参与完善
 
-Corrections, better primary sources, updated qualification information, book recommendations, and Chiang Mai education resources are welcome.
-
-欢迎提交勘误、权威来源、最新考试与学历信息、优秀书目，以及清迈教育资源。
+Corrections, better primary sources, updated qualification information, curriculum improvements, book recommendations, and Chiang Mai education resources are welcome.
 
 When proposing a change:
 
 1. Prefer **official or primary sources** for curricula and qualifications.
 2. Distinguish **curriculum**, **examination**, **credential**, and **legal recognition**.
-3. Give book recommendations a clear place in the learning progression.
-4. Keep English and Chinese labels concise and parallel where practical.
+3. For mathematics, distinguish a book's role: **spine**, **problem bank**, **proof/problem-solving laboratory**, **enrichment**, or **advanced reference**.
+4. Place additions into a coherent learning progression rather than extending a list for its own sake.
+5. Keep English and Chinese labels concise and parallel where practical.
 
 ---
 
